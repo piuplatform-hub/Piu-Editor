@@ -7,5 +7,6 @@
 - Repo Git gọn: source upstream tải riêng theo commit khóa; media, dependency và dữ liệu máy bị ignore; thư mục giữ bằng `.gitkeep`.
 - Một lệnh bootstrap cả bộ hoặc chọn công cụ, giữ source local đã có và metadata Git ngoài `repos/`.
 - Validator tách kiểm tra repo, source đã tải và media trên máy; kiểm tra Git index trước publish; fixtures và CI Windows/Linux.
+- Actions chính chủ được khóa SHA dùng Node 24 sau khi runner cảnh báo Node 20 đã ngừng hỗ trợ; checkout không giữ credential.
 
 Giới hạn: chưa có ứng dụng render chung; chưa xác nhận tái dựng trọn TVC từ clone sạch; QA của ca TVC chưa bao gồm trợ lý nghe audio hoặc xem playback liên tục.
