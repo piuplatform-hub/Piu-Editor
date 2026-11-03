@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "tvc-driving-premium",
+  "title": "TVC - Premium Driving Experience",
+  "createdAt": "2026-11-03T09:45:07.813589+00:00",
+  "status": "complete",
+  "engine": "remotion",
+  "selectedTools": [
+    "remotion",
+    "remotion-skills",
+    "gsap",
+    "gsap-skills",
+    "ffmpeg"
+  ],
+  "sourceRoots": [
+    "Source"
+  ],
+  "brief": "projects/tvc-driving-premium/brief.md",
+  "assetManifest": "projects/tvc-driving-premium/assets.json",
+  "paths": {
+    "source": "projects/tvc-driving-premium/src",
+    "working": "projects/tvc-driving-premium/working",
+    "previews": "projects/tvc-driving-premium/previews",
+    "notes": "projects/tvc-driving-premium/notes",
+    "output": "output/tvc-driving-premium"
+  },
+  "preset": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "durationSeconds": 40.625,
+    "container": "mp4",
+    "assumptions": [
+      "16:9 theo footage goc; thoi luong khoang 40.6 giay; khong voice-over; ten trung tam doc tu bien hieu trong footage; khong tu them hotline/website."
+    ]
+  },
+  "deliverables": [
+    "output/tvc-driving-premium/yen-thanh-tvc-v001.mp4",
+    "output/tvc-driving-premium/yen-thanh-soundtrack-v001.wav",
+    "output/tvc-driving-premium/yen-thanh-tvc-poster.jpg",
+    "output/tvc-driving-premium/delivery.md",
+    "output/tvc-driving-premium/yen-thanh-tvc-v003.mp4",
+    "output/tvc-driving-premium/yen-thanh-soundtrack-v003.wav",
+    "output/tvc-driving-premium/yen-thanh-tvc-v003-poster.jpg",
+    "output/tvc-driving-premium/yen-thanh-v003-contact.jpg",
+    "output/tvc-driving-premium/delivery-v003.md",
+    "output/tvc-driving-premium/yen-thanh-tvc-v004.mp4",
+    "output/tvc-driving-premium/yen-thanh-soundtrack-v004.wav",
+    "output/tvc-driving-premium/yen-thanh-tvc-v004-poster.jpg",
+    "output/tvc-driving-premium/yen-thanh-v004-text-before-after.jpg",
+    "output/tvc-driving-premium/yen-thanh-v004-contact.jpg",
+    "output/tvc-driving-premium/delivery-v004.md"
+  ],
+  "activeVersion": "v004",
+  "lastRenderedVersion": "v004",
+  "updatedAt": "2026-11-03T14:13:21.004610+00:00"
+}

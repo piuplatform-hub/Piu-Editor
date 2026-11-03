@@ -1,0 +1,146 @@
+{
+  "version": "v003",
+  "fps": 24,
+  "width": 1920,
+  "height": 1080,
+  "totalFrames": 975,
+  "bpm": 124,
+  "musicStart": 38.07,
+  "shots": [
+    {
+      "id": "opening",
+      "start": 0,
+      "end": 93,
+      "clip": 2,
+      "sourceStart": 0.5,
+      "chapter": "TỰ TIN TỪ KHỞI ĐẦU"
+    },
+    {
+      "id": "brand",
+      "start": 93,
+      "end": 186,
+      "clip": 3,
+      "sourceStart": 0.4,
+      "chapter": "YÊN THÀNH"
+    },
+    {
+      "id": "knowledge",
+      "start": 186,
+      "end": 302,
+      "clip": 4,
+      "sourceStart": 0.6,
+      "chapter": "VỮNG KIẾN THỨC"
+    },
+    {
+      "id": "simulation",
+      "start": 302,
+      "end": 372,
+      "clip": 0,
+      "sourceStart": 0.8,
+      "chapter": "HIỂU ĐÚNG"
+    },
+    {
+      "id": "cabin",
+      "start": 372,
+      "end": 488,
+      "clip": 5,
+      "sourceStart": 1.4,
+      "chapter": "RÈN TỪNG THAO TÁC"
+    },
+    {
+      "id": "fleet",
+      "start": 488,
+      "end": 581,
+      "clip": 1,
+      "sourceStart": 2.1,
+      "chapter": "SẴN SÀNG CẦM LÁI"
+    },
+    {
+      "id": "practice",
+      "start": 581,
+      "end": 674,
+      "clip": 6,
+      "sourceStart": 2.4,
+      "chapter": "TỰ TIN TIẾN BƯỚC"
+    },
+    {
+      "id": "montage-car",
+      "start": 674,
+      "end": 720,
+      "clip": 2,
+      "sourceStart": 4.2,
+      "chapter": "MONTAGE"
+    },
+    {
+      "id": "montage-cabin",
+      "start": 720,
+      "end": 743,
+      "clip": 5,
+      "sourceStart": 5.2,
+      "chapter": "MONTAGE"
+    },
+    {
+      "id": "montage-class",
+      "start": 743,
+      "end": 766,
+      "clip": 4,
+      "sourceStart": 5.0,
+      "chapter": "MONTAGE"
+    },
+    {
+      "id": "montage-fleet",
+      "start": 766,
+      "end": 790,
+      "clip": 1,
+      "sourceStart": 6.0,
+      "chapter": "MONTAGE"
+    },
+    {
+      "id": "montage-drive",
+      "start": 790,
+      "end": 836,
+      "clip": 2,
+      "sourceStart": 5.7,
+      "chapter": "MONTAGE"
+    },
+    {
+      "id": "montage-aerial",
+      "start": 836,
+      "end": 860,
+      "clip": 3,
+      "sourceStart": 5.6,
+      "chapter": "MONTAGE"
+    },
+    {
+      "id": "signature",
+      "start": 860,
+      "end": 975,
+      "clip": 6,
+      "sourceStart": 4.9,
+      "chapter": "VỮNG TAY LÁI. TỰ TIN MỖI HÀNH TRÌNH."
+    }
+  ],
+  "graphicTransitions": [
+    93,
+    302,
+    488,
+    860
+  ],
+  "previewFrames": [
+    18,
+    52,
+    132,
+    220,
+    272,
+    334,
+    420,
+    530,
+    620,
+    695,
+    755,
+    812,
+    855,
+    916,
+    960
+  ]
+}

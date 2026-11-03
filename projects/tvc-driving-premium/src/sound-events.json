@@ -1,0 +1,243 @@
+{
+  "duration": 40.625,
+  "musicStart": 19.71,
+  "events": [
+    {
+      "kind": "air",
+      "time": 1.7066666666666668,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 5.581666666666667,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 9.456666666666665,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 13.331666666666665,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 17.206666666666667,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 21.081666666666667,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 24.956666666666667,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 26.87333333333333,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 28.831666666666667,
+      "gain": 0.31
+    },
+    {
+      "kind": "air",
+      "time": 29.79,
+      "gain": 0.31
+    },
+    {
+      "kind": "air",
+      "time": 30.74833333333333,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 32.70666666666666,
+      "gain": 0.48
+    },
+    {
+      "kind": "air",
+      "time": 36.58166666666666,
+      "gain": 0.48
+    },
+    {
+      "kind": "impact",
+      "time": 1.9166666666666667,
+      "gain": 0.44
+    },
+    {
+      "kind": "impact",
+      "time": 9.666666666666666,
+      "gain": 0.44
+    },
+    {
+      "kind": "impact",
+      "time": 17.416666666666668,
+      "gain": 0.44
+    },
+    {
+      "kind": "impact",
+      "time": 32.916666666666664,
+      "gain": 0.44
+    },
+    {
+      "kind": "impact",
+      "time": 36.791666666666664,
+      "gain": 0.62
+    },
+    {
+      "kind": "riser",
+      "time": 0.2583333333333333,
+      "gain": 0.32
+    },
+    {
+      "kind": "riser",
+      "time": 8.008333333333335,
+      "gain": 0.32
+    },
+    {
+      "kind": "riser",
+      "time": 15.716666666666669,
+      "gain": 0.32
+    },
+    {
+      "kind": "riser",
+      "time": 35.09166666666666,
+      "gain": 0.32
+    },
+    {
+      "kind": "click",
+      "time": 2.2916666666666665,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 3.0,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 6.208333333333333,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 6.875,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 10.125,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 10.75,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 13.916666666666666,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 14.708333333333334,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 17.791666666666668,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 18.541666666666668,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 21.666666666666668,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 22.291666666666668,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 33.291666666666664,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 33.916666666666664,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 37.125,
+      "gain": 0.21
+    },
+    {
+      "kind": "click",
+      "time": 37.916666666666664,
+      "gain": 0.21
+    },
+    {
+      "kind": "text",
+      "time": 2.7916666666666665,
+      "gain": 0.28
+    },
+    {
+      "kind": "text",
+      "time": 6.708333333333333,
+      "gain": 0.28
+    },
+    {
+      "kind": "text",
+      "time": 10.625,
+      "gain": 0.28
+    },
+    {
+      "kind": "text",
+      "time": 14.625,
+      "gain": 0.28
+    },
+    {
+      "kind": "text",
+      "time": 18.416666666666668,
+      "gain": 0.28
+    },
+    {
+      "kind": "text",
+      "time": 22.25,
+      "gain": 0.28
+    },
+    {
+      "kind": "text",
+      "time": 33.875,
+      "gain": 0.28
+    }
+  ],
+  "normalization": {
+    "input_i": "-16.83",
+    "input_tp": "-4.90",
+    "input_lra": "1.80",
+    "input_thresh": "-26.91",
+    "output_i": "-14.82",
+    "output_tp": "-2.67",
+    "output_lra": "1.50",
+    "output_thresh": "-24.86",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.18"
+  }
+}

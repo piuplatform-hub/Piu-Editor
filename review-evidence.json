@@ -1,0 +1,406 @@
+{
+  "scope": "Files referenced for static review; hashes identify exact local evidence, not a claim of line-by-line exhaustive audit.",
+  "repos": [
+    {
+      "repo": "remotion-dev/skills",
+      "commit": "c7cb2fdcacd134fb2ccb9b7a44f9ffa44e467271",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/01-remotion-skills/README.md",
+          "lines": 109,
+          "sha256": "d9d90f2e6d2689c032e0661d6c7c83ee43eb17a68987813f0dd5e0cadff5a817"
+        },
+        {
+          "path": "repos/01-remotion-skills/skills/remotion-markup/3d.md",
+          "lines": 86,
+          "sha256": "22c36e087eefd6cfef597bda54f72ae1f39099f9cf33ec38079dd53c4b08e651"
+        },
+        {
+          "path": "repos/01-remotion-skills/skills/remotion-markup/audio.md",
+          "lines": 190,
+          "sha256": "5ff824825021b50e56bfaf317fe41f463673706a8049be7636e153c3f2ff3580"
+        },
+        {
+          "path": "repos/01-remotion-skills/package.json",
+          "lines": 25,
+          "sha256": "cd9ff8cfd32d444d3185aebc17b9b87d2cd65abbc0da6b3f6b0a8e807e5f75b2"
+        }
+      ]
+    },
+    {
+      "repo": "greensock/gsap-skills",
+      "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/02-gsap-skills/README.md",
+          "lines": 163,
+          "sha256": "5ad159c4ca569a8b148107d1456fd9840000c2d20ca17494111d58595ce2bdae"
+        },
+        {
+          "path": "repos/02-gsap-skills/skills/gsap-timeline/SKILL.md",
+          "lines": 107,
+          "sha256": "fbe7a2b9e66e66d2c956f650583d48385498b677ba1292f1dce9d1ffb1a77ea0"
+        }
+      ]
+    },
+    {
+      "repo": "svg/svgo",
+      "commit": "7b0c68659bcd687de2387578eebe7ad6b834ab7c",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/03-svgo/README.md",
+          "lines": 175,
+          "sha256": "2c288ed2514296d320a9aa9265e79c1427a9c284034e034c8f0db5d772eb82d2"
+        },
+        {
+          "path": "repos/03-svgo/plugins/cleanupIds.js",
+          "lines": 267,
+          "sha256": "0e0bf197ce044077702c0a6f0c3561265fb4f59b969ae89310fbebeb82ca4ede"
+        },
+        {
+          "path": "repos/03-svgo/package.json",
+          "lines": 128,
+          "sha256": "e7ba4143c2e8353fec3ad82802018be63be9f6ca499fe0c65f0ba5bd32acdb98"
+        }
+      ]
+    },
+    {
+      "repo": "vercel/satori",
+      "commit": "074f0b38ed0f5d8fa768f709c0bb072b2d6c99e1",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/04-satori/README.md",
+          "lines": 785,
+          "sha256": "66ee417873487ac005fdf19e1eca9f5726e51acd5b4ed33008ed44d4a5c32839"
+        },
+        {
+          "path": "repos/04-satori/src/satori.ts",
+          "lines": 421,
+          "sha256": "c57b0e27c9d954372df736a9a8fe893310c8bf3110143295b5d56f3db723c4e6"
+        },
+        {
+          "path": "repos/04-satori/package.json",
+          "lines": 159,
+          "sha256": "47da8b74fce2836d327bb9fda8f0fba1c322f626f494deefb64aa0667efb47df"
+        }
+      ]
+    },
+    {
+      "repo": "greensock/GSAP",
+      "commit": "13e2b790546426a1a2e0e9b409f3f8dc6d6611f2",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/05-gsap/README.md",
+          "lines": 93,
+          "sha256": "a83dabc24af7c448af93585ec9a1399f6d0ba50d72d496194a5f0d6f3adc2aff"
+        },
+        {
+          "path": "repos/05-gsap/src/gsap-core.js",
+          "lines": 3256,
+          "sha256": "9ee9c6e86eab26e69df618f85330f14ea5a9a2fbad21c9fd2fa35fed414e8884"
+        },
+        {
+          "path": "repos/05-gsap/package.json",
+          "lines": 75,
+          "sha256": "b4554979657d4691c19ce3b3c40e3dd7945983ded8f49f68c13890224a6eb0df"
+        }
+      ]
+    },
+    {
+      "repo": "juliangarnier/anime",
+      "commit": "01b81be1df6843ccfe0a71c0699a746bf740dd77",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/06-animejs/README.md",
+          "lines": 169,
+          "sha256": "51d0ed79d99f77ec4007802a81f2e69880054e3047dd284236fca86cc53eec41"
+        },
+        {
+          "path": "repos/06-animejs/src/timer/timer.js",
+          "lines": 531,
+          "sha256": "eb6fdf314b132c05e372ac661c4302bea8cbdcf4675d48f058a1cedf2f901c1d"
+        },
+        {
+          "path": "repos/06-animejs/package.json",
+          "lines": 234,
+          "sha256": "4eb19855f42874b2419a884f24c078f15d530526492e37f5c653d3165eaa1df5"
+        }
+      ]
+    },
+    {
+      "repo": "motiondivision/motion",
+      "commit": "7415b6cd14dfdb35d91dfc5b9758994444cc228b",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/07-motion/README.md",
+          "lines": 159,
+          "sha256": "b58cfd94b5c623bcfc7cea6a3859ae1b70633f993c86fe41d08b32ce84ba11fb"
+        },
+        {
+          "path": "repos/07-motion/packages/motion-dom/src/animation/JSAnimation.ts",
+          "lines": 601,
+          "sha256": "b8af0be528fa14628095923f8662e0169f22a881b9211730698241d8bdd86ebd"
+        },
+        {
+          "path": "repos/07-motion/package.json",
+          "lines": 86,
+          "sha256": "ab7e4f50f2769ac09b5224d885918024722d7f6c6e02c7b0a38549f031a1983d"
+        }
+      ]
+    },
+    {
+      "repo": "LottieFiles/dotlottie-web",
+      "commit": "2f3693a1d5b9d6936027bc892fa4f9d1cd16d2bb",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/08-dotlottie-web/README.md",
+          "lines": 363,
+          "sha256": "e7d69a113aca3d59655d4f085e6c790f1ff9c5cc87077176a9eabd9b1c9ab0c3"
+        },
+        {
+          "path": "repos/08-dotlottie-web/packages/web/src/dotlottie.ts",
+          "lines": 2558,
+          "sha256": "bf312f35fca0eeec6b1f17b60539dcb85398672fb5cf73bb3705cbef487a7889"
+        },
+        {
+          "path": "repos/08-dotlottie-web/package.json",
+          "lines": 68,
+          "sha256": "c359585dab12cf548b7b04f2ec97af243b9fe08d9e279dfaf1463502449a2825"
+        }
+      ]
+    },
+    {
+      "repo": "remotion-dev/remotion",
+      "commit": "3fdb25953581bb80939087f555ce138b872049e6",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/09-remotion/README.md",
+          "lines": 97,
+          "sha256": "2b41ccc29f9dbfcdb4bcb99b0b461113a2a9077a174904bd70277041edd2ef89"
+        },
+        {
+          "path": "repos/09-remotion/packages/gsap/src/use-gsap-timeline.ts",
+          "lines": 631,
+          "sha256": "5a7f9aae70fa38566d636c9653e332fd0528e7e5effb22db00bccb81ccd665e3"
+        },
+        {
+          "path": "repos/09-remotion/packages/three/src/ThreeCanvas.tsx",
+          "lines": 258,
+          "sha256": "61235d97ccc60ee9fa4571ca59dbf0ad18440b9658548b65b368159aac341762"
+        },
+        {
+          "path": "repos/09-remotion/package.json",
+          "lines": 162,
+          "sha256": "4b37e466f01713b2ad19200ddc2b5807d4f769470e71361fb99e7b0c5eff4328"
+        }
+      ]
+    },
+    {
+      "repo": "motion-canvas/motion-canvas",
+      "commit": "7b91435c301d530351dcf5ebb91dd139c002e405",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/10-motion-canvas/README.md",
+          "lines": 136,
+          "sha256": "7b7bb67023261f00cff364b9493e03859ba8e25e538140b7d256299c9090bae8"
+        },
+        {
+          "path": "repos/10-motion-canvas/packages/ffmpeg/server/FFmpegExporterServer.ts",
+          "lines": 211,
+          "sha256": "cd01d223e1fcd608f4ffc33abaddead1df0ff080e32f833c91379af09aef063c"
+        },
+        {
+          "path": "repos/10-motion-canvas/package.json",
+          "lines": 57,
+          "sha256": "3bfbf6cbee7c25d74bd56d5fc6f3128fc0684ec42c7c5ce69d5a8e340d9a26bf"
+        }
+      ]
+    },
+    {
+      "repo": "mrdoob/three.js",
+      "commit": "f06340e459f19609d3dd82253f38831f58ab6c84",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/11-threejs/README.md",
+          "lines": 85,
+          "sha256": "bf914bdc102b197526aefd78b1eb4d7bb4b5cb987c865cc40d90fdc19bd06f72"
+        },
+        {
+          "path": "repos/11-threejs/src/animation/AnimationMixer.js",
+          "lines": 860,
+          "sha256": "279324044384ff2ca45fbd9626149549ab36ed399445a62e592ee7780f409afa"
+        },
+        {
+          "path": "repos/11-threejs/package.json",
+          "lines": 118,
+          "sha256": "5cc7b3dd41a7212ee78882005905da08d6a82039120afd798db3d6d7636d4f87"
+        }
+      ]
+    },
+    {
+      "repo": "pmndrs/react-three-fiber",
+      "commit": "d74622ea8ed717f7212d7e19d65ff3e325508389",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/12-react-three-fiber/readme.md",
+          "lines": 302,
+          "sha256": "d1c9655fe0c24ffd5e94e2a5ca14c916d4cf924d2684ca08e5541974a6206bf8"
+        },
+        {
+          "path": "repos/12-react-three-fiber/packages/fiber/src/core/loop.ts",
+          "lines": 168,
+          "sha256": "025f35b267cbc902ba7c4009515c5d468ef6fb19562bee7b958ce7d7d9e78bbe"
+        },
+        {
+          "path": "repos/12-react-three-fiber/packages/fiber/package.json",
+          "lines": 91,
+          "sha256": "134e9d4d4ee8fa0979769c85bebe4889ed7376a43ce9423dce4b27f14ab8081c"
+        },
+        {
+          "path": "repos/12-react-three-fiber/package.json",
+          "lines": 92,
+          "sha256": "a5e308d935ec60f54b9407284d7ab8e4679009277aa853cc1f962db7cc436a1e"
+        }
+      ]
+    },
+    {
+      "repo": "pmndrs/drei",
+      "commit": "bf6f4addf47467d3885de272d94ca5127f6ef68f",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/13-drei/README.md",
+          "lines": 868,
+          "sha256": "eb6c27a210234907e2a53128abc38f782f58bf6ba76b356375101207f78189d9"
+        },
+        {
+          "path": "repos/13-drei/src/core/Float.tsx",
+          "lines": 58,
+          "sha256": "7609f6308a12558829594708482c338e43ef378ad2be5491c13f1d77cdf3a370"
+        },
+        {
+          "path": "repos/13-drei/package.json",
+          "lines": 142,
+          "sha256": "5cc1bb4a0dc80413442dd6ec85c6dc5428fec0e998f3bef71b98d09fdc5cb976"
+        }
+      ]
+    },
+    {
+      "repo": "dimforge/rapier",
+      "commit": "475caa3ff4646fd9a796b67d14116256f4962bc7",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/14-rapier/README.md",
+          "lines": 123,
+          "sha256": "e42e0cd375d410c4562c41958448f2ca3a75938bfcbd8f0b4b2d4ef4fcf19d53"
+        },
+        {
+          "path": "repos/14-rapier/bindings/typescript/src.ts/pipeline/world.ts",
+          "lines": 1518,
+          "sha256": "fc59cf872b8f89631177b19412bdccdcefe5a40d763a02ed6c4c2ff2e51a3869"
+        }
+      ]
+    },
+    {
+      "repo": "pmndrs/postprocessing",
+      "commit": "a1f103559d15cf56cbcbb15d4373711b09418f3f",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/15-postprocessing/README.md",
+          "lines": 122,
+          "sha256": "6a27c2fc20f9a1945fe6b89d8310725602635df6c84acac03dd14f72c3fbd54e"
+        },
+        {
+          "path": "repos/15-postprocessing/src/core/EffectComposer.js",
+          "lines": 808,
+          "sha256": "73d8655b8de665a68bf37b2c204ae3aee9de38616f3af27c15fb3406561bf652"
+        },
+        {
+          "path": "repos/15-postprocessing/package.json",
+          "lines": 132,
+          "sha256": "b07ab9a9fdaf2f56bb4e4d7cba8d3077d251c0d70758740048d75445fa1683f6"
+        }
+      ]
+    },
+    {
+      "repo": "goldfire/howler.js",
+      "commit": "1d3053576a860e9854645493ad6c4a72c6cc6e45",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/16-howlerjs/README.md",
+          "lines": 570,
+          "sha256": "a9cb0e71080f2be5a717d29df7c18ebaa54b221d41c0b5743ca0cfbfc85d4dc4"
+        },
+        {
+          "path": "repos/16-howlerjs/src/howler.core.js",
+          "lines": 2587,
+          "sha256": "5865a7156c1de63acbf966b6dc4f5fd74562a1a7a32c21ab95f9288f004c1c90"
+        },
+        {
+          "path": "repos/16-howlerjs/package.json",
+          "lines": 41,
+          "sha256": "8dca4adb307d98d50e38a688a4fc56b34cb33eb5517dd63133126fcecc0cbac8"
+        }
+      ]
+    },
+    {
+      "repo": "Vanilagy/mediabunny",
+      "commit": "aa5923124db643ff865c756a1558c2d1d37ae9bd",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/17-mediabunny/README.md",
+          "lines": 232,
+          "sha256": "c62d91303c133ff3e9582f94e9fd1f7cf5e1c1e39ac1abef613b44b56d099102"
+        },
+        {
+          "path": "repos/17-mediabunny/src/media-source.ts",
+          "lines": 3499,
+          "sha256": "21ec885b6925059d00f9959e72c03d07a138bc0b947e8dfdd7cfa94765e52aa0"
+        },
+        {
+          "path": "repos/17-mediabunny/packages/server/README.md",
+          "lines": 328,
+          "sha256": "6fa69464e496050b0bf69974c56414829c3e65bd8d2b08a5e3a2f16ad998b171"
+        },
+        {
+          "path": "repos/17-mediabunny/package.json",
+          "lines": 136,
+          "sha256": "e36cf41d072f0d236ec0bd24ef3c020ead1fb7e315537db21eab7598ce488d8e"
+        }
+      ]
+    },
+    {
+      "repo": "FFmpeg/FFmpeg",
+      "commit": "aab6cec3e8415154b3f0570f8d131db07a9901de",
+      "clean_tracked_files": true,
+      "evidence_files": [
+        {
+          "path": "repos/18-ffmpeg/README.md",
+          "lines": 45,
+          "sha256": "c5bc137e47c5a6885965618c1c40c2726cd48a9b14f89bc78ba28d7d1ad51370"
+        },
+        {
+          "path": "repos/18-ffmpeg/doc/filters.texi",
+          "lines": 35332,
+          "sha256": "5643a5155e6072a1ad80f9268e6ab7729634dfd32eb88d645764ccd2d1f1e047"
+        }
+      ]
+    }
+  ]
+}

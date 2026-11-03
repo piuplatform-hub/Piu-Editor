@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "projectId": "tvc-driving-premium",
+  "generatedAt": "2026-11-03T13:00:26.176437+00:00",
+  "sourceRoots": [
+    "Source"
+  ],
+  "assets": [
+    {
+      "selected": true,
+      "role": "picture only; original audio fully excluded",
+      "notes": "",
+      "path": "Source/footage/Camera_panning_simulator_classroom_1c3951e6_1080p_clean.mp4",
+      "mediaType": "video",
+      "sizeBytes": 8435248,
+      "mtimeNs": 1793698058520883600,
+      "exists": true,
+      "sha256": "9059de369b6b521f6e6eabdaf5c37b08d96cc9364a21688399a52d44c9f0ad14",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "picture only; original audio fully excluded",
+      "notes": "",
+      "path": "Source/footage/Camera_panning_training_cars_3cf27cd1_1080p_clean.mp4",
+      "mediaType": "video",
+      "sizeBytes": 17135835,
+      "mtimeNs": 1793698223330022300,
+      "exists": true,
+      "sha256": "539c108d1f7d48c7b514392e930d3b3add225bf2d68a7eafd5e864846f99c584",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "picture only; original audio fully excluded",
+      "notes": "",
+      "path": "Source/footage/Car_driving_on_test_track_1f819574_1080p_clean.mp4",
+      "mediaType": "video",
+      "sizeBytes": 12608695,
+      "mtimeNs": 1793698350250064200,
+      "exists": true,
+      "sha256": "08bf9ed6a317cec91f2e948023c22e3c0cb541d3766eaef0cce7bb3ba3a967e4",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "picture only; original audio fully excluded",
+      "notes": "",
+      "path": "Source/footage/Flycam_captures_driving_practice…_a91285d8_1080p_clean.mp4",
+      "mediaType": "video",
+      "sizeBytes": 12862170,
+      "mtimeNs": 1793698477634314400,
+      "exists": true,
+      "sha256": "8f79b5ce62f1e068ed1f20a62f346193b1ea156effbecaf4ce0e82a1902c0b9f",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "picture only; original audio fully excluded",
+      "notes": "",
+      "path": "Source/footage/Giảng_viên_giảng_bài_lớp_a4c1d8e4_1080p_clean.mp4",
+      "mediaType": "video",
+      "sizeBytes": 7047867,
+      "mtimeNs": 1793698597493358300,
+      "exists": true,
+      "sha256": "fd1d857afe965d56f4516b5bf91f220655e02f0de6ff6a46af1101d2bef14ae9",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "picture only; original audio fully excluded",
+      "notes": "",
+      "path": "Source/footage/Quay_TVC_quảng_cáo_cabin_2562a512_1080p_clean.mp4",
+      "mediaType": "video",
+      "sizeBytes": 9331782,
+      "mtimeNs": 1793698723307584200,
+      "exists": true,
+      "sha256": "70d635ffb0d1d916be25d012d8971772ace406e033c840f44b591005f30698b5",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "picture only; original audio fully excluded",
+      "notes": "",
+      "path": "Source/footage/TVC_pan_ngang_trung_tâm_08913983_1080p_clean.mp4",
+      "mediaType": "video",
+      "sizeBytes": 20802331,
+      "mtimeNs": 1793698849796246100,
+      "exists": true,
+      "sha256": "c353c759dc6e301822ab4a9528b241c983a984c0e7077249aeb66b9f8faa03cd",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "",
+      "path": "Source/images/1793690521801_6857124450088083984_6857124450088083984_3e93f29423bb994880176bfcde7265bd.jpg",
+      "mediaType": "image",
+      "sizeBytes": 698983,
+      "mtimeNs": 1793691603628198100,
+      "exists": true,
+      "sha256": "8b3fe7608ab75e783d34641a80219cca58c323b2e1d43333af212dde76210a37",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "",
+      "path": "Source/images/1793690521812_6857124450088083984_6857124450088083984_89972d336a0c6765e79c7ec7368f32f7.jpg",
+      "mediaType": "image",
+      "sizeBytes": 564734,
+      "mtimeNs": 1793691604056197700,
+      "exists": true,
+      "sha256": "0ebfbb31ff9043124b51b115aea89a9352d2bea49ff291eb4a9165985a94ad8b",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "",
+      "path": "Source/images/1793690521819_6857124450088083984_6857124450088083984_bcd9b2540d52cf0505319c223f310a1f.jpg",
+      "mediaType": "image",
+      "sizeBytes": 623992,
+      "mtimeNs": 1793691603986289200,
+      "exists": true,
+      "sha256": "d31af07d3b7ba73f2b7dd32872168fdd6692a50496a9b58a098cec7f3ecd2a5b",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "",
+      "path": "Source/images/1793690521824_6857124450088083984_6857124450088083984_6629d794f3b0394b7353c2fab8ab7d8a.jpg",
+      "mediaType": "image",
+      "sizeBytes": 369139,
+      "mtimeNs": 1793691603834253200,
+      "exists": true,
+      "sha256": "ab4ac0aa44b62c05c3e0fa31adddcf3756b34e3f635498e85684a366879164f8",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "",
+      "path": "Source/images/1793690521828_6857124450088083984_6857124450088083984_2b9177f7da718001a4111005098ea7c7.jpg",
+      "mediaType": "image",
+      "sizeBytes": 675621,
+      "mtimeNs": 1793691603908295200,
+      "exists": true,
+      "sha256": "29f67fee29b40ed821bdecd79736139ad8e529cc149b2f337fc81294c099f459",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "",
+      "path": "Source/images/1793690521832_6857124450088083984_6857124450088083984_0ff9022af596e0e16051f0effa6c45d6.jpg",
+      "mediaType": "image",
+      "sizeBytes": 479247,
+      "mtimeNs": 1793691603768234600,
+      "exists": true,
+      "sha256": "1009687db27976038baa2079b1e22635343597ab64eb7b6492cde3a8a88e5103",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "",
+      "path": "Source/images/1793690521835_6857124450088083984_6857124450088083984_6eb0e2e08ea1fa19ebb9fc605549201f.jpg",
+      "mediaType": "image",
+      "sizeBytes": 411129,
+      "mtimeNs": 1793691603684910800,
+      "exists": true,
+      "sha256": "012a6baa560587c969e961c1a73707eb7aca87bf55fb1af547412031aa56128b",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "background music supplied by user",
+      "notes": "",
+      "path": "Source/music/Modern Corporate & Business Background Music - Presentation Music Instrumental - MUSIC4VIDEO.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 7459778,
+      "mtimeNs": 1793698192045686000,
+      "exists": true,
+      "sha256": "3893e7feb178367281c660eb1aceda551a620aa00f4a0e121108cf5452436d5c",
+      "changedSinceSelection": false
+    }
+  ]
+}

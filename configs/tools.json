@@ -1,0 +1,637 @@
+{
+  "schemaVersion": 1,
+  "tools": [
+    {
+      "id": "remotion-skills",
+      "name": "Remotion Skills",
+      "folder": "01-remotion-skills",
+      "upstream": "https://github.com/remotion-dev/skills",
+      "role": "Hướng dẫn viết video bằng Remotion",
+      "useWhen": [
+        "Đã chọn Remotion và cần hướng dẫn tạo composition, audio, captions, render hoặc 3D."
+      ],
+      "avoidWhen": [
+        "Chỉ cắt/ghép/chuyển đổi footage bằng FFmpeg; không cần nạp toàn bộ skill."
+      ],
+      "readFirst": [
+        "README.md",
+        "skills/remotion-markup/3d.md",
+        "skills/remotion-markup/audio.md"
+      ],
+      "packages": [],
+      "integration": [
+        "Chỉ mở skill hoặc reference khớp việc đang làm, rồi áp dụng vào projects/<id>/src/.",
+        "Đi cùng repo remotion; skill là hướng dẫn, không phải engine hoặc dịch vụ sinh nội dung."
+      ],
+      "pitfalls": [
+        "Đọc kỹ giới hạn animation theo frame, assets và audio của bản hiện tại.",
+        "Không chạy lệnh cài skill global nếu chỉ cần đọc tài liệu local."
+      ],
+      "related": [
+        "remotion",
+        "gsap",
+        "react-three-fiber"
+      ]
+    },
+    {
+      "id": "gsap-skills",
+      "name": "GSAP Skills",
+      "folder": "02-gsap-skills",
+      "upstream": "https://github.com/greensock/gsap-skills",
+      "role": "Hướng dẫn timeline và tween GSAP",
+      "useWhen": [
+        "Đã chọn GSAP; cần sequencing, easing, SVG plugin hoặc cleanup trong React."
+      ],
+      "avoidWhen": [
+        "Không dùng GSAP; hoặc đang làm bản xuất video nhưng chỉ đọc ví dụ ScrollTrigger rồi để autoplay."
+      ],
+      "readFirst": [
+        "README.md",
+        "skills/gsap-timeline/SKILL.md",
+        "skills/gsap-react/SKILL.md"
+      ],
+      "packages": [],
+      "integration": [
+        "Chọn hướng dẫn timeline/core/react cần thiết; dùng cùng gsap và adapter frame trong Remotion."
+      ],
+      "pitfalls": [
+        "Ví dụ web thường chạy bằng clock thực; cần điều chỉnh cho offline render.",
+        "Giấy phép của skill khác với giấy phép engine GSAP."
+      ],
+      "related": [
+        "gsap",
+        "remotion"
+      ],
+      "upstreamGuide": "docs/upstream-agents/02-gsap-skills.md"
+    },
+    {
+      "id": "svgo",
+      "name": "SVGO",
+      "folder": "03-svgo",
+      "upstream": "https://github.com/svg/svgo",
+      "role": "Tối ưu asset SVG trước khi dựng",
+      "useWhen": [
+        "SVG có sẵn cần giảm dung lượng hoặc loại metadata thừa."
+      ],
+      "avoidWhen": [
+        "Cần sinh tranh/nhân vật từ prompt, hoặc cần bảo toàn cấu trúc animation chưa kiểm tra."
+      ],
+      "readFirst": [
+        "README.md",
+        "plugins/cleanupIds.js",
+        "lib/svgo.js"
+      ],
+      "packages": [
+        "svgo"
+      ],
+      "integration": [
+        "Đọc SVG gốc; ghi bản tối ưu vào projects/<id>/working/, không ghi đè nguyên liệu.",
+        "Chỉ đưa bản tối ưu đã so hình vào Remotion hoặc animation engine."
+      ],
+      "pitfalls": [
+        "cleanupIds có thể đổi/xoá ID mà GSAP hoặc CSS selector đang tham chiếu; cấu hình preserve hoặc tắt plugin khi cần.",
+        "Tối ưu path/group có thể làm mất những bộ phận cần animate riêng."
+      ],
+      "related": [
+        "satori",
+        "gsap",
+        "remotion"
+      ]
+    },
+    {
+      "id": "satori",
+      "name": "Satori",
+      "folder": "04-satori",
+      "upstream": "https://github.com/vercel/satori",
+      "role": "Tạo card, nhãn, bảng chữ thành SVG từ layout",
+      "useWhen": [
+        "Cần sinh hàng loạt title card/thumbnail/card số liệu theo template tĩnh."
+      ],
+      "avoidWhen": [
+        "Cần minh hoạ sinh ảnh, React stateful component hoặc đầy đủ CSS của trình duyệt."
+      ],
+      "readFirst": [
+        "README.md",
+        "src/satori.ts"
+      ],
+      "packages": [
+        "satori"
+      ],
+      "integration": [
+        "Đưa layout và dữ liệu font vào Satori; lưu SVG dẫn xuất trong working/.",
+        "Nếu cần bitmap, thêm rasterizer phù hợp; Remotion có thể dùng SVG trực tiếp. Không bắt buộc rasterize."
+      ],
+      "pitfalls": [
+        "Chỉ hỗ trợ một phần HTML/CSS và component tĩnh; không hỗ trợ React hooks như browser.",
+        "Kiểm tra font có đủ dấu tiếng Việt và bố cục thực tế sau render."
+      ],
+      "related": [
+        "svgo",
+        "remotion"
+      ]
+    },
+    {
+      "id": "gsap",
+      "name": "GSAP",
+      "folder": "05-gsap",
+      "upstream": "https://github.com/greensock/GSAP",
+      "role": "Diễn hoạt DOM/SVG bằng timeline",
+      "useWhen": [
+        "Chữ, logo, SVG cần tween, easing, stagger hoặc sequencing phức tạp."
+      ],
+      "avoidWhen": [
+        "Chỉ cần fade/slide đơn giản mà Remotion interpolate/spring đã đủ; không chồng nhiều engine trên cùng thuộc tính."
+      ],
+      "readFirst": [
+        "README.md",
+        "src/gsap-core.js"
+      ],
+      "packages": [
+        "gsap",
+        "@remotion/gsap (khi dùng Remotion)"
+      ],
+      "integration": [
+        "Trong Remotion đọc thêm repos/09-remotion/packages/gsap/src/use-gsap-timeline.ts; dùng timeline pause và cập nhật theo frame.",
+        "Đặt code animation ở project, không sửa engine trong repo tham khảo."
+      ],
+      "pitfalls": [
+        "Adapter @remotion/gsap hiện giới hạn DOM/SVG element targets; không dùng nó để tween plain object/pose Three.js rồi kỳ vọng React tự render lại.",
+        "Tránh callbacks gây side effect, ticker độc lập và random không seed. Đọc validation của adapter.",
+        "Kill/revert timeline đúng vòng đời component."
+      ],
+      "related": [
+        "gsap-skills",
+        "remotion",
+        "svgo"
+      ]
+    },
+    {
+      "id": "animejs",
+      "name": "Anime.js",
+      "folder": "06-animejs",
+      "upstream": "https://github.com/juliangarnier/anime",
+      "role": "Lựa chọn diễn hoạt DOM/SVG/JS object",
+      "useWhen": [
+        "Code đầu vào đã dùng Anime.js hoặc có tính năng cụ thể phù hợp hơn engine hiện tại."
+      ],
+      "avoidWhen": [
+        "Chỉ muốn thêm một engine tương tự GSAP mà không có nhu cầu rõ."
+      ],
+      "readFirst": [
+        "README.md",
+        "src/timer/timer.js"
+      ],
+      "packages": [
+        "animejs"
+      ],
+      "integration": [
+        "Tắt autoplay, giữ pause, dùng seek theo thời gian suy ra từ frame và chờ DOM/canvas cập nhật.",
+        "Kiểm tra API V4 của snapshot thay vì copy ví dụ V3."
+      ],
+      "pitfalls": [
+        "seek có thể resume nếu animation trước đó chưa pause.",
+        "Phân biệt đơn vị mili giây mặc định với giây/FPS timeline. Có thể cấu hình time unit; đọc cấu hình thật."
+      ],
+      "related": [
+        "gsap",
+        "remotion"
+      ]
+    },
+    {
+      "id": "motion",
+      "name": "Motion",
+      "folder": "07-motion",
+      "upstream": "https://github.com/motiondivision/motion",
+      "role": "Animation, layout và gesture cho giao diện web",
+      "useWhen": [
+        "Làm UI preview/editor hoặc tiếp tục app đã dùng Motion; cần tương tác/gesture/layout transition."
+      ],
+      "avoidWhen": [
+        "Cho rằng component motion autoplay sẽ tự cho kết quả ổn định trong render Remotion."
+      ],
+      "readFirst": [
+        "README.md",
+        "packages/motion-dom/src/animation/JSAnimation.ts",
+        "packages/motion/package.json"
+      ],
+      "packages": [
+        "motion"
+      ],
+      "integration": [
+        "React thường import từ motion/react; JS dùng motion theo API phiên bản cài.",
+        "Nếu render offline, cần điều khiển playback time và layout rõ ràng, hoặc chuyển animation sang hàm của frame."
+      ],
+      "pitfalls": [
+        "DOM measurement, spring, gesture và native browser animation có vòng đời riêng.",
+        "Chọn nó theo use case, không mặc định thêm cùng GSAP/Anime.js."
+      ],
+      "related": [
+        "remotion",
+        "gsap"
+      ],
+      "upstreamGuide": "docs/upstream-agents/07-motion.md"
+    },
+    {
+      "id": "dotlottie",
+      "name": "dotLottie Web",
+      "folder": "08-dotlottie-web",
+      "upstream": "https://github.com/LottieFiles/dotlottie-web",
+      "role": "Render animation Lottie/dotLottie có sẵn",
+      "useWhen": [
+        "Có .lottie hoặc Lottie JSON cho icon, mascot, infographic."
+      ],
+      "avoidWhen": [
+        "Cần tạo animation từ không có asset; không phải mọi JSON đều là Lottie."
+      ],
+      "readFirst": [
+        "README.md",
+        "packages/web/src/dotlottie.ts",
+        "packages/web/README.md"
+      ],
+      "packages": [
+        "@lottiefiles/dotlottie-web",
+        "@lottiefiles/dotlottie-react (nếu cần wrapper React)"
+      ],
+      "integration": [
+        "Load asset và WASM xong, tắt autoplay rồi gọi setFrame để vẽ đúng frame.",
+        "Ánh xạ FPS của asset với FPS video; dùng cơ chế chờ render khi tích hợp Remotion."
+      ],
+      "pitfalls": [
+        "Không chụp canvas trước khi load/draw xong.",
+        "Audio nhúng phát ở browser cần pipeline export riêng; tránh clock/state machine tự chạy trong bản xuất.",
+        "WASM và worker cần phiên bản/đường dẫn tương ứng package."
+      ],
+      "related": [
+        "remotion",
+        "ffmpeg"
+      ]
+    },
+    {
+      "id": "remotion",
+      "name": "Remotion",
+      "folder": "09-remotion",
+      "upstream": "https://github.com/remotion-dev/remotion",
+      "role": "Timeline chính cho video React/motion graphics",
+      "useWhen": [
+        "Cần sắp nhiều cảnh, ảnh, text, captions, âm thanh, animation hoặc 3D trong composition lập trình."
+      ],
+      "avoidWhen": [
+        "Chỉ cần trim/concat/resize footage, FFmpeg giải quyết gọn hơn."
+      ],
+      "readFirst": [
+        "README.md",
+        "packages/core/package.json",
+        "packages/gsap/src/use-gsap-timeline.ts",
+        "packages/three/src/ThreeCanvas.tsx"
+      ],
+      "packages": [
+        "remotion",
+        "@remotion/cli",
+        "@remotion/renderer",
+        "@remotion/media",
+        "@remotion/three hoặc @remotion/gsap khi cần"
+      ],
+      "integration": [
+        "Tạo app trong projects/<id>/, code composition trong src/; dùng package phát hành có lockfile.",
+        "Thống nhất fps/duration/resolution; mọi animation dựa trên useCurrentFrame hoặc dữ liệu bake.",
+        "Dùng @remotion/media để đặt tiếng vào composition; dùng @remotion/three cho scene Fiber."
+      ],
+      "pitfalls": [
+        "Đồng bộ phiên bản remotion và @remotion/*, không coi branch HEAD của monorepo là app người dùng đã cài.",
+        "Chờ asset load qua API phù hợp của phiên bản hiện tại; render ảnh kiểm tra trước video dài.",
+        "Lệnh build Bun trong hướng dẫn upstream chỉ dùng khi phát triển thư viện, không phải yêu cầu cài Bun cho mọi project video."
+      ],
+      "related": [
+        "remotion-skills",
+        "ffmpeg",
+        "gsap",
+        "react-three-fiber",
+        "mediabunny"
+      ],
+      "upstreamGuide": "docs/upstream-agents/09-remotion.md"
+    },
+    {
+      "id": "motion-canvas",
+      "name": "Motion Canvas",
+      "folder": "10-motion-canvas",
+      "upstream": "https://github.com/motion-canvas/motion-canvas",
+      "role": "Engine animation vector/generator cho video giải thích",
+      "useWhen": [
+        "Dự án thiên về vector animation và timing lời thuyết minh, hoặc đã có code Motion Canvas."
+      ],
+      "avoidWhen": [
+        "Trộn trực tiếp JSX Motion Canvas vào cây React của Remotion."
+      ],
+      "readFirst": [
+        "README.md",
+        "packages/core/src/app/Renderer.ts",
+        "packages/ffmpeg/server/FFmpegExporterServer.ts"
+      ],
+      "packages": [
+        "@motion-canvas/core",
+        "@motion-canvas/2d",
+        "@motion-canvas/vite-plugin",
+        "@motion-canvas/ffmpeg (khi cần exporter)"
+      ],
+      "integration": [
+        "Chọn làm engine chính hoặc render một cảnh riêng thành clip/image sequence để đưa vào Remotion.",
+        "Thống nhất FPS, resolution, alpha và audio khi trao đổi clip giữa hai engine."
+      ],
+      "pitfalls": [
+        "JSX của engine này không đồng nghĩa React DOM.",
+        "Không chạy hai clock độc lập cho cùng một timeline. Kiểm tra renderer/exporter và tài nguyên tải xong."
+      ],
+      "related": [
+        "ffmpeg",
+        "remotion"
+      ]
+    },
+    {
+      "id": "threejs",
+      "name": "Three.js",
+      "folder": "11-threejs",
+      "upstream": "https://github.com/mrdoob/three.js",
+      "role": "Cảnh 3D, camera, ánh sáng, vật liệu và model",
+      "useWhen": [
+        "Cần sản phẩm/không gian/camera/đồ hoạ 3D, render model hoặc procedural geometry."
+      ],
+      "avoidWhen": [
+        "Video chỉ cần cắt footage hoặc text 2D; thư viện không tự tạo model có rig từ prompt."
+      ],
+      "readFirst": [
+        "README.md",
+        "src/animation/AnimationMixer.js",
+        "package.json"
+      ],
+      "packages": [
+        "three",
+        "@types/three (TypeScript)"
+      ],
+      "integration": [
+        "Với React/Remotion, đọc Fiber, Drei và @remotion/three; với Three thuần tự điều khiển renderer/camera theo frame.",
+        "Đặt model/texture/font gốc trong Source/assets/, dữ liệu pose bake trong project working/."
+      ],
+      "pitfalls": [
+        "Snapshot tải từ nhánh dev, không mặc định dùng bản dev cho sản xuất.",
+        "Đừng tích luỹ chuyển động bằng delta khi render frame không tuần tự; dùng frame/time xác định.",
+        "Chọn WebGL hoặc WebGPU phù hợp postprocessing và môi trường; kiểm tra màu, aspect camera và dispose tài nguyên."
+      ],
+      "related": [
+        "react-three-fiber",
+        "drei",
+        "rapier",
+        "postprocessing",
+        "remotion"
+      ]
+    },
+    {
+      "id": "react-three-fiber",
+      "name": "React Three Fiber",
+      "folder": "12-react-three-fiber",
+      "upstream": "https://github.com/pmndrs/react-three-fiber",
+      "role": "Dùng scene Three.js theo component React",
+      "useWhen": [
+        "Đã cần 3D và dự án dùng React/Remotion."
+      ],
+      "avoidWhen": [
+        "Dùng renderer Three thuần không cần React; không thêm một renderer thừa."
+      ],
+      "readFirst": [
+        "readme.md",
+        "packages/fiber/package.json",
+        "packages/fiber/src/core/loop.ts"
+      ],
+      "packages": [
+        "@react-three/fiber",
+        "three",
+        "@remotion/three (khi dùng Remotion)"
+      ],
+      "integration": [
+        "Trong Remotion dùng ThreeCanvas của @remotion/three, truyền width/height và tính pose bằng useCurrentFrame.",
+        "Kiểm tra major React/Fiber; snapshot Fiber 9 dùng React 19."
+      ],
+      "pitfalls": [
+        "Ví dụ useFrame cộng delta của app tương tác không phải công thức xuất video ổn định.",
+        "Chờ model/texture bằng cơ chế load phù hợp; Sequence trong canvas cần layout phù hợp, đọc Remotion 3D guide."
+      ],
+      "related": [
+        "threejs",
+        "drei",
+        "remotion",
+        "postprocessing"
+      ]
+    },
+    {
+      "id": "drei",
+      "name": "Drei",
+      "folder": "13-drei",
+      "upstream": "https://github.com/pmndrs/drei",
+      "role": "Helper camera, model, font, environment cho Fiber",
+      "useWhen": [
+        "Scene Fiber cần helper đã có sẵn thay vì viết lại."
+      ],
+      "avoidWhen": [
+        "Không dùng Fiber; hoặc chọn helper có auto-animation mà không kiểm soát clock."
+      ],
+      "readFirst": [
+        "README.md",
+        "package.json",
+        "src/core/Float.tsx"
+      ],
+      "packages": [
+        "@react-three/drei"
+      ],
+      "integration": [
+        "Chọn từng helper phù hợp, giữ animation của bản xuất trong hàm của frame.",
+        "Kiểm tra assets/font/environment cần tải và chờ trước render."
+      ],
+      "pitfalls": [
+        "Float.tsx dùng Math.random và elapsedTime; không coi tất cả helper là deterministic mặc định.",
+        "OrbitControls/damping và helper tự cập nhật có thể phụ thuộc lịch sử. Kiểm tra seek và render song song.",
+        "Kiểm tra peer dependencies với React/Fiber/Three."
+      ],
+      "related": [
+        "threejs",
+        "react-three-fiber",
+        "remotion"
+      ]
+    },
+    {
+      "id": "rapier",
+      "name": "Rapier",
+      "folder": "14-rapier",
+      "upstream": "https://github.com/dimforge/rapier",
+      "role": "Mô phỏng rơi, va chạm và chuyển động vật lý",
+      "useWhen": [
+        "Cảnh cần collider, rigid body, nảy/rơi hoặc lực; không chỉ tween vị trí."
+      ],
+      "avoidWhen": [
+        "Cần máy quay hoặc renderer; Rapier không tự tạo hình ảnh."
+      ],
+      "readFirst": [
+        "README.md",
+        "bindings/typescript/src.ts/pipeline/world.ts"
+      ],
+      "packages": [
+        "@dimforge/rapier3d-compat (JS/WASM 3D, chọn variant phù hợp)",
+        "@react-three/rapier (wrapper tuỳ chọn, ngoài 18 repo)"
+      ],
+      "integration": [
+        "Ưu tiên simulate trước với timestep/seed cố định, lưu pose theo frame vào working/, replay trong Three/Fiber.",
+        "Nếu simulate tại render, cần reset/snapshot/replay đúng khi seek và mỗi worker, không chỉ step một lần cho frame bất kỳ."
+      ],
+      "pitfalls": [
+        "World.step phụ thuộc trạng thái trước; timestep cố định chưa đủ đảm bảo random-access.",
+        "Chờ WASM init. Kiểm tra wrapper/phụ thuộc; không cần build Rust engine nếu chỉ dùng package JS phát hành."
+      ],
+      "related": [
+        "threejs",
+        "react-three-fiber",
+        "remotion"
+      ]
+    },
+    {
+      "id": "postprocessing",
+      "name": "Postprocessing",
+      "folder": "15-postprocessing",
+      "upstream": "https://github.com/pmndrs/postprocessing",
+      "role": "Bloom, blur, depth of field, LUT và hiệu ứng cảnh 3D",
+      "useWhen": [
+        "Cảnh Three.js cần xử lý ảnh sau render để đạt phong cách mong muốn."
+      ],
+      "avoidWhen": [
+        "Cần hậu kỳ âm thanh hoặc cắt ghép footage; không phải video editor tổng quát."
+      ],
+      "readFirst": [
+        "README.md",
+        "src/core/EffectComposer.js",
+        "package.json"
+      ],
+      "packages": [
+        "postprocessing",
+        "@react-three/postprocessing (wrapper tuỳ chọn, ngoài 18 repo)"
+      ],
+      "integration": [
+        "Nối composer/passes vào renderer; nếu dùng Fiber có thể thêm wrapper tương thích.",
+        "Truyền thời gian rõ ràng và kiểm soát thứ tự render; thống nhất color space/tone mapping."
+      ],
+      "pitfalls": [
+        "composer.render không truyền delta có thể đọc timer thực. Kiểm tra shader/time và hiệu ứng temporal.",
+        "Không mặc định plugin WebGL hoạt động với renderer WebGPU.",
+        "Kiểm tra peer version Three và dung lượng GPU ở độ phân giải xuất thật."
+      ],
+      "related": [
+        "threejs",
+        "react-three-fiber",
+        "remotion"
+      ]
+    },
+    {
+      "id": "howlerjs",
+      "name": "Howler.js",
+      "folder": "16-howlerjs",
+      "upstream": "https://github.com/goldfire/howler.js",
+      "role": "Nghe thử, phát nhạc/SFX trong giao diện web",
+      "useWhen": [
+        "App preview/editor cần playback audio, sprite hoặc spatial sound tương tác."
+      ],
+      "avoidWhen": [
+        "Dùng làm mixer/exporter cho video cuối hoặc nghĩ nó tạo giọng đọc/nhạc."
+      ],
+      "readFirst": [
+        "README.md",
+        "src/howler.core.js"
+      ],
+      "packages": [
+        "howler"
+      ],
+      "integration": [
+        "Dùng cho UI khi có nhu cầu; dùng chính file audio đó trong Remotion Audio hoặc FFmpeg để xuất.",
+        "Lưu voice/SFX trong Source/audio/, nhạc nền trong Source/music/."
+      ],
+      "pitfalls": [
+        "Autoplay policy của browser có thể chặn tiếng; playback browser không tự đi vào MP4.",
+        "Giữ offset/gain/rate trên timeline xuất, không lấy clock UI làm chân lý."
+      ],
+      "related": [
+        "ffmpeg",
+        "remotion",
+        "mediabunny"
+      ]
+    },
+    {
+      "id": "mediabunny",
+      "name": "Mediabunny",
+      "folder": "17-mediabunny",
+      "upstream": "https://github.com/Vanilagy/mediabunny",
+      "role": "Media IO, metadata, mux/demux và conversion trong JS",
+      "useWhen": [
+        "Cần API JS xử lý media trong browser hoặc server thay vì điều khiển CLI."
+      ],
+      "avoidWhen": [
+        "Việc cắt ghép hiện tại dùng FFmpeg đã đủ; không thêm hai đường export nếu không cần."
+      ],
+      "readFirst": [
+        "README.md",
+        "src/media-source.ts",
+        "packages/server/README.md"
+      ],
+      "packages": [
+        "mediabunny",
+        "@mediabunny/server (khi cần codec/server polyfill)"
+      ],
+      "integration": [
+        "Kiểm tra runtime/codec; tạo Input/Output hoặc Conversion theo API hiện có.",
+        "Server có gói @mediabunny/server dùng NodeAV; đăng ký trước khi cần encode/decode ở môi trường server."
+      ],
+      "pitfalls": [
+        "Khả năng đọc container không đồng nghĩa codec đó được runtime decode/encode.",
+        "Không lặp lại nhận định cũ Node chỉ mux/demux: snapshot này đã có gói server.",
+        "Ghi kết quả dẫn xuất ở working/ hoặc output/, giữ nguyên nguồn."
+      ],
+      "related": [
+        "ffmpeg",
+        "remotion"
+      ],
+      "upstreamGuide": "docs/upstream-agents/17-mediabunny.md"
+    },
+    {
+      "id": "ffmpeg",
+      "name": "FFmpeg",
+      "folder": "18-ffmpeg",
+      "upstream": "https://github.com/FFmpeg/FFmpeg",
+      "role": "Cắt ghép footage, mix âm thanh, encode và kiểm tra media",
+      "useWhen": [
+        "Trim/concat/crop/resize, đổi tốc độ, ghép nhạc/voice, normalize, encode hoặc ffprobe kiểm tra file."
+      ],
+      "avoidWhen": [
+        "Cần layout/diễn hoạt phức tạp mà filter graph trở nên khó bảo trì; chuyển phần đó sang Remotion."
+      ],
+      "readFirst": [
+        "README.md",
+        "doc/ffmpeg.texi",
+        "doc/ffprobe.texi",
+        "doc/filters.texi"
+      ],
+      "packages": [
+        "ffmpeg và ffprobe binary trong PATH (không phải npm package bắt buộc)"
+      ],
+      "integration": [
+        "Chạy doctor để tìm binary; clone source C không cài CLI. Không build FFmpeg từ source nếu binary hiện có đã đủ.",
+        "Lưu lệnh/script tham số hoá ở projects/<id>/src/, log và intermediate ở working/, bản cuối ở output/<id>/.",
+        "Dùng argv/subprocess hoặc quoting shell đúng với đường dẫn có khoảng trắng; chỉ rõ đường output mới."
+      ],
+      "pitfalls": [
+        "Stream copy chỉ phù hợp khi stream/container/cut-point đáp ứng; cut chính xác hoặc filter thường cần encode lại.",
+        "Không dùng -y với output là file nguồn; kiểm tra stream map để giữ hoặc bỏ audio có chủ đích.",
+        "Concat clip khác FPS/resolution/codec có thể cần chuẩn hoá trước; kiểm tra rotation/aspect/color.",
+        "Audio filter không thay thế nghe thử; ffprobe không thay thế xem hình."
+      ],
+      "related": [
+        "remotion",
+        "motion-canvas",
+        "mediabunny"
+      ]
+    }
+  ]
+}

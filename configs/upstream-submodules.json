@@ -1,0 +1,10 @@
+{
+  "submodules": [
+    {
+      "path": "repos/08-dotlottie-web/packages/web/dotlottie-rs",
+      "commit": "e09b1967b6077294ad09a275f2899d6b8b4c542b",
+      "status": "not-fetched",
+      "note": "Optional upstream gitlink from original shallow clone; consult child .gitmodules; install published packages for runtime WASM when appropriate."
+    }
+  ]
+}

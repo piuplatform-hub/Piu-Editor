@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "{{PROJECT_ID}}",
+  "title": "{{TITLE}}",
+  "createdAt": "{{CREATED_AT}}",
+  "status": "intake",
+  "engine": null,
+  "selectedTools": [],
+  "sourceRoots": ["Source"],
+  "brief": "projects/{{PROJECT_ID}}/brief.md",
+  "assetManifest": "projects/{{PROJECT_ID}}/assets.json",
+  "paths": {
+    "source": "projects/{{PROJECT_ID}}/src",
+    "working": "projects/{{PROJECT_ID}}/working",
+    "previews": "projects/{{PROJECT_ID}}/previews",
+    "notes": "projects/{{PROJECT_ID}}/notes",
+    "output": "output/{{PROJECT_ID}}"
+  },
+  "preset": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationSeconds": null,
+    "container": "mp4",
+    "assumptions": ["Preset ban đầu cho bản nháp; cập nhật theo yêu cầu trước khi render."]
+  },
+  "deliverables": []
+}

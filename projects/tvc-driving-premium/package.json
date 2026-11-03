@@ -1,0 +1,41 @@
+{
+  "name": "piu-tvc-driving-premium",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/v004/entry.tsx --public-dir=public/v004",
+    "render": "node src/v004/render.cjs final",
+    "render:v001": "python src/render_ffmpeg.py",
+    "prepare:v002": "python src/prepare_v002.py all",
+    "build:v002": "node src/build-local-export.cjs",
+    "preview:v002": "python src/local_export_server.py",
+    "render:v002:cli": "remotion render src/v002-entry.tsx PremiumDrivingV2 working/v002/cli-visual.mp4 --codec=h264 --crf=17 --concurrency=2",
+    "render:remotion-prototype": "remotion render src/index.tsx PremiumDriving working/remotion-prototype.mp4 --codec=h264 --crf=17 --concurrency=2",
+    "studio:v003": "remotion studio src/v003/entry.tsx --public-dir=public/v003",
+    "prepare:v003": "python src/v003/prepare.py all",
+    "stills:v003": "node src/v003/render.cjs stills",
+    "preview:v003": "node src/v003/render.cjs preview",
+    "render:v003": "node src/v003/render.cjs final",
+    "qa:v003": "python src/v003/qa.py",
+    "studio:v002": "remotion studio src/v002-entry.tsx",
+    "render:v002": "python src/encode_v002.py",
+    "prepare:v004": "python src/v004/prepare.py all",
+    "stills:v004": "node src/v004/render.cjs stills",
+    "render:v004": "node src/v004/render.cjs final",
+    "qa:v004": "python src/v004/qa.py",
+    "accents:v004": "node src/v004/render.cjs accents",
+    "studio:v004": "remotion studio src/v004/entry.tsx --public-dir=public/v004"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.540",
+    "@remotion/fonts": "4.0.540",
+    "@remotion/gsap": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/player": "4.0.540",
+    "gsap": "3.15.0",
+    "html-to-image": "1.11.13",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540"
+  }
+}

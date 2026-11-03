@@ -1,0 +1,214 @@
+{
+  "retrieved_at": "2026-11-03T07:38:22.410381+00:00",
+  "note": "Shallow source clones; no dependencies installed; no submodules or LFS assets fetched separately.",
+  "repos": [
+    {
+      "folder": "01-remotion-skills",
+      "repo": "remotion-dev/skills",
+      "url": "https://github.com/remotion-dev/skills",
+      "status": "downloaded",
+      "commit": "c7cb2fdcacd134fb2ccb9b7a44f9ffa44e467271",
+      "branch": "main",
+      "commit_date": "2026-11-02T09:50:21+01:00",
+      "tracked_files": 299,
+      "shallow": true
+    },
+    {
+      "folder": "02-gsap-skills",
+      "repo": "greensock/gsap-skills",
+      "url": "https://github.com/greensock/gsap-skills",
+      "status": "downloaded",
+      "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+      "branch": "main",
+      "commit_date": "2026-04-21T18:47:02-05:00",
+      "tracked_files": 44,
+      "shallow": true
+    },
+    {
+      "folder": "03-svgo",
+      "repo": "svg/svgo",
+      "url": "https://github.com/svg/svgo",
+      "status": "downloaded",
+      "commit": "7b0c68659bcd687de2387578eebe7ad6b834ab7c",
+      "branch": "main",
+      "commit_date": "2026-10-26T10:57:23-07:00",
+      "tracked_files": 616,
+      "shallow": true
+    },
+    {
+      "folder": "04-satori",
+      "repo": "vercel/satori",
+      "url": "https://github.com/vercel/satori",
+      "status": "downloaded",
+      "commit": "074f0b38ed0f5d8fa768f709c0bb072b2d6c99e1",
+      "branch": "main",
+      "commit_date": "2026-10-20T17:06:28+08:00",
+      "tracked_files": 1089,
+      "shallow": true
+    },
+    {
+      "folder": "05-gsap",
+      "repo": "greensock/GSAP",
+      "url": "https://github.com/greensock/GSAP",
+      "status": "downloaded",
+      "commit": "13e2b790546426a1a2e0e9b409f3f8dc6d6611f2",
+      "branch": "master",
+      "commit_date": "2026-04-13T08:08:30-05:00",
+      "tracked_files": 180,
+      "shallow": true
+    },
+    {
+      "folder": "06-animejs",
+      "repo": "juliangarnier/anime",
+      "url": "https://github.com/juliangarnier/anime",
+      "status": "downloaded",
+      "commit": "01b81be1df6843ccfe0a71c0699a746bf740dd77",
+      "branch": "master",
+      "commit_date": "2026-08-09T18:40:07+02:00",
+      "tracked_files": 509,
+      "shallow": true
+    },
+    {
+      "folder": "07-motion",
+      "repo": "motiondivision/motion",
+      "url": "https://github.com/motiondivision/motion",
+      "status": "downloaded",
+      "commit": "7415b6cd14dfdb35d91dfc5b9758994444cc228b",
+      "branch": "main",
+      "commit_date": "2026-10-30T11:22:53+01:00",
+      "tracked_files": 3523,
+      "shallow": true
+    },
+    {
+      "folder": "08-dotlottie-web",
+      "repo": "LottieFiles/dotlottie-web",
+      "url": "https://github.com/LottieFiles/dotlottie-web",
+      "status": "downloaded",
+      "commit": "2f3693a1d5b9d6936027bc892fa4f9d1cd16d2bb",
+      "branch": "main",
+      "commit_date": "2026-11-02T19:00:34+07:00",
+      "tracked_files": 481,
+      "shallow": true
+    },
+    {
+      "folder": "09-remotion",
+      "repo": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "status": "downloaded",
+      "commit": "3fdb25953581bb80939087f555ce138b872049e6",
+      "branch": "main",
+      "commit_date": "2026-11-03T08:16:14+01:00",
+      "tracked_files": 14495,
+      "shallow": true
+    },
+    {
+      "folder": "10-motion-canvas",
+      "repo": "motion-canvas/motion-canvas",
+      "url": "https://github.com/motion-canvas/motion-canvas",
+      "status": "downloaded",
+      "commit": "7b91435c301d530351dcf5ebb91dd139c002e405",
+      "branch": "main",
+      "commit_date": "2026-07-02T22:01:32+02:00",
+      "tracked_files": 1059,
+      "shallow": true
+    },
+    {
+      "folder": "11-threejs",
+      "repo": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "status": "downloaded",
+      "commit": "f06340e459f19609d3dd82253f38831f58ab6c84",
+      "branch": "dev",
+      "commit_date": "2026-11-02T22:39:38+01:00",
+      "tracked_files": 6092,
+      "shallow": true
+    },
+    {
+      "folder": "12-react-three-fiber",
+      "repo": "pmndrs/react-three-fiber",
+      "url": "https://github.com/pmndrs/react-three-fiber",
+      "status": "downloaded",
+      "commit": "d74622ea8ed717f7212d7e19d65ff3e325508389",
+      "branch": "master",
+      "commit_date": "2026-10-14T16:25:51-04:00",
+      "tracked_files": 228,
+      "shallow": true
+    },
+    {
+      "folder": "13-drei",
+      "repo": "pmndrs/drei",
+      "url": "https://github.com/pmndrs/drei",
+      "status": "downloaded",
+      "commit": "bf6f4addf47467d3885de272d94ca5127f6ef68f",
+      "branch": "master",
+      "commit_date": "2026-09-30T18:14:27+02:00",
+      "tracked_files": 598,
+      "shallow": true
+    },
+    {
+      "folder": "14-rapier",
+      "repo": "dimforge/rapier",
+      "url": "https://github.com/dimforge/rapier",
+      "status": "downloaded",
+      "commit": "475caa3ff4646fd9a796b67d14116256f4962bc7",
+      "branch": "master",
+      "commit_date": "2026-10-10T14:08:56+02:00",
+      "tracked_files": 2017,
+      "shallow": true
+    },
+    {
+      "folder": "15-postprocessing",
+      "repo": "pmndrs/postprocessing",
+      "url": "https://github.com/pmndrs/postprocessing",
+      "status": "downloaded",
+      "commit": "a1f103559d15cf56cbcbb15d4373711b09418f3f",
+      "branch": "main",
+      "commit_date": "2026-11-01T14:53:09+01:00",
+      "tracked_files": 730,
+      "shallow": true
+    },
+    {
+      "folder": "16-howlerjs",
+      "repo": "goldfire/howler.js",
+      "url": "https://github.com/goldfire/howler.js",
+      "status": "downloaded",
+      "commit": "1d3053576a860e9854645493ad6c4a72c6cc6e45",
+      "branch": "master",
+      "commit_date": "2025-11-23T17:49:01-06:00",
+      "tracked_files": 69,
+      "shallow": true
+    },
+    {
+      "folder": "17-mediabunny",
+      "repo": "Vanilagy/mediabunny",
+      "url": "https://github.com/Vanilagy/mediabunny",
+      "status": "downloaded",
+      "commit": "aa5923124db643ff865c756a1558c2d1d37ae9bd",
+      "branch": "main",
+      "commit_date": "2026-11-02T15:53:08+01:00",
+      "tracked_files": 477,
+      "shallow": true
+    },
+    {
+      "folder": "18-ffmpeg",
+      "repo": "FFmpeg/FFmpeg",
+      "url": "https://github.com/FFmpeg/FFmpeg",
+      "status": "downloaded",
+      "commit": "aab6cec3e8415154b3f0570f8d131db07a9901de",
+      "branch": "master",
+      "commit_date": "2026-11-02T17:44:22-08:00",
+      "tracked_files": 11116,
+      "shallow": true
+    }
+  ],
+  "workspace_layout": {
+    "mode": "vendored-monorepo",
+    "root_git_branch": "main",
+    "source_directory": "repos",
+    "local_git_archives": ".workspace/upstream-git",
+    "archive_mapping": "configs/upstream-archives.json",
+    "tool_registry": "configs/tools.json",
+    "optional_upstream_submodules": "configs/upstream-submodules.json",
+    "note": "Commit and shallow fields describe original downloads. Local AGENTS.md overlays are managed by this workspace. No root commit or remote has been created."
+  }
+}

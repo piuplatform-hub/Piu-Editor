@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "recordedDate": "2026-11-03",
+  "projectId": "tvc-driving-premium",
+  "version": "v004",
+  "scope": "Snapshot of observed project evidence; no claim of continuous playback, auditory review or clean rebuild on another machine.",
+  "output": {
+    "path": "output/tvc-driving-premium/yen-thanh-tvc-v004.mp4",
+    "sha256": "91f393fe300a624dee4e9f94040db0ecef56274687b5ab56231f296497e0c218",
+    "bytes": 68176563,
+    "containerDurationSeconds": 40.64,
+    "videoDurationSeconds": 40.625,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "frames": 975,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "colorSpace": "bt709",
+    "colorRange": "tv",
+    "audioCodec": "aac",
+    "audioChannels": 2,
+    "sampleRate": 48000
+  },
+  "runtime": {
+    "remotion": "4.0.540",
+    "gsap": "3.15.0",
+    "react": "19.2.0",
+    "ffmpeg": "n7.1",
+    "platform": "Windows",
+    "browser": "Remotion bundled Chromium"
+  },
+  "validation": {
+    "fullDecode": "passed",
+    "integratedLufs": -14.53,
+    "truePeakDbtp": -3.6,
+    "masterAudioCorrelation": {
+      "lagSamplesAt8k": 0,
+      "correlation": 0.999931037336322
+    },
+    "soundtrackSameAsV003": true,
+    "unchangedOriginalCount": 8,
+    "preservedPriorDeliverableCount": 9,
+    "fontCoverage": [
+      {
+        "file": "BeVietnamPro-Bold.ttf",
+        "weight": 700,
+        "checkedCharacters": 107,
+        "missing": []
+      },
+      {
+        "file": "BeVietnamPro-Medium.ttf",
+        "weight": 500,
+        "checkedCharacters": 107,
+        "missing": []
+      },
+      {
+        "file": "BeVietnamPro-Regular.ttf",
+        "weight": 400,
+        "checkedCharacters": 107,
+        "missing": []
+      },
+      {
+        "file": "BeVietnamPro-SemiBold.ttf",
+        "weight": 600,
+        "checkedCharacters": 107,
+        "missing": []
+      }
+    ],
+    "accentRegression": [
+      {
+        "frame": 60,
+        "identical": true,
+        "meanAbsoluteDifference": 0.0,
+        "differenceBox": null
+      },
+      {
+        "frame": 72,
+        "identical": true,
+        "meanAbsoluteDifference": 0.0,
+        "differenceBox": null
+      }
+    ],
+    "visualReview": {
+      "actualMP4FramesReviewed": [
+        52,
+        220,
+        334,
+        420,
+        530
+      ],
+      "animationSampleFramesReviewed": [
+        14,
+        28
+      ],
+      "settledAccentGridReviewed": 72,
+      "result": "all 5 reported title groups reviewed with full Vietnamese accents, blue accent and thin stroke",
+      "continuousPlaybackReview": "not performed"
+    },
+    "auditoryReview": "Not performed by the assistant; user listening review remains"
+  },
+  "diagnosis": {
+    "method": "same Manrope font/size/lineheight/text; clipPath inset(0) enabled versus disabled",
+    "image": "projects/tvc-driving-premium/previews/v004/accent-diagnosis.png",
+    "result": "clipping reproduced and removed by disabling clipPath"
+  },
+  "durableEvidence": [
+    {
+      "path": "docs/production/evidence/yen-thanh-v004-text-before-after.jpg",
+      "sha256": "a6c58cc0e1fa21b1a70ead420549310bd59a9fcf41939babf779e092b02a1262",
+      "bytes": 561029,
+      "availability": "local_only_not_in_git",
+      "description": "Matched MP4 frame crops from v003 and v004 at the five reported title groups."
+    }
+  ],
+  "fontSources": [
+    {
+      "name": "BeVietnamPro-Regular.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-Regular.ttf",
+      "sha256": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3"
+    },
+    {
+      "name": "BeVietnamPro-Medium.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-Medium.ttf",
+      "sha256": "b60832bfa0fcd015158112c64d7e3fdad3b0c6287d1823f85a3103636e845268"
+    },
+    {
+      "name": "BeVietnamPro-SemiBold.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-SemiBold.ttf",
+      "sha256": "bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71"
+    },
+    {
+      "name": "BeVietnamPro-Bold.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/BeVietnamPro-Bold.ttf",
+      "sha256": "7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847"
+    },
+    {
+      "name": "BeVietnamPro-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bevietnampro/OFL.txt",
+      "sha256": "6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85"
+    }
+  ],
+  "sourceReferences": [
+    "projects/tvc-driving-premium/src/v004/Film.tsx",
+    "projects/tvc-driving-premium/src/v004/AccentDiagnosis.tsx",
+    "projects/tvc-driving-premium/src/v004/AccentRegression.tsx",
+    "projects/tvc-driving-premium/src/v004/render.cjs",
+    "projects/tvc-driving-premium/src/v004/qa.py"
+  ],
+  "localEvidence": [
+    "projects/tvc-driving-premium/working/v004/qa-report.json",
+    "projects/tvc-driving-premium/working/v004/accent-reference-comparison.json",
+    "projects/tvc-driving-premium/working/v004/font-coverage.json"
+  ],
+  "localEvidenceAvailability": "Only this summary JSON is versioned. All media, including the before-after image in docs, stays local and is not included in a Git clone; preserve it separately for visual review.",
+  "feedback": {
+    "state": "positive_user_feedback_after_v004",
+    "scope": "User reported the v004 correction was much better; this does not establish every unperformed QA category."
+  }
+}
