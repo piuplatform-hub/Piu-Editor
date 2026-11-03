@@ -93,6 +93,16 @@ class RestoreTests(unittest.TestCase):
 
 
 class WorkspaceTests(unittest.TestCase):
+    def test_boundary_canonicalizes_root_and_rejects_escape(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root / "alias").mkdir()
+            # Equivalent roots must compare equally, including Windows 8.3 aliases.
+            with patch.object(studio, "ROOT", root / "alias/.."):
+                self.assertEqual(studio.inside(root / "projects/demo"), (root / "projects/demo").resolve())
+                with self.assertRaises(ValueError):
+                    studio.inside(root.parent / "outside-workspace")
+
     def test_new_project_unicode_and_empty_media_folders(self):
         with tempfile.TemporaryDirectory() as folder:
             root = Path(folder)

@@ -40,7 +40,7 @@ def now():
 
 def inside(path):
     resolved = path.resolve()
-    if not resolved.is_relative_to(ROOT):
+    if not resolved.is_relative_to(ROOT.resolve()):
         raise ValueError(f"Path leaves workspace: {path}")
     return resolved
 
