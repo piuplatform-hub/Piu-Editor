@@ -1,5 +1,9 @@
 # Lịch sử thay đổi
 
+## 2026-11-05 — Làm rõ cách AI đọc và hiểu workspace
+
+- Bổ sung hướng dẫn khảo sát mô hình phối hợp 18 công cụ như một đoàn làm phim, xác minh đúng checkout/worktree và báo rõ phạm vi đã đọc hoặc chạy thử.
+
 ## 2026-11-03 — Mốc phát triển đầu tiên
 
 - Bản đồ 18 công cụ, hướng dẫn AI, scaffold/inventory/validator và hồ sơ TVC Yên Thành v001–v004.

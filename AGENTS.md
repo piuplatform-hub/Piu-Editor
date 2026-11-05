@@ -10,6 +10,18 @@ Workspace này biến nguyên liệu của người dùng thành video theo yêu
 - Repo chính chỉ lưu guide, code, cấu hình, tài liệu và placeholder; không push media hoặc source upstream. Sau clone, tải source cần dùng bằng `python scripts/bootstrap_repos.py --tool <id>`, hoặc bỏ `--tool` để tải cả bộ. Đọc [GIT](docs/GIT.md) trước khi stage/push; không tải đè source đã có.
 - Khi bỏ hoặc thêm guide, cập nhật link và validator; không sao chép nguyên hướng dẫn cấp cha xuống các thư mục con.
 
+## Khi được yêu cầu đọc và hiểu repo
+
+Piu Editor kết hợp 18 công cụ như một đoàn làm phim. AI điều phối từ yêu cầu video: chia công đoạn, chọn công cụ phù hợp, nối kết quả và kiểm tra bản phim hoàn chỉnh. Mỗi video hoặc cảnh có thể dùng một vài công cụ; các repo có thể bổ trợ hoặc thay thế nhau trong cùng công đoạn.
+
+1. Xác minh thư mục đang mở, gốc Git, worktree và đường dẫn người dùng chỉ định. Nếu có nhiều bản checkout, đối chiếu đúng bản trước khi kết luận; luôn ghi rõ phạm vi thư mục đã khảo sát.
+2. Đọc bản đồ công cụ, workflow và registry để nắm vai trò của đủ 18 công cụ, cách chọn và phối hợp chúng. Giải thích được công cụ nào phụ trách phần nào và cách đưa kết quả về cùng bản dựng.
+3. Liệt kê filesystem tại thư mục thực tế, kể cả file bị Git ignore. Phân biệt hướng dẫn local, source upstream, dependency đã cài, nguyên liệu và output hiện có. Tình trạng của một worktree chỉ là bằng chứng cho worktree đó.
+4. Đọc guide con trước, rồi khảo sát tài liệu và điểm tích hợp trong source liên quan. Chọn độ sâu theo nhiệm vụ hoặc yêu cầu của người dùng; tổng quan cả bộ không đòi hỏi đọc toàn bộ mã nguồn của 18 thư viện.
+5. Dùng project sẵn có làm ví dụ về cách phối hợp công cụ, đồng thời giữ phần đánh giá tổng thể của workspace. Khi tổng kết, nêu mục tiêu sản xuất, cách chọn/phối hợp công cụ, dữ liệu hiện có và giới hạn đã xác minh. Ghi riêng hướng dẫn đã đọc, source đã khảo sát và runtime đã chạy thử.
+
+Với yêu cầu chỉ đọc và hiểu repo, bàn giao kết quả khảo sát. Việc tạo project, cài dependency hoặc render được thực hiện khi nhiệm vụ cần đến.
+
 ## Khi người dùng yêu cầu cập nhật công cụ
 
 Đọc [UPDATING](docs/UPDATING.md) trước khi kiểm tra hoặc nâng repo con. Không tải đè: xác minh phiên bản, sao lưu, so sánh và giữ chỉnh sửa local, thay source có kiểm soát, cập nhật guide/manifest/registry rồi kiểm tra. Phân biệt cập nhật source tham khảo với nâng package/binary của project. Với yêu cầu “cập nhật nếu cần”, đánh giá lợi ích/tương thích rồi thực hiện phần cần thiết trong phạm vi đã yêu cầu; không tự nâng toàn bộ 18 repo. Thêm repo mới theo [EXTENDING](docs/EXTENDING.md). Đây là công việc bảo trì, không cần tạo project video.
