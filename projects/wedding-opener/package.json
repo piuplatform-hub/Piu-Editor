@@ -1,0 +1,20 @@
+{
+  "name": "piu-wedding-opener",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prepare:media": "python -X utf8 src/prepare.py",
+    "studio": "remotion studio src/entry.tsx",
+    "stills": "node src/render.cjs stills",
+    "render": "node src/render.cjs final",
+    "qa": "python -X utf8 src/qa.py"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.540",
+    "@remotion/cli": "4.0.540",
+    "@remotion/renderer": "4.0.540",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540"
+  }
+}

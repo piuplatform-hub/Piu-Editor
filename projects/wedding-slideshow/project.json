@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "wedding-slideshow",
+  "title": "Từ hôm nay — Văn Công & Thương Huyền",
+  "createdAt": "2026-11-25T04:02:32.306332+00:00",
+  "status": "complete",
+  "engine": "custom",
+  "selectedTools": ["remotion", "remotion-skills", "gsap", "gsap-skills", "ffmpeg"],
+  "activeVersion": "v005",
+  "sourceRoots": [
+    "Source/inbox/wedding-slideshow"
+  ],
+  "brief": "projects/wedding-slideshow/brief.md",
+  "assetManifest": "projects/wedding-slideshow/assets.json",
+  "paths": {
+    "source": "projects/wedding-slideshow/src",
+    "working": "projects/wedding-slideshow/working",
+    "previews": "projects/wedding-slideshow/previews",
+    "notes": "projects/wedding-slideshow/notes",
+    "output": "output/wedding-slideshow"
+  },
+  "preset": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 50,
+    "durationSeconds": 2752.92,
+    "container": "mp4",
+    "assumptions": [
+      "Chiếu trong lúc ăn tiệc, màn ngang Full HD, 50 fps.",
+      "Dùng 13 MP3 có trong thư mục nhạc cưới, theo thứ tự người dùng gửi trong chat.",
+      "Ảnh hai bé mở phim và trở lại trong Photograph. Tên và ngày cưới hiện tại các cảnh chính."
+    ]
+  },
+  "deliverables": [
+    "output/wedding-slideshow/tu-hom-nay-slideshow-v001.mp4",
+    "output/wedding-slideshow/delivery.md",
+    "output/wedding-slideshow/van-cong-thuong-huyen-tu-hom-nay.mp4",
+    "output/wedding-slideshow/delivery-v005.md"
+  ],
+  "latestPreview": {
+    "version": "v005-opening",
+    "path": "projects/wedding-slideshow/previews/v005/tu-hom-nay-phan-mo-v005.mp4",
+    "durationSeconds": 31.12,
+    "engine": "custom",
+    "selectedTools": ["remotion", "remotion-skills", "gsap", "gsap-skills", "ffmpeg"],
+    "notes": "projects/wedding-slideshow/notes/kich-ban-v005.md"
+  }
+}

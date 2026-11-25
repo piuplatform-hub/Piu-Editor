@@ -1,0 +1,32 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": {
+    "file": "Ngày Đầu Tiên.mp3",
+    "fadeInSeconds": 0.28,
+    "fadeOutStartSeconds": 84.15,
+    "fadeOutEndSeconds": 86.0,
+    "targetLufs": -15.5,
+    "peakCeilingDbtp": -1.8
+  },
+  "shots": [
+    {"id":"opening", "endFrame":237, "layout":"opening", "photos":["PAD_4549"]},
+    {"id":"portraits", "endFrame":400, "layout":"pair", "photos":["PAD_4054","PAD_4835"], "transition":"dissolve", "accent":"&"},
+    {"id":"arm-in-arm", "endFrame":580, "layout":"pair", "photos":["PAD_4175","PAD_4297"], "transition":"page"},
+    {"id":"veil", "endFrame":711, "layout":"wide", "photos":["1790948851167"], "focus":8, "transition":"dissolve"},
+    {"id":"flowers", "endFrame":842, "layout":"portrait", "photos":["PAD_4423"], "side":"right", "transition":"dissolve"},
+    {"id":"hands", "endFrame":957, "layout":"portrait", "photos":["PAD_4503"], "side":"left", "transition":"page", "tone":"sage"},
+    {"id":"hand-kiss", "endFrame":1071, "layout":"portrait", "photos":["PAD_4573"], "side":"right", "tone":"sage"},
+    {"id":"cake", "endFrame":1202, "layout":"wide", "photos":["1790948851096"], "focus":8, "transition":"dissolve"},
+    {"id":"toast", "endFrame":1333, "layout":"portrait", "photos":["PAD_4627"], "side":"left", "tone":"sage"},
+    {"id":"confetti", "endFrame":1464, "layout":"portrait", "photos":["1790948851119"], "side":"right", "tone":"sage"},
+    {"id":"celebration", "endFrame":1579, "layout":"wide", "photos":["PAD_4759"], "focus":20, "transition":"dissolve"},
+    {"id":"song-hy", "endFrame":1759, "layout":"tradition", "photos":["PAD_4974"], "transition":"curtain", "tone":"wine"},
+    {"id":"fans", "endFrame":1906, "layout":"pair", "photos":["PAD_4880","PAD_4919"], "transition":"page", "tone":"wine"},
+    {"id":"together", "endFrame":2037, "layout":"portrait", "photos":["PAD_4944"], "side":"left", "tone":"wine"},
+    {"id":"shoulder", "endFrame":2168, "layout":"portrait", "photos":["PAD_5007"], "side":"right", "tone":"wine"},
+    {"id":"close", "endFrame":2299, "layout":"wide", "photos":["PAD_5014"], "focus":31, "transition":"dissolve", "tone":"wine"},
+    {"id":"thanks", "endFrame":2592, "layout":"closing", "photos":["PAD_4238"], "transition":"dissolve"}
+  ]
+}

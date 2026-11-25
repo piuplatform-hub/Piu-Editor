@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-25",
+  "project": "wedding-slideshow",
+  "version": "v003-preview",
+  "localDependencies": {
+    "remotion": "4.0.540",
+    "gsap": "3.15.0",
+    "ffmpeg": "n7.1"
+  },
+  "curatedPhotosUsed": 9,
+  "scenes": 4,
+  "song": "Ngày Đầu Tiên",
+  "songRangeSeconds": [
+    33.08,
+    60.52
+  ],
+  "ceremonyStartSeconds": 19.28,
+  "video": "projects/wedding-slideshow/previews/v003/tu-hom-nay-v003-remotion.mp4",
+  "bytes": 16647388,
+  "sha256": "39bc5f4faca8c66ab74a3900d6b8cb1027ef0b65b1fbfd9077c881872dcf07b1",
+  "duration": 27.44,
+  "frames": 1372,
+  "fps": 50,
+  "width": 1920,
+  "height": 1080,
+  "audio": "AAC 48000 Hz stereo",
+  "fullDecode": true,
+  "videoTimestampGaps": 0,
+  "frameSamples": 14,
+  "repeatFrameChecksumMatch": true,
+  "audioMinCorrelation": 0.9997250862800788,
+  "lufs": -18.35,
+  "truePeakDbtp": -10.55,
+  "continuousPlaybackReview": false,
+  "humanListening": false
+}

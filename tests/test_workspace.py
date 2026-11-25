@@ -167,6 +167,12 @@ class WorkspaceTests(unittest.TestCase):
         self.assertTrue(publish.problems("Source/.gitkeep", "100644", b"private input"))
         self.assertTrue(publish.problems("repos/01-fixture/README.md", "100644", b"upstream"))
 
+    def test_render_requirements_allowed_only_at_project_root(self):
+        manifest = b"Pillow==12.2.0\n"
+        self.assertEqual(publish.problems("projects/demo/requirements-render.txt", "100644", manifest), [])
+        self.assertTrue(publish.problems("projects/demo/working/requirements-render.txt", "100644", manifest))
+        self.assertTrue(publish.problems("projects/demo/notes/unrelated.txt", "100644", manifest))
+
 
 if __name__ == "__main__":
     unittest.main()

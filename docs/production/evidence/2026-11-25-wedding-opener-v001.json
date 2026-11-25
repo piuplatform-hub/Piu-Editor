@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-25",
+  "project": "wedding-opener",
+  "version": "v001",
+  "output": "output/wedding-opener/tu-hom-nay-v001.mp4",
+  "outputSha256": "2c48228daa4dda0b379009ae5421c71c00823f90d9ed9af4c7494d877f19e267",
+  "outputBytes": 31351907,
+  "render": {
+    "remotionVersion": "4.0.540",
+    "ffmpegVersion": "n7.1",
+    "retryExitCode": 0,
+    "mainPictureFrames": 2299,
+    "endCardFrames": 293,
+    "endCardStartFrame": 2299
+  },
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationSeconds": 86.4,
+    "frames": 2592,
+    "fullDecode": true,
+    "sampledTransitions": 16,
+    "continuousPlayback": false
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRateHz": 48000,
+    "channels": 2,
+    "packetCount": 4051,
+    "timestampGaps": 0,
+    "integratedLufs": -15.54,
+    "maxTruePeakDbtp": -6.04,
+    "minSampledMixCorrelation": 0.9998515635379948,
+    "quietTail": true,
+    "humanListening": false
+  },
+  "selectedSourceHashesMatched": 21
+}

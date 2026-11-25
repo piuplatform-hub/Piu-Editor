@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-25",
+  "project": "wedding-slideshow",
+  "version": "v001",
+  "output": "output/wedding-slideshow/tu-hom-nay-slideshow-v001.mp4",
+  "outputBytes": 774568622,
+  "outputSha256": "329dda10bed677d63d3ec8c6792efef1170400077eb5c6072d7a07f4b5f6a13a",
+  "picture": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "frames": 50187,
+    "durationSeconds": 2007.48,
+    "encoder": "h264_nvenc",
+    "fullDecode": true
+  },
+  "layout": {
+    "albumPhotos": 77,
+    "sessionPhotos": 99,
+    "placements": 322,
+    "slides": 126,
+    "encodedSceneSamples": 126,
+    "encodedCutSamples": 125,
+    "songBoundarySamples": 30
+  },
+  "audio": {
+    "songs": 10,
+    "playlistImageEntries": 14,
+    "packets": 94102,
+    "trimmedQuietEdgesSeconds": 34.84,
+    "crossfadeSeconds": 1.12,
+    "integratedLufs": -18.03,
+    "truePeakDbtp": -5.04,
+    "sampledMinCorrelation": 0.9989045269423679,
+    "measuredSilencesAtMinus48DbfsOfAtLeastPointSevenSeconds": 0,
+    "humanListening": false
+  },
+  "timestampsContinuous": true,
+  "continuousViewing": false,
+  "venuePlayback": false
+}

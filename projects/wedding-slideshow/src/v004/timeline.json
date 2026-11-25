@@ -1,0 +1,41 @@
+{
+  "movie": "tu-hom-nay-v004-text.mp4",
+  "fps": 50,
+  "durationInFrames": 2352,
+  "musicStartFrame": 926,
+  "accentFrames": 49,
+  "additionalFonts": ["BeVietnamPro-Medium.ttf"],
+  "backdrops": {
+    "B21": [225, 203, 182],
+    "B41": [225, 210, 194],
+    "B12": [224, 194, 170],
+    "B40": [113, 30, 44],
+    "B27": [226, 204, 176]
+  },
+  "weddingDate": {
+    "from": 1760,
+    "solar": "29/11/2026",
+    "lunar": "21/10/2026"
+  },
+  "scenes": [
+    {
+      "id": "opening", "from": 0, "photos": ["B47"],
+      "text": {"lines": ["Từ", "hôm nay"], "inFrame": 35, "outFrame": 312}
+    },
+    {
+      "id": "veil", "from": 382, "photos": ["B21", "B52"],
+      "text": {"lines": ["Mình", "chọn nhau"], "inFrame": 61, "outFrame": 318}
+    },
+    {"id": "portraits", "from": 772, "photos": ["B53", "B41", "B55"]},
+    {"id": "toast", "from": 1228, "photos": ["B12", "B10"]},
+    {
+      "id": "ceremony", "from": 1692, "photos": ["B43", "B40"],
+      "text": {"lines": ["Ngày", "chung đôi"], "inFrame": 49, "outFrame": 286}
+    },
+    {
+      "id": "closing", "from": 2046, "photos": ["B27", "B15"],
+      "text": {"lines": ["Cảm ơn"], "support": "đã đến chung vui", "inFrame": 48, "outFrame": 254}
+    }
+  ],
+  "stillFrames": [129, 447, 534, 806, 1438, 1755, 1840, 2019, 2193, 2329, 129]
+}

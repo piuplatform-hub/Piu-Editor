@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-25",
+  "project": "wedding-slideshow",
+  "version": "v002-preview",
+  "template": "Romantik Love Story",
+  "reference": {
+    "guidePagesReviewed": 3,
+    "aepRendered": false,
+    "overlaysUsed": 8
+  },
+  "source": {
+    "curatedPhotos": 55,
+    "photosUsed": 22,
+    "archivedSlideshowSha256": "329dda10bed677d63d3ec8c6792efef1170400077eb5c6072d7a07f4b5f6a13a"
+  },
+  "preview": {
+    "file": "projects/wedding-slideshow/previews/v002/tu-hom-nay-v002-preview.mp4",
+    "sha256": "a351113d9eaf91773c2b03a7ee0b39cb3bf24fcc745bfc012065507aeafec5fd",
+    "bytes": 31038361,
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "frames": 1618,
+    "durationSeconds": 64.72,
+    "encoder": "h264_nvenc",
+    "fullDecode": true,
+    "photoCount": 22,
+    "sceneSamples": 11,
+    "transitionSamples": 27,
+    "audioLufs": -19.91,
+    "truePeakDbtp": -10.26
+  },
+  "song": "Ngày Đầu Tiên",
+  "ceremonySceneStartSeconds": 52.36,
+  "humanListening": false,
+  "venuePlayback": false
+}

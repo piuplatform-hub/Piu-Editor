@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-25",
+  "project": "wedding-slideshow",
+  "version": "v005",
+  "nameCard": {
+    "groom": "Văn Công",
+    "bride": "Thương Huyền",
+    "solarDate": "29/11/2026",
+    "lunarDate": "21/10/2026"
+  },
+  "photoSources": {
+    "curatedFiles": 55,
+    "distinctUsed": 54,
+    "photoPlacements": 544,
+    "childrenInChapters": [
+      1,
+      8
+    ]
+  },
+  "editorial": {
+    "sceneCount": 261,
+    "textCues": 28,
+    "chapterCount": 13,
+    "appliedAudioOnsetCuts": 224,
+    "crossfadeSeconds": 1.12
+  },
+  "tools": {
+    "remotion": "4.0.540",
+    "gsap": "3.15.0",
+    "ffmpeg": "n7.1",
+    "pyav": "17.0.1",
+    "encoder": "RTX 3060 NVENC"
+  },
+  "movie": "output/wedding-slideshow/van-cong-thuong-huyen-tu-hom-nay-v005.mp4",
+  "bytes": 1997697089,
+  "sha256": "3addfd9f7c6f6147a3b923af929ad82dc6d97880fbe30b250cff258593d13f0b",
+  "durationSeconds": 2752.92,
+  "width": 1920,
+  "height": 1080,
+  "fps": 50,
+  "videoFrames": 137646,
+  "tracks": 13,
+  "audioPackets": 129045,
+  "fullDecode": true,
+  "timestampsContinuous": true,
+  "audio": {
+    "lufs": -18.04,
+    "truePeakDbtp": -6.07,
+    "songs": [
+      {
+        "song": "Ngày Đầu Tiên",
+        "minCorrelation": 0.9998897570347863
+      },
+      {
+        "song": "Em Đồng Ý (I Do)",
+        "minCorrelation": 0.9994704701247888
+      },
+      {
+        "song": "Đến Khi Nào (Drill)",
+        "minCorrelation": 0.9994696451678645
+      },
+      {
+        "song": "Lễ Đường",
+        "minCorrelation": 0.9998748387293769
+      },
+      {
+        "song": "Phép Màu",
+        "minCorrelation": 0.9993322158996593
+      },
+      {
+        "song": "Một Nhà",
+        "minCorrelation": 0.9998868822075082
+      },
+      {
+        "song": "Ordinary (Wedding Version)",
+        "minCorrelation": 0.9994768508237251
+      },
+      {
+        "song": "Photograph",
+        "minCorrelation": 0.9992253020611109
+      },
+      {
+        "song": "Chúa Tể",
+        "minCorrelation": 0.9990979763194139
+      },
+      {
+        "song": "Lỡ Thương Nhau",
+        "minCorrelation": 0.9991761242020957
+      },
+      {
+        "song": "Gói Con Tim Làm Quà",
+        "minCorrelation": 0.9994558553205007
+      },
+      {
+        "song": "Ngày Chung Đôi",
+        "minCorrelation": 0.9973994917524803
+      },
+      {
+        "song": "My Love",
+        "minCorrelation": 0.99836821747546
+      }
+    ],
+    "quietTail": true,
+    "silences": [
+      [
+        2751.930958,
+        2752.938667,
+        1.007708
+      ]
+    ]
+  },
+  "sceneSamples": 261,
+  "textSamples": 28,
+  "textMotionSamples": 24,
+  "chapterCutSamples": 36,
+  "motionSample": {
+    "children": {
+      "samples": 281,
+      "goodConfidence": 281,
+      "stepMedian": 0.42054776300359914,
+      "stepP95": 0.47465743062574367,
+      "stepP99": 0.4910729885220108,
+      "max": 0.508226409692746,
+      "stepOver0.5": 1,
+      "accelP95": 0.1309512814885389,
+      "confidenceP10": 0.9721543099360211
+    },
+    "names": {
+      "samples": 199,
+      "goodConfidence": 199,
+      "stepMedian": 0.03395978224287791,
+      "stepP95": 0.0748744473568537,
+      "stepP99": 0.08365557690596742,
+      "max": 0.09359057471010185,
+      "stepOver0.5": 0,
+      "accelP95": 0.057461743567769286,
+      "confidenceP10": 0.9811609390113089
+    }
+  },
+  "continuousPlaybackAtVenue": false,
+  "liveListening": false
+}

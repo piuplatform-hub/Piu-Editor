@@ -1,0 +1,3409 @@
+{
+  "schemaVersion": 1,
+  "projectId": "wedding-slideshow",
+  "generatedAt": "2026-11-25T13:41:42.387557+00:00",
+  "sourceRoots": [
+    "Source/inbox/wedding-slideshow"
+  ],
+  "assets": [
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948850986_1440350563044129476_1440350563044129476_b033b8d9ea476bedbf949eb58172b61d.jpg",
+      "mediaType": "image",
+      "sizeBytes": 414129,
+      "mtimeNs": 1790948880658536200,
+      "exists": true,
+      "sha256": "488dffc0b2106394fd34072c2df47b010360f7033ac282186458b75c1702bd87",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851009_1440350563044129476_1440350563044129476_7c14d6ffd0f38ade1e6cb306f1577589.jpg",
+      "mediaType": "image",
+      "sizeBytes": 361185,
+      "mtimeNs": 1790948883678963800,
+      "exists": true,
+      "sha256": "c64e4419c1796bde58873deca8dea6f9b8b78eae80a3643387004643a2afa9b3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851025_1440350563044129476_1440350563044129476_57c7d52585ce95af6ca0e9e3a246b0b5.jpg",
+      "mediaType": "image",
+      "sizeBytes": 334864,
+      "mtimeNs": 1790948891257623700,
+      "exists": true,
+      "sha256": "1312135cbe02c457ffcbe36da920d70cfecc046350e650362053b3dc26bd274e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851039_1440350563044129476_1440350563044129476_aeb029c35cbd158af600eeca33916993.jpg",
+      "mediaType": "image",
+      "sizeBytes": 328820,
+      "mtimeNs": 1790948895518100800,
+      "exists": true,
+      "sha256": "364ae6f244a61c13e4870f5d5c44a2c939741be08943cfd9eaa79d08efb598b5",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851052_1440350563044129476_1440350563044129476_a6c313313b884e0f1224f9b895333dd3.jpg",
+      "mediaType": "image",
+      "sizeBytes": 352219,
+      "mtimeNs": 1790948900043926600,
+      "exists": true,
+      "sha256": "6a8b5158bec2dab512598bb431c91ad46e7151f9bc12bfdabffd6737378b0aeb",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851063_1440350563044129476_1440350563044129476_4b189fb5ef15bae0767bb03f2bd80e49.jpg",
+      "mediaType": "image",
+      "sizeBytes": 366359,
+      "mtimeNs": 1790948904871338900,
+      "exists": true,
+      "sha256": "ccb3a95aed4b8c6b76804b26e0bfbbb190608c67df3cd8fed94890dbd77a09de",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851072_1440350563044129476_1440350563044129476_5fe5c6ff3e44b29d9131d3a001705089.jpg",
+      "mediaType": "image",
+      "sizeBytes": 359616,
+      "mtimeNs": 1790948908519357900,
+      "exists": true,
+      "sha256": "4d06b7434eb08f70803c984d5333cf9253927d8a48d0723decb236851d45c27b",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851080_1440350563044129476_1440350563044129476_6bc9d8b8c198056ed0ae5f5e4e7006db.jpg",
+      "mediaType": "image",
+      "sizeBytes": 340902,
+      "mtimeNs": 1790948911282375900,
+      "exists": true,
+      "sha256": "203b96c49695f7b7ec4ba884a014f81d68ff7a164845f3c3490e294600cfb5a7",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851088_1440350563044129476_1440350563044129476_b75a29d9448c5070fe820973daed946e.jpg",
+      "mediaType": "image",
+      "sizeBytes": 429900,
+      "mtimeNs": 1790948915037794700,
+      "exists": true,
+      "sha256": "d880844696245e7910c683bcb77e45d22b2e3ca19fbf9aadc4eaa4f889ecbaaf",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851096_1440350563044129476_1440350563044129476_b7ead039d25e3115bbd1221f28934377.jpg",
+      "mediaType": "image",
+      "sizeBytes": 459690,
+      "mtimeNs": 1790948919381080900,
+      "exists": true,
+      "sha256": "9842e96fd6d8b96d581a4845d5170ec8a8cfe243d82140c7d41ffc92beff6df1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851104_1440350563044129476_1440350563044129476_44f219f4e0fa70eef76cc73422069e00.jpg",
+      "mediaType": "image",
+      "sizeBytes": 322513,
+      "mtimeNs": 1790948922289989600,
+      "exists": true,
+      "sha256": "eb0356bf10d343bde4ec91e9854afbe75c05d2cb8e82774ad825376ac69e8cba",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851112_1440350563044129476_1440350563044129476_44b341f5e8506111543dd5e42bb6b6b3.jpg",
+      "mediaType": "image",
+      "sizeBytes": 323538,
+      "mtimeNs": 1790948925675029100,
+      "exists": true,
+      "sha256": "4d3795fbbb50bfaad4ec534bd717154f02d7fbe547e4306913dbdac4aee7dfe7",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851119_1440350563044129476_1440350563044129476_d4e6a25565f7dd4bd24892ddbf6435e8.jpg",
+      "mediaType": "image",
+      "sizeBytes": 351656,
+      "mtimeNs": 1790948933649484300,
+      "exists": true,
+      "sha256": "af07d1915e13565e32cec2f170ee6b2af24d2c27c7ccf9580f6ca9a218782516",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851126_1440350563044129476_1440350563044129476_f66cfada12a390ffcd9360328c5a6e1c.jpg",
+      "mediaType": "image",
+      "sizeBytes": 873909,
+      "mtimeNs": 1790948936790533900,
+      "exists": true,
+      "sha256": "6904dfd03d087b85c671e1f82944515e999c05b95de9b6565ab493c1c1d5684c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851133_1440350563044129476_1440350563044129476_a233b01c4bd083b6224c1069287c89ef.jpg",
+      "mediaType": "image",
+      "sizeBytes": 926139,
+      "mtimeNs": 1790948941688392500,
+      "exists": true,
+      "sha256": "8d9225b5a12a3c871d017bcccfcb869ce8f648008c979c6bb7568ccb5d0b0968",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851140_1440350563044129476_1440350563044129476_9bc67f39dad9eea37daf71af1e20f91b.jpg",
+      "mediaType": "image",
+      "sizeBytes": 907589,
+      "mtimeNs": 1790948943653075900,
+      "exists": true,
+      "sha256": "930506bb6de88004f4ca227bc0c0025fbb5a4ebb515099628f26c14e25adc771",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851147_1440350563044129476_1440350563044129476_35d27a19b4274b63353345f185026559.jpg",
+      "mediaType": "image",
+      "sizeBytes": 917310,
+      "mtimeNs": 1790948948057051200,
+      "exists": true,
+      "sha256": "af2b436c6c36d8b50564c9075669242c0bd943a0f7241ac4140f96aa4dc0b482",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851153_1440350563044129476_1440350563044129476_4219bfc0368184ca8ee19c29a1f54eb6.jpg",
+      "mediaType": "image",
+      "sizeBytes": 862780,
+      "mtimeNs": 1790948950641829300,
+      "exists": true,
+      "sha256": "a5ec905e71f12ecb93d21eb93cab51d561ad72932456485929447a7c2fbe4aab",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851160_1440350563044129476_1440350563044129476_6d363d842790ff98b697a606553252c9.jpg",
+      "mediaType": "image",
+      "sizeBytes": 914286,
+      "mtimeNs": 1790948954055184100,
+      "exists": true,
+      "sha256": "dd377bdc2f7221f47276f4b97b3c6dd31ab719907bd8fa8054aaaf6670e1cd6e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851167_1440350563044129476_1440350563044129476_292766ffb1160fd5ada70fecd123e00f.jpg",
+      "mediaType": "image",
+      "sizeBytes": 301126,
+      "mtimeNs": 1790948956807729400,
+      "exists": true,
+      "sha256": "bd08dcaf75b26f35c2d0da65678d7e0d740f5ef95e2560929ef6e5106a47aed3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851172_1440350563044129476_1440350563044129476_3295457da6142efddeebea98fd0835c7.jpg",
+      "mediaType": "image",
+      "sizeBytes": 795788,
+      "mtimeNs": 1790948959619462000,
+      "exists": true,
+      "sha256": "b3df1ffc789619b42c7bab8d6344e7e7aac0decba6aaafeb759221c185a0270d",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851220_1440350563044129476_1440350563044129476_b2ef4c0bfaf43ab1d41f090f566f5558.jpg",
+      "mediaType": "image",
+      "sizeBytes": 321805,
+      "mtimeNs": 1790948971735033000,
+      "exists": true,
+      "sha256": "5c44d45b90ad4766dd20db2a6249f744be590191dc2a98b69974b9ad3f65f641",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851226_1440350563044129476_1440350563044129476_4a79f0bcb73a5f470041abedf4da7698.jpg",
+      "mediaType": "image",
+      "sizeBytes": 256767,
+      "mtimeNs": 1790948974761943500,
+      "exists": true,
+      "sha256": "f951855b842901270ec0fcb303108e17d75a915560d3e1b4f1bcb9ccdfbdef72",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851232_1440350563044129476_1440350563044129476_d7d9df7121841317b57a9d30bba944ae.jpg",
+      "mediaType": "image",
+      "sizeBytes": 256356,
+      "mtimeNs": 1790948977624935300,
+      "exists": true,
+      "sha256": "e6bbe104c28fdc98b5aa8ba189d657ac2e97085238846b81eb1d8ee5b9c6ae56",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851238_1440350563044129476_1440350563044129476_31242f7a48b8241c63c436ad2d53b1a2.jpg",
+      "mediaType": "image",
+      "sizeBytes": 281672,
+      "mtimeNs": 1790948980146773100,
+      "exists": true,
+      "sha256": "2f93a0df72f7035291615e053a4a00d672c94277becef1ed43325106e48c759d",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851244_1440350563044129476_1440350563044129476_16d696c2a505ea8defa363b1a76cd9b7.jpg",
+      "mediaType": "image",
+      "sizeBytes": 319088,
+      "mtimeNs": 1790948982533451100,
+      "exists": true,
+      "sha256": "5206b74618fe2ab915ec9339b512c6fa0b879c62c1f23f8f3728c5481e70d9f0",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851250_1440350563044129476_1440350563044129476_cc2486446ed4d316dac488fd7435bae8.jpg",
+      "mediaType": "image",
+      "sizeBytes": 314973,
+      "mtimeNs": 1790948984787314900,
+      "exists": true,
+      "sha256": "6ee02fd42199ca1aecf0a79cdaac4c5684e9bdde4d57925b528e0d0d689b7801",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851256_1440350563044129476_1440350563044129476_37e317528cc36cba4b129d47efdec683.jpg",
+      "mediaType": "image",
+      "sizeBytes": 362969,
+      "mtimeNs": 1790948986889651600,
+      "exists": true,
+      "sha256": "9a2fe513b42c3de6b7ba9c0a0649ed84fc17614ed276dde80639e1e2e525ea7a",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851262_1440350563044129476_1440350563044129476_2534f5acddd481f1c4f020ce41001f4e.jpg",
+      "mediaType": "image",
+      "sizeBytes": 493987,
+      "mtimeNs": 1790948989041567300,
+      "exists": true,
+      "sha256": "711beb1cc4de3f66f370a35328dea9d06befeba6da2e230133b3c3f253a79471",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851268_1440350563044129476_1440350563044129476_f2fcd039bad9e96d864ba835ba2435ba.jpg",
+      "mediaType": "image",
+      "sizeBytes": 303693,
+      "mtimeNs": 1790948991173276300,
+      "exists": true,
+      "sha256": "70eb730c52f794513ba3153d009ad0a97444394cbfd94bf6bd0dd82db642d357",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851274_1440350563044129476_1440350563044129476_89145dc79eee6decb8fa3b401f8564b1.jpg",
+      "mediaType": "image",
+      "sizeBytes": 468073,
+      "mtimeNs": 1790948993280649200,
+      "exists": true,
+      "sha256": "dfe83b9c153d8231f32773960f674dc3dc8d4cd60f1f393adc9b7a2efc9ccc72",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851280_1440350563044129476_1440350563044129476_6e749ebc39637d3c63d8075575c3d4e5.jpg",
+      "mediaType": "image",
+      "sizeBytes": 219005,
+      "mtimeNs": 1790948995137930000,
+      "exists": true,
+      "sha256": "7c734df6b52ed8527c4f37e5c4cc93e00c7104eeec1cf8d0c4e2d07bee82359d",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851286_1440350563044129476_1440350563044129476_2777bbb620202f898b088cde5f0882ee.jpg",
+      "mediaType": "image",
+      "sizeBytes": 280682,
+      "mtimeNs": 1790948997440911900,
+      "exists": true,
+      "sha256": "8ec9b6079177997510fea2bf1b972e91e5ee29b75e66e38c2f3c080f32f7ecd7",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851292_1440350563044129476_1440350563044129476_f7850de1d4e5297cc632e538f468064e.jpg",
+      "mediaType": "image",
+      "sizeBytes": 249002,
+      "mtimeNs": 1790948999648433700,
+      "exists": true,
+      "sha256": "7236bebba57e101f124ee00d666e7336a5bab78361ffa6424b21edfe8e47c920",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851297_1440350563044129476_1440350563044129476_a3bd09bfae665f19328dfddb72e366ac.jpg",
+      "mediaType": "image",
+      "sizeBytes": 269488,
+      "mtimeNs": 1790949001627664900,
+      "exists": true,
+      "sha256": "6c3b6f4fe2d0e6ca145f37d0f3acc05e8f61df37f6e58c816db1fb8a82c409be",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851304_1440350563044129476_1440350563044129476_f325f06004aae2b93a3bd3d4bf7912d9.jpg",
+      "mediaType": "image",
+      "sizeBytes": 275331,
+      "mtimeNs": 1790949003610705800,
+      "exists": true,
+      "sha256": "fb352b88a767cb9496c757a70338292c3f7d60cca85d2c863d2cf61fe25762fd",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851310_1440350563044129476_1440350563044129476_741b62289d1dfe4375a70fd40a37ebf7.jpg",
+      "mediaType": "image",
+      "sizeBytes": 418454,
+      "mtimeNs": 1790949005406471500,
+      "exists": true,
+      "sha256": "38a7ba2afca3407231dc49c9a7e571c55a1ce67e08333fd78af827de5d915e27",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851316_1440350563044129476_1440350563044129476_13e1d2fd33fef76045eb8158c3a8b854.jpg",
+      "mediaType": "image",
+      "sizeBytes": 361185,
+      "mtimeNs": 1790949007105785000,
+      "exists": true,
+      "sha256": "c64e4419c1796bde58873deca8dea6f9b8b78eae80a3643387004643a2afa9b3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851321_1440350563044129476_1440350563044129476_89603a7638a4fd87d8618080e63f8c5b.jpg",
+      "mediaType": "image",
+      "sizeBytes": 373189,
+      "mtimeNs": 1790949008719650300,
+      "exists": true,
+      "sha256": "86d6d21745afe56ecb2216cdffc47ccb170f101cddf55b302d205fafa9c7761c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851327_1440350563044129476_1440350563044129476_fc7d996767fdd692bdd58da5d32fba42.jpg",
+      "mediaType": "image",
+      "sizeBytes": 279935,
+      "mtimeNs": 1790949010702145000,
+      "exists": true,
+      "sha256": "970410302a00cad099d8221f95e23aeae6a8525f74d3a550b0e3d593d4790681",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851333_1440350563044129476_1440350563044129476_83ccb1a00ab87a745a6053bc3e987d13.jpg",
+      "mediaType": "image",
+      "sizeBytes": 217391,
+      "mtimeNs": 1790949012496543000,
+      "exists": true,
+      "sha256": "f14349e770307941377372794afb658a38117c76552f1101098da5c43a3174f4",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/CD1.jpg",
+      "mediaType": "image",
+      "sizeBytes": 239882,
+      "mtimeNs": 1790950718068391000,
+      "exists": true,
+      "sha256": "957f42b5254d906853fdf25a11cd540fc4d0845a15bed8cac3560621f811c76a",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/CD2.jpg",
+      "mediaType": "image",
+      "sizeBytes": 245294,
+      "mtimeNs": 1790950722650055100,
+      "exists": true,
+      "sha256": "f1e746e304cbd0104eea45edce2b427c68a92cd7c185e9bda1c609d3e2803a17",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/CR.jpg",
+      "mediaType": "image",
+      "sizeBytes": 227068,
+      "mtimeNs": 1790950711791511900,
+      "exists": true,
+      "sha256": "e2ca5755652431881e45ba6053e20713f9ef9584ab9233e308fab2c99c05b9c1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4054.jpg",
+      "mediaType": "image",
+      "sizeBytes": 8699631,
+      "mtimeNs": 1789758746000000000,
+      "exists": true,
+      "sha256": "4b74cbc4247bc5ec51603b9535ade4d1ea7adafaaae501a81b72b46468d094b7",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4163.jpg",
+      "mediaType": "image",
+      "sizeBytes": 7627438,
+      "mtimeNs": 1789730732000000000,
+      "exists": true,
+      "sha256": "4c78552c947ed1e809ea812fca523e5d44c00f9652f1df621b1262942258422c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4175.jpg",
+      "mediaType": "image",
+      "sizeBytes": 9462557,
+      "mtimeNs": 1789759100000000000,
+      "exists": true,
+      "sha256": "f40f184e76e6f77d7d5bea7c98b5e5636350dea7cf43c9b1486c3d839c987198",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4185.jpg",
+      "mediaType": "image",
+      "sizeBytes": 9883200,
+      "mtimeNs": 1789751610000000000,
+      "exists": true,
+      "sha256": "fd5dc008fbcf749986d2de24e3ef97752346e97db3e97e4bd3998d3e6895f8f1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4191.jpg",
+      "mediaType": "image",
+      "sizeBytes": 9935325,
+      "mtimeNs": 1789731572000000000,
+      "exists": true,
+      "sha256": "91c79a66ef35a16a8d55481f5753fea61954794a67cafbc3b420b52e58a1cd67",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4238.jpg",
+      "mediaType": "image",
+      "sizeBytes": 12367604,
+      "mtimeNs": 1789755626000000000,
+      "exists": true,
+      "sha256": "f0df45d81ceac21c40180956646d65172da106bc8ed9546afcc71e9c19dc7e59",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4254.jpg",
+      "mediaType": "image",
+      "sizeBytes": 9893411,
+      "mtimeNs": 1789759198000000000,
+      "exists": true,
+      "sha256": "0ecd4afe46ad33aef28a043c4268a0cf13f3c545f12a6d16db3f4c5122e718c1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4264.jpg",
+      "mediaType": "image",
+      "sizeBytes": 10185239,
+      "mtimeNs": 1789751638000000000,
+      "exists": true,
+      "sha256": "80c4b019cdcab13bd4ac5fb43a74043df5443a9434c6f9da0069729870aa48a9",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4297.jpg",
+      "mediaType": "image",
+      "sizeBytes": 9316070,
+      "mtimeNs": 1789759168000000000,
+      "exists": true,
+      "sha256": "4791a2adeb6e3407a81823d8ef487da855956c8f53690885d9470530a6b96b99",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4309.jpg",
+      "mediaType": "image",
+      "sizeBytes": 11084262,
+      "mtimeNs": 1789751652000000000,
+      "exists": true,
+      "sha256": "db9d021784ec0b48db91f47154e544b1976736dffa6b2026c77c78df96ed100e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4318.jpg",
+      "mediaType": "image",
+      "sizeBytes": 10222527,
+      "mtimeNs": 1789764948000000000,
+      "exists": true,
+      "sha256": "71c83fd33625de8319fcb580c6ab25f7292f6aaa50c4b9ab413c8f11899b352d",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4411.jpg",
+      "mediaType": "image",
+      "sizeBytes": 11993935,
+      "mtimeNs": 1789733816000000000,
+      "exists": true,
+      "sha256": "11f63d216a733e025fddd2539b27ed103611ca13afea26be15bde92b8bd6d4b0",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4423.jpg",
+      "mediaType": "image",
+      "sizeBytes": 10979202,
+      "mtimeNs": 1789734028000000000,
+      "exists": true,
+      "sha256": "56cc571df8c028dff55575c7dea69ade966e268445cd7fdb6789953978adb767",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4436.jpg",
+      "mediaType": "image",
+      "sizeBytes": 11556036,
+      "mtimeNs": 1789734226000000000,
+      "exists": true,
+      "sha256": "9feba5b82939702230ef63d618fe3519fc2f02a6681f19bfa660c3423c725dcd",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4438.jpg",
+      "mediaType": "image",
+      "sizeBytes": 10889519,
+      "mtimeNs": 1789735808000000000,
+      "exists": true,
+      "sha256": "16ed368ee749699dfc244767a39d97cb14de05a3a37a87a6af8c8f737e5a7831",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4494.jpg",
+      "mediaType": "image",
+      "sizeBytes": 12198198,
+      "mtimeNs": 1789836568000000000,
+      "exists": true,
+      "sha256": "947c8c39869b6ad7f45ea6294e67577eb6ac3cd25b30ced2a4a70a60f13003ee",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4503.jpg",
+      "mediaType": "image",
+      "sizeBytes": 10888443,
+      "mtimeNs": 1789736190000000000,
+      "exists": true,
+      "sha256": "da7533caccb82d96cfd49faa33d80c92b64971ca4e3deb95abf88df8308c51d8",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4542.jpg",
+      "mediaType": "image",
+      "sizeBytes": 11252558,
+      "mtimeNs": 1789736366000000000,
+      "exists": true,
+      "sha256": "0006d626323cf516ce84e2672f0366124a7169214a8ff73124259c3a3d838dec",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4549.jpg",
+      "mediaType": "image",
+      "sizeBytes": 9987878,
+      "mtimeNs": 1789824434000000000,
+      "exists": true,
+      "sha256": "80e5f76bcbf98b9a7688d725986321dd91eb2442dcbd736b7b3d603e9b7b4780",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4573.jpg",
+      "mediaType": "image",
+      "sizeBytes": 10797402,
+      "mtimeNs": 1789824426000000000,
+      "exists": true,
+      "sha256": "a813c532084cb0ee703d5ea144e6d3afa7dd286c1fdc2585a387427d77b0a209",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4627.jpg",
+      "mediaType": "image",
+      "sizeBytes": 10751092,
+      "mtimeNs": 1789824444000000000,
+      "exists": true,
+      "sha256": "65a5b049a636888cb4304e5a2b6c64c442dd4e29362040d9388f53193a5b9fd0",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4759.jpg",
+      "mediaType": "image",
+      "sizeBytes": 11060390,
+      "mtimeNs": 1789737004000000000,
+      "exists": true,
+      "sha256": "c9cafe439c0fe7747981cb64b32339c703a606416a38f521b1733df2c426cfe1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4835.jpg",
+      "mediaType": "image",
+      "sizeBytes": 9196776,
+      "mtimeNs": 1789759420000000000,
+      "exists": true,
+      "sha256": "0981a496ce34f7c06c5c020a76c1e4e1e893de603a79b36640c452834f10ba77",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4880.jpg",
+      "mediaType": "image",
+      "sizeBytes": 13081726,
+      "mtimeNs": 1789751576000000000,
+      "exists": true,
+      "sha256": "c8bb30ae334b06bddfb547f6b5a062193de9ed3f3ba506b14b5f5c0eb7210400",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4898.jpg",
+      "mediaType": "image",
+      "sizeBytes": 13180797,
+      "mtimeNs": 1789737434000000000,
+      "exists": true,
+      "sha256": "eca9ca26357dc887cb6ababa5a877f7519895089eebcdfab36816f1a41d0e142",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4919.jpg",
+      "mediaType": "image",
+      "sizeBytes": 13187348,
+      "mtimeNs": 1789760084000000000,
+      "exists": true,
+      "sha256": "cec94c2e8f55ede0c53d3528b93d98ede8828d4b90bb882d5507beb047de2afd",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4935.jpg",
+      "mediaType": "image",
+      "sizeBytes": 13910136,
+      "mtimeNs": 1789760820000000000,
+      "exists": true,
+      "sha256": "bdd6c2c9866d6a257ce734e3803aaf5aa88f73adf0743b287f5a81cfed66f484",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4944.jpg",
+      "mediaType": "image",
+      "sizeBytes": 13372619,
+      "mtimeNs": 1789760910000000000,
+      "exists": true,
+      "sha256": "6290c42703db6098b93f28d6a1c2e148bacd358627ae227f97b0936f5512438f",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4974.jpg",
+      "mediaType": "image",
+      "sizeBytes": 12734107,
+      "mtimeNs": 1789760922000000000,
+      "exists": true,
+      "sha256": "bb631a51a91fffb62957f1093fee6926c3c5b7be88ce2db0322335768ce4aab3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4985.jpg",
+      "mediaType": "image",
+      "sizeBytes": 13051615,
+      "mtimeNs": 1789760972000000000,
+      "exists": true,
+      "sha256": "60dd2ad5bbf1a2a4d21e87248d7a3c98063fc03cbc6166b439fc460e748d6003",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4988.jpg",
+      "mediaType": "image",
+      "sizeBytes": 11722832,
+      "mtimeNs": 1789761038000000000,
+      "exists": true,
+      "sha256": "6382018324e6ec0288c2714e4b81eda58216aa8d15d03aba24b9815eeee4cb1c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_5007.jpg",
+      "mediaType": "image",
+      "sizeBytes": 11895345,
+      "mtimeNs": 1789761160000000000,
+      "exists": true,
+      "sha256": "1040f5e1cd1a71fb14244f3740b1638f27872e7fd6b271ccd4ef3a2cef969d70",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_5014.jpg",
+      "mediaType": "image",
+      "sizeBytes": 12565648,
+      "mtimeNs": 1789761440000000000,
+      "exists": true,
+      "sha256": "6fe2f5168063a3ed95f9fbc928e114f1e61a79b00267a30b698f0a728dca9918",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4093.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2787567,
+      "mtimeNs": 1789228938000000000,
+      "exists": true,
+      "sha256": "c775ab2d07f832adecdfbf1dce8e1ca9ccc1a36a42cf5b8dc115092a9b367546",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4399.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3167129,
+      "mtimeNs": 1789231000000000000,
+      "exists": true,
+      "sha256": "ede729d4968805f4e41d4d50ccbb3d62d9510699e601c962517aad6e93942b84",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4418.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3706822,
+      "mtimeNs": 1789231154000000000,
+      "exists": true,
+      "sha256": "3463a77c4a2d14b1cbb66fdc64efe97eb0246bc4f869dd5667c6670619a46373",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4436.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3471573,
+      "mtimeNs": 1789231248000000000,
+      "exists": true,
+      "sha256": "b32bdad7830c2946dd93747f46dd3e1f88de401e68004e03d521c8ec30396e50",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4447.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3268582,
+      "mtimeNs": 1789231252000000000,
+      "exists": true,
+      "sha256": "f558b8206634cfa762d7f36df5df371022c0286a380e4a83b12539c0f30a8f47",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4452.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3444232,
+      "mtimeNs": 1789231284000000000,
+      "exists": true,
+      "sha256": "8b3daeaab91d0829e1373bb9e4d1294672d9dd6047326e6bf6e4e10740e89ce0",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4459.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3029830,
+      "mtimeNs": 1789231358000000000,
+      "exists": true,
+      "sha256": "e38fa1ae625bf8b8fde9b0b6702528845126f22a4bdf1e1cbc39c6d7e18f4fbb",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4468.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3019824,
+      "mtimeNs": 1789231364000000000,
+      "exists": true,
+      "sha256": "229532c25d3994e8da9f578dc56927f048f9f566eee3aad134af9bbca029e9b2",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4475.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3027252,
+      "mtimeNs": 1789231368000000000,
+      "exists": true,
+      "sha256": "8b6e497620fbc4c96ec74d6d5a0a6e0289a1303559b92ff7d8748f2854e7f98a",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4481.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3335747,
+      "mtimeNs": 1789231450000000000,
+      "exists": true,
+      "sha256": "11f25e7c0fb88380c339ff1c40cdab263c5a044a0b220344c6df4086a1e639df",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4491.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3568496,
+      "mtimeNs": 1789231466000000000,
+      "exists": true,
+      "sha256": "8ba13db6a60b68799212d52ef0434e24d62ab632d217a315b2303cf6fbf553cc",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4500.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3151726,
+      "mtimeNs": 1789231546000000000,
+      "exists": true,
+      "sha256": "021ff03f046ddb59ded53246df9a5efaef6d93a2baead692462aef7925418f34",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4506.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3444337,
+      "mtimeNs": 1789231556000000000,
+      "exists": true,
+      "sha256": "a9997504e5511a03083e4842a08a1337e21aa8f28dbe9eb649c65b9da59734a3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4512.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3216775,
+      "mtimeNs": 1789231562000000000,
+      "exists": true,
+      "sha256": "3b829ead8ebbc7eabdad6e6536fc206b75f2cbff3976c38f2c5e704129e5d662",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4515.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2861228,
+      "mtimeNs": 1789231640000000000,
+      "exists": true,
+      "sha256": "33dea591bf9f41b9561980afd0014b354887bbc4d34aa6e99e127baf93397264",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4524.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3461698,
+      "mtimeNs": 1789231740000000000,
+      "exists": true,
+      "sha256": "2aaed984b4867f1c6df354b370939b58788c054a96b751cbd71201b044298dc3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4527.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3503115,
+      "mtimeNs": 1789231742000000000,
+      "exists": true,
+      "sha256": "782e92b07c3d28728548abbef40542a68c17f005298332d95c2ba3a6b545526a",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4533.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3533152,
+      "mtimeNs": 1789231772000000000,
+      "exists": true,
+      "sha256": "28ca69a24902c46b8642e8677ad205ef3fd5c1585ae312f561f86cbda1b5547b",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4539.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3355019,
+      "mtimeNs": 1789231790000000000,
+      "exists": true,
+      "sha256": "1f128c7b2dae44830c3693513df759d9860e84dc2654e94fd3f03321faf171ed",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4542.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3367886,
+      "mtimeNs": 1789231790000000000,
+      "exists": true,
+      "sha256": "0e5d1cb22406aeb7cb06e2870d0b631ce58ce1bb37fd71f20393d7d8cd5dc891",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4552.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3002944,
+      "mtimeNs": 1789234376000000000,
+      "exists": true,
+      "sha256": "23b3315182f016207ca6b44f93d2af2e47177153fe5a6f1480f911fc889c58c8",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4555.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3073797,
+      "mtimeNs": 1789234390000000000,
+      "exists": true,
+      "sha256": "5b121244979ec9002fe6f64e4ea695a0b2b95cc2cf682cd99b0de24958e94058",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4564.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2994581,
+      "mtimeNs": 1789234438000000000,
+      "exists": true,
+      "sha256": "177246511c5379ad85cea4b3b09afcae261dad9f50e9dbd6f3741b6fd3d80375",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4570.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3195011,
+      "mtimeNs": 1789234452000000000,
+      "exists": true,
+      "sha256": "0eecda5a7b2a9cc4ae4fe9f8ec3f739a1f50553ea8bc505d70b6c2260e1ea1e2",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4576.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3182873,
+      "mtimeNs": 1789234458000000000,
+      "exists": true,
+      "sha256": "f3b1dda20264119284dc54c271a803c3dc109b613842c7a3e98fe4af5b476385",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4585.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3029051,
+      "mtimeNs": 1789234510000000000,
+      "exists": true,
+      "sha256": "91957e2e7ebb3d916484b17f3e0dcd9574d413943ecc8bc2c3a2d47dc07f6432",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4591.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3087325,
+      "mtimeNs": 1789234538000000000,
+      "exists": true,
+      "sha256": "450e4680abd598c0a57a4d94026d896e607b1f9a494d09feb597184adb80f799",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4597.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2853051,
+      "mtimeNs": 1789234596000000000,
+      "exists": true,
+      "sha256": "40b90fe3e9258c1cd71ef2bad431e37204c01ce7a96e7d14efb063a3ceb50b8b",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4603.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2841282,
+      "mtimeNs": 1789234608000000000,
+      "exists": true,
+      "sha256": "eb2ec5fb51943ae847e6d48ede8d3e52bd089c151b2ba89c92d8e13b135997f2",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4612.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3091423,
+      "mtimeNs": 1789234678000000000,
+      "exists": true,
+      "sha256": "cdce2a7257ded8adfcc8aefa1e4a76959d5a0988935569c08f75abc45ec3088c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4618.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3114293,
+      "mtimeNs": 1789234684000000000,
+      "exists": true,
+      "sha256": "25bac47127f86b536545b44ee92293871aa53534f5ed01082e61902c1d9053d0",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4624.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3242673,
+      "mtimeNs": 1789234690000000000,
+      "exists": true,
+      "sha256": "92d34ae7525b5d8b8d2f55af396f1ab2b0e6f5dad6d4f4b6caed2ca37e10dda3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4630.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3291463,
+      "mtimeNs": 1789234736000000000,
+      "exists": true,
+      "sha256": "b56115fcede6ab183e5ce9e8cd26d2a61d2313ad7eb02ebedae1a2e8ca3d9741",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4636.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3514059,
+      "mtimeNs": 1789234746000000000,
+      "exists": true,
+      "sha256": "dcab2fdf2d13ce696d067d36ac0579ece20cecc47bfd74af05d0e0ff1d6559a1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4642.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3495047,
+      "mtimeNs": 1789234752000000000,
+      "exists": true,
+      "sha256": "70075b953ecdd74672eb92e0475fa4831fecb32d19b0d881ae2205126e51e491",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4648.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2991785,
+      "mtimeNs": 1789234804000000000,
+      "exists": true,
+      "sha256": "03c037716ce85db48a0511ad315ac108dbd29afb8c892e425fde704805065d0e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4654.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3028424,
+      "mtimeNs": 1789234810000000000,
+      "exists": true,
+      "sha256": "55f2734ff09b99c211d23fd09f45df57aada991f2e575d04b85db3f84e17e8a8",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4657.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2891166,
+      "mtimeNs": 1789234814000000000,
+      "exists": true,
+      "sha256": "0ffc52c154a9cc93a2a6541f84a927e97d6d6c8f738d193b6f46c7ecd492e5f4",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4663.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2811796,
+      "mtimeNs": 1789234818000000000,
+      "exists": true,
+      "sha256": "bbba8587f89251f41043644bc87864a25a0a4df753d246a76dbf660cd7e12c59",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4669.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3644247,
+      "mtimeNs": 1789234888000000000,
+      "exists": true,
+      "sha256": "144a9eef3ef116bf4891e2ca15a06ab265a2bf1dea30041ecfbf657c63844419",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4675.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3697561,
+      "mtimeNs": 1789234906000000000,
+      "exists": true,
+      "sha256": "caf3487bc59439df2e0f293634de1c641d1608f52d775540333241a58b5d6047",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4681.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3854100,
+      "mtimeNs": 1789234910000000000,
+      "exists": true,
+      "sha256": "7371ce17f8ad9a9b591cdf2e70ca496521159d53ab14238297366b2cc31ef90e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4687.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2834923,
+      "mtimeNs": 1789235000000000000,
+      "exists": true,
+      "sha256": "955e2840400e2ae209523aa321d1a9c9e809bc66dcfb381e174e5a174e851a50",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4693.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2811101,
+      "mtimeNs": 1789235018000000000,
+      "exists": true,
+      "sha256": "aa3e3a39fed8b923c28ae909f158aa70f899ff993ac087aa7920449c6e3a3b5e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4699.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2976697,
+      "mtimeNs": 1789235066000000000,
+      "exists": true,
+      "sha256": "428d1dbdbc9411d3aa9cdf88fff98b1594ea2e4d34a5a9f29b341aeb90916781",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4705.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3008206,
+      "mtimeNs": 1789235078000000000,
+      "exists": true,
+      "sha256": "0b78f610c37a637381e01b76a80d962c992881d187b3134f588d5ff00fe5a6c9",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4711.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2935802,
+      "mtimeNs": 1789235168000000000,
+      "exists": true,
+      "sha256": "263bf12a498147dbc4c0c036b3901fd369f2289e9549d07481114bd894a1ea0c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4717.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3007513,
+      "mtimeNs": 1789235200000000000,
+      "exists": true,
+      "sha256": "da59ceb872d7cbb7c57faeb9b75dd6fe75d937e15c7e0ceb68c2a39878c3d900",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4724.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2790416,
+      "mtimeNs": 1789235858000000000,
+      "exists": true,
+      "sha256": "505935cd3935769d29855af54cf0ea4d92570f97c81347747b28a24bd02db9e4",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4727.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3098031,
+      "mtimeNs": 1789235864000000000,
+      "exists": true,
+      "sha256": "491cbc6da79ed2d243841a774d24f9d6d1925b286f828867eab5ea9062c74dfb",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4730.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4289391,
+      "mtimeNs": 1789235868000000000,
+      "exists": true,
+      "sha256": "41f48b5832e13f1f44d5ff41a49b34e02a04a204e0ada281f8031e7bd098bc5e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4733.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3238218,
+      "mtimeNs": 1789235924000000000,
+      "exists": true,
+      "sha256": "63ee72f291b6b196b9f3296ef2da83a3dd1032b7095de61daa99c32c92c47099",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4739.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3223966,
+      "mtimeNs": 1789235936000000000,
+      "exists": true,
+      "sha256": "0f8d2826f4f102ef49b3b7ae95c83f9df0f36fa94f77ac565dd22c3b322ac43a",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4745.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3198558,
+      "mtimeNs": 1789236004000000000,
+      "exists": true,
+      "sha256": "7efa410d23cbca3864a9acea2d0c3199711e4617fafc56d215e40ef989154dfa",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4751.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3345241,
+      "mtimeNs": 1789236010000000000,
+      "exists": true,
+      "sha256": "c324dc1ecdf4f661502540e0bdbe91701638c51cefe88ab26cb750fee52d9b9d",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4757.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2900871,
+      "mtimeNs": 1789236052000000000,
+      "exists": true,
+      "sha256": "3fcbc7b676edc7bfa83d46b498754330da0e2cfffd3804a79f134f2d20f44145",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4763.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3000154,
+      "mtimeNs": 1789236064000000000,
+      "exists": true,
+      "sha256": "f6243357bae0474200c88fdf5e364c9a84b0bce00c7020774a2d77dd27a5a1ee",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4769.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2925270,
+      "mtimeNs": 1789236066000000000,
+      "exists": true,
+      "sha256": "16a71152edb5c825e8e4594fee78d1a651e6c54d9c891fb23d5db7fa89505155",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4775.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2926751,
+      "mtimeNs": 1789236068000000000,
+      "exists": true,
+      "sha256": "9cf564a582adae1ac940b99f43ed7533c4e1c3b7a1baa1e57f29e6db2fcc8b43",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4781.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2898544,
+      "mtimeNs": 1789236070000000000,
+      "exists": true,
+      "sha256": "16216efc2bae12c07179406480955039a0afc15f0e912c0358f65b12caec9dd5",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4784.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2819541,
+      "mtimeNs": 1789236140000000000,
+      "exists": true,
+      "sha256": "faa4d1ce512b957fb78d3bb312512f0ff609758d8208f9c86c9d928cd8bfefb1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4790.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2758481,
+      "mtimeNs": 1789236148000000000,
+      "exists": true,
+      "sha256": "d1d67319aaf5701e87d053e01af42496f9000457f32c653fa9889885117778f1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4796.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2888085,
+      "mtimeNs": 1789236226000000000,
+      "exists": true,
+      "sha256": "a43b793147a2eac6e836daaa3f4f6f1cc3f5ae812e504f957ab1668dab0077df",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4802.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2921740,
+      "mtimeNs": 1789236240000000000,
+      "exists": true,
+      "sha256": "78cdefa29f7d406d82a3428370ec0a5f4758d261360b781020d62a3eb36de964",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4808.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2914839,
+      "mtimeNs": 1789236252000000000,
+      "exists": true,
+      "sha256": "38bfdf5d3eefd9f011224c62f9ccce23157e7eb2581729aa82bf932f968dbe42",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4814.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2882095,
+      "mtimeNs": 1789236294000000000,
+      "exists": true,
+      "sha256": "bff40d9a66a9b251afb9df8ccdaf822ee80cf17ffd854b11be1caf2184604659",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4817.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3327972,
+      "mtimeNs": 1789236298000000000,
+      "exists": true,
+      "sha256": "38faecdc49faeab68f751316222df385b3fab0ff4f9b465225255f952fc23c2f",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4823.JPG",
+      "mediaType": "image",
+      "sizeBytes": 3286782,
+      "mtimeNs": 1789236312000000000,
+      "exists": true,
+      "sha256": "a6fb2b61aa70923549a4ffc6ae816139cfb8d87ebb10e7c0e2c42ed096f498af",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4826.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2636654,
+      "mtimeNs": 1789236352000000000,
+      "exists": true,
+      "sha256": "fa6bdd39d0e590eb1571f030bab1ff70e33025009ffa01ea0e73744e70a77e14",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4832.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2710315,
+      "mtimeNs": 1789236358000000000,
+      "exists": true,
+      "sha256": "4d16608b82473a2e4e471f473666a0cd23e2c960b5417669abbe8a534f367bb0",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4841.JPG",
+      "mediaType": "image",
+      "sizeBytes": 2736499,
+      "mtimeNs": 1789236398000000000,
+      "exists": true,
+      "sha256": "d3b34784a5eea94d668db9b671d14556098ce13009c7b458dec54dfa1dc63736",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4858.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4292412,
+      "mtimeNs": 1789238234000000000,
+      "exists": true,
+      "sha256": "1500a30b969c059c4b34251e89d2d636ab24d0d1fa31697e7ab31afe2ec7dd22",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": false,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4864.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4568383,
+      "mtimeNs": 1789238276000000000,
+      "exists": true,
+      "sha256": "be7dd74d67274aca650e02712ee114163d7dcb9c249fd6bb1f6dba603ca2f0c8",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4882.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4928022,
+      "mtimeNs": 1789238412000000000,
+      "exists": true,
+      "sha256": "037ac892cb687cec50897e6048259ef36cac4f6c948aea9bc297643646327043",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4885.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4751719,
+      "mtimeNs": 1789238416000000000,
+      "exists": true,
+      "sha256": "604e1dce806ab30d7b790c7e6ef60364cef18485ff00eb784c712af74c8c1fbf",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4891.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4844337,
+      "mtimeNs": 1789238444000000000,
+      "exists": true,
+      "sha256": "7ddc95ff4ca6685c2948a718f68f5b0c1b07de06dbb68b379d313991863b3db1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4897.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4635940,
+      "mtimeNs": 1789238452000000000,
+      "exists": true,
+      "sha256": "addc223123b0117129072fa34affebaa89dbaff04efbef0a39ca2f93af27e1dd",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4903.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4622715,
+      "mtimeNs": 1789238456000000000,
+      "exists": true,
+      "sha256": "a7c2b9230a076b3aa9f7204a847be41d31dbe46a613796d8b19a5207a4bc155c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4909.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4895537,
+      "mtimeNs": 1789238506000000000,
+      "exists": true,
+      "sha256": "5e23b775bdbb8d3bcb2982e56d98ef325977fa98cf0ab16b9b096f3735e511f1",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4915.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4671590,
+      "mtimeNs": 1789238522000000000,
+      "exists": true,
+      "sha256": "34e30fcf0bf0052f38607f936a29bd92039dcb3b3b16677b62e32cde6f1eb587",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4921.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4664783,
+      "mtimeNs": 1789238530000000000,
+      "exists": true,
+      "sha256": "a7df986e4f4df6cb60a6cadcf7b69028fa116ca9a921c363563d269c5ab9aec6",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4927.JPG",
+      "mediaType": "image",
+      "sizeBytes": 5034911,
+      "mtimeNs": 1789238588000000000,
+      "exists": true,
+      "sha256": "86e05c8d66844784ad25733fdd28927f04a82b439672701f26b7a78fcd5c3cf4",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4930.JPG",
+      "mediaType": "image",
+      "sizeBytes": 5028586,
+      "mtimeNs": 1789238590000000000,
+      "exists": true,
+      "sha256": "56c55bd8cbf4b731bccf782ad1f438f72733abc5e766908585ca33322917893f",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4939.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4749421,
+      "mtimeNs": 1789238626000000000,
+      "exists": true,
+      "sha256": "ba7a409fe840c1818bb62b9352860fc4ca72e9fa6443ac166713e911259a677d",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4945.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4822189,
+      "mtimeNs": 1789238628000000000,
+      "exists": true,
+      "sha256": "74b1b9c6489608280689fed6bc495cbc695107e4a31c6c90a457dbaaafb5c27c",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4951.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4771544,
+      "mtimeNs": 1789238630000000000,
+      "exists": true,
+      "sha256": "aa25964b3d9d26be001f2fd2ce9400e09ec6bd864403bd9c029c150c4386fae7",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4958.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4905146,
+      "mtimeNs": 1789238686000000000,
+      "exists": true,
+      "sha256": "be4e39f62a3087ca27478392743d728b98888d01b79e8394472cf0e85b284be4",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4964.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4459325,
+      "mtimeNs": 1789238692000000000,
+      "exists": true,
+      "sha256": "1f129b4f2a3603483df90d4f50575d08c407ffec3f96f4d25d11e092070f5483",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4970.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4933518,
+      "mtimeNs": 1789238706000000000,
+      "exists": true,
+      "sha256": "1bafa20695176707ea3a1b9e274b9a6e2f68ccbd6dc9516d5c0582b0140de079",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4976.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4486121,
+      "mtimeNs": 1789238708000000000,
+      "exists": true,
+      "sha256": "6720d04dc10f4ae7e9937bc70711185c025d1d2e5b9c6f17a92d732f6cd0f5fe",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4982.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4878941,
+      "mtimeNs": 1789238728000000000,
+      "exists": true,
+      "sha256": "c4244f81799dc6f6763bcc57aca6f87c3818e0df0b3c8013279b337efbf8cb03",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4985.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4949455,
+      "mtimeNs": 1789238764000000000,
+      "exists": true,
+      "sha256": "56f2ab8d68c6011a34822f6081193b2ec2e70572989c93463a6aa81f74321f62",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4991.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4900163,
+      "mtimeNs": 1789238766000000000,
+      "exists": true,
+      "sha256": "4a2741d8a9edd2ce9d9c05f7f3f2d7043aab510985304d83f9dd99d9fa2e7b27",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4997.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4889333,
+      "mtimeNs": 1789238780000000000,
+      "exists": true,
+      "sha256": "409936026841f7280fff5ac94e87788de97a4a456f632fd98a66b9f73a6cd6be",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5003.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4902327,
+      "mtimeNs": 1789238782000000000,
+      "exists": true,
+      "sha256": "858cc041ac43f5d6bc6d99e99b838c0c2e874f16ac642383e6e5b86c6d0fe6dc",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5009.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4606788,
+      "mtimeNs": 1789238828000000000,
+      "exists": true,
+      "sha256": "bb9a185ffc7455fbd2ea5b57611a14480466a17e761ceae2fc6e379eb5f7df4e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5015.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4533512,
+      "mtimeNs": 1789238858000000000,
+      "exists": true,
+      "sha256": "ba3515d7d874b6099aa19c54f9243ed4722cfe84a9b1238ba2db6cb6641da350",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5021.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4702419,
+      "mtimeNs": 1789238930000000000,
+      "exists": true,
+      "sha256": "2dd965f92211e2017448b226bf9de4f4f3260e21f428eea9a2fa2349149397ee",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5024.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4883387,
+      "mtimeNs": 1789238996000000000,
+      "exists": true,
+      "sha256": "f24f7ae51ebdc6c9b132a3cf5262937d4284132b2f7a805c65e84361b9bc918e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5030.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4460557,
+      "mtimeNs": 1789239054000000000,
+      "exists": true,
+      "sha256": "84ea272aaa25faebfd9008f48801b11b4b0cf7c727afa181661dc8302e8aa5f8",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh trên timeline",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5036.JPG",
+      "mediaType": "image",
+      "sizeBytes": 4436308,
+      "mtimeNs": 1789239058000000000,
+      "exists": true,
+      "sha256": "e97776229a9b265f4f19ca8afd3cfc7507328f1a4009c70160c580fb94898454",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Chúa Tể.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 2513103,
+      "mtimeNs": 1789441166000000000,
+      "exists": true,
+      "sha256": "78bca15e4b5f888c175078fde75fd9a13071805ab222a4229021f80a29a40e4f",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Em Đồng Ý (I Do).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3492822,
+      "mtimeNs": 1789441188000000000,
+      "exists": true,
+      "sha256": "306a2ef8fc43ab747b164eabedef6d7307f78463b92c12da534b908d5ab26ef5",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Giấy Ghi Chú Tâm Nguyện _ 心願便利貼.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3100380,
+      "mtimeNs": 1789441112000000000,
+      "exists": true,
+      "sha256": "9283e2a79259a2b1c0e58376853e917e2e295e2c2ae5b22ecae17553f640c2de",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Lễ Đường.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 9886125,
+      "mtimeNs": 1789480370376796400,
+      "exists": true,
+      "sha256": "6819c9f3ef3437149afa50eb075f1feb202f298da85151b4d90f1dbb133a111e",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Một Nhà.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3213143,
+      "mtimeNs": 1789441256000000000,
+      "exists": true,
+      "sha256": "6f8341403f7dc779e8d79a8ae7c2cebb751513dbb24100a0c347c712145fd045",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Ngày Đầu Tiên.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3437424,
+      "mtimeNs": 1789440894000000000,
+      "exists": true,
+      "sha256": "c5064e94748285f8fb7966afa33f0e225921b7b63cdd659a43d6bb65ef9d4aaf",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Ordinary (Wedding Version).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3234475,
+      "mtimeNs": 1789441140000000000,
+      "exists": true,
+      "sha256": "2b13c929114a1fb9606223c54b2b97be1567f5ae9255f3d723c48884b3e1ba68",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Photograph.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 4386783,
+      "mtimeNs": 1789440830000000000,
+      "exists": true,
+      "sha256": "d497d6954a4ad129d009cbfee385ef0d68d5910623b35bd3d0b0b39e92745941",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Phép Màu (From Đàn Cá Gỗ Original Soundtrack).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 4509773,
+      "mtimeNs": 1789440964000000000,
+      "exists": true,
+      "sha256": "b4447d7f10072a272d2b42574cb2f4c6675857c23dd94007db51f09c48526ae2",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Nhạc trong playlist",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/music/Đến Khi Nào (Drill).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3034281,
+      "mtimeNs": 1789441078000000000,
+      "exists": true,
+      "sha256": "4cf08d296483fecfb20fe6fca350507561bbff10797eecfc5635a606b7dbb6fd",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Danh sách thứ tự phát",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/playlist/list nhạc và thứ tự.jpg",
+      "mediaType": "image",
+      "sizeBytes": 197456,
+      "mtimeNs": 1795542823813008200,
+      "exists": true,
+      "sha256": "7cad42c505903cadcb8e1cacc2e3d64f4d3350faf110890a44edfb1dc67a6469",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/Bokeh_02.mov",
+      "mediaType": "video",
+      "sizeBytes": 10052883,
+      "mtimeNs": 1684385786134877600,
+      "exists": true,
+      "sha256": "782492854e3f3f5421c0a35afa20c50235262ae3a3a035ce3c5f7606a9d2ad94",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/Flower 02.png",
+      "mediaType": "image",
+      "sizeBytes": 169226,
+      "mtimeNs": 1684299838994329600,
+      "exists": true,
+      "sha256": "cddb18d6e97dafea66815481abb3abd705192b7cd040a96630a0daca79389a0d",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/Flower 03.png",
+      "mediaType": "image",
+      "sizeBytes": 172463,
+      "mtimeNs": 1684299885959012300,
+      "exists": true,
+      "sha256": "9faca7537a66dc331329594256952a83a2cd030936c721b0e2e2465f02af2bc6",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/TR_02_2.mov",
+      "mediaType": "video",
+      "sizeBytes": 422364,
+      "mtimeNs": 1684563132750972600,
+      "exists": true,
+      "sha256": "7efa89ae71cb5cf062fa2550617db0c7625a5c19f0cd726a5c67c234709c045d",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/TR_03_2.mov",
+      "mediaType": "video",
+      "sizeBytes": 855744,
+      "mtimeNs": 1684563132768924800,
+      "exists": true,
+      "sha256": "0f755067807da6a71f0a70b6be54f45dfc09d88795fb44a8d22267635a81b0f9",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/leaf 01.png",
+      "mediaType": "image",
+      "sizeBytes": 147094,
+      "mtimeNs": 1684300012867168900,
+      "exists": true,
+      "sha256": "1f45bc6ab11bf5c646570417c29a6cac8576e10677bc27476b05d62b6e1b4e21",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/leaf 04.png",
+      "mediaType": "image",
+      "sizeBytes": 141697,
+      "mtimeNs": 1684300470306440100,
+      "exists": true,
+      "sha256": "12ea161d0992ef2ce51dba5066fafc30117b188e359721cb507f19d9cb6c8a92",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Lớp hiệu ứng từ template người dùng gửi",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/overlays/leaf 05.png",
+      "mediaType": "image",
+      "sizeBytes": 68259,
+      "mtimeNs": 1684300513751133900,
+      "exists": true,
+      "sha256": "ffccf064ed9c8ac9b1eec30708c348bd66b42a2a2c13eafc03ed8c8892c18211",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B01.jpg",
+      "mediaType": "image",
+      "sizeBytes": 414812,
+      "mtimeNs": 1795594034594620900,
+      "exists": true,
+      "sha256": "942bfcd622115284b69906b291292d6513c75c22c9aa324e1cb97f3056a0e3d0",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B02.jpg",
+      "mediaType": "image",
+      "sizeBytes": 417015,
+      "mtimeNs": 1795594040072967000,
+      "exists": true,
+      "sha256": "05602a64ad0c584c70da4078cd2a805fe6496561026ca79765beb9957190bd20",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B03.jpg",
+      "mediaType": "image",
+      "sizeBytes": 110545,
+      "mtimeNs": 1795594039961697200,
+      "exists": true,
+      "sha256": "83c84e3202c5576d6eb063f8fe2f10be3931721cde563c52f05f5e269ea6be07",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B04.jpg",
+      "mediaType": "image",
+      "sizeBytes": 370428,
+      "mtimeNs": 1795594039920424300,
+      "exists": true,
+      "sha256": "3ba2e5e564e4b2cf8ada612a570552fcf808f69a4f9a0acbea0001f3bac0df3a",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B05.jpg",
+      "mediaType": "image",
+      "sizeBytes": 361185,
+      "mtimeNs": 1795594039812362600,
+      "exists": true,
+      "sha256": "c64e4419c1796bde58873deca8dea6f9b8b78eae80a3643387004643a2afa9b3",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B06.jpg",
+      "mediaType": "image",
+      "sizeBytes": 334864,
+      "mtimeNs": 1795594039706657500,
+      "exists": true,
+      "sha256": "1312135cbe02c457ffcbe36da920d70cfecc046350e650362053b3dc26bd274e",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B07.jpg",
+      "mediaType": "image",
+      "sizeBytes": 328820,
+      "mtimeNs": 1795594039486005300,
+      "exists": true,
+      "sha256": "364ae6f244a61c13e4870f5d5c44a2c939741be08943cfd9eaa79d08efb598b5",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B08.jpg",
+      "mediaType": "image",
+      "sizeBytes": 352219,
+      "mtimeNs": 1795594039383148100,
+      "exists": true,
+      "sha256": "6a8b5158bec2dab512598bb431c91ad46e7151f9bc12bfdabffd6737378b0aeb",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B09.jpg",
+      "mediaType": "image",
+      "sizeBytes": 366359,
+      "mtimeNs": 1795594039593839500,
+      "exists": true,
+      "sha256": "ccb3a95aed4b8c6b76804b26e0bfbbb190608c67df3cd8fed94890dbd77a09de",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B10.jpg",
+      "mediaType": "image",
+      "sizeBytes": 359616,
+      "mtimeNs": 1795594039279698900,
+      "exists": true,
+      "sha256": "4d06b7434eb08f70803c984d5333cf9253927d8a48d0723decb236851d45c27b",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B11.jpg",
+      "mediaType": "image",
+      "sizeBytes": 340902,
+      "mtimeNs": 1795594039172150500,
+      "exists": true,
+      "sha256": "203b96c49695f7b7ec4ba884a014f81d68ff7a164845f3c3490e294600cfb5a7",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B12.jpg",
+      "mediaType": "image",
+      "sizeBytes": 429900,
+      "mtimeNs": 1795594038948052400,
+      "exists": true,
+      "sha256": "d880844696245e7910c683bcb77e45d22b2e3ca19fbf9aadc4eaa4f889ecbaaf",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B13.jpg",
+      "mediaType": "image",
+      "sizeBytes": 459690,
+      "mtimeNs": 1795594039065987200,
+      "exists": true,
+      "sha256": "9842e96fd6d8b96d581a4845d5170ec8a8cfe243d82140c7d41ffc92beff6df1",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B14.jpg",
+      "mediaType": "image",
+      "sizeBytes": 323538,
+      "mtimeNs": 1795594038832469700,
+      "exists": true,
+      "sha256": "4d3795fbbb50bfaad4ec534bd717154f02d7fbe547e4306913dbdac4aee7dfe7",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B15.jpg",
+      "mediaType": "image",
+      "sizeBytes": 351656,
+      "mtimeNs": 1795594038558911200,
+      "exists": true,
+      "sha256": "af07d1915e13565e32cec2f170ee6b2af24d2c27c7ccf9580f6ca9a218782516",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B16.jpg",
+      "mediaType": "image",
+      "sizeBytes": 873909,
+      "mtimeNs": 1795594038313423000,
+      "exists": true,
+      "sha256": "6904dfd03d087b85c671e1f82944515e999c05b95de9b6565ab493c1c1d5684c",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B17.jpg",
+      "mediaType": "image",
+      "sizeBytes": 926139,
+      "mtimeNs": 1795594038719609200,
+      "exists": true,
+      "sha256": "8d9225b5a12a3c871d017bcccfcb869ce8f648008c979c6bb7568ccb5d0b0968",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B18.jpg",
+      "mediaType": "image",
+      "sizeBytes": 907589,
+      "mtimeNs": 1795594038451046000,
+      "exists": true,
+      "sha256": "930506bb6de88004f4ca227bc0c0025fbb5a4ebb515099628f26c14e25adc771",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B19.jpg",
+      "mediaType": "image",
+      "sizeBytes": 917310,
+      "mtimeNs": 1795594038179526300,
+      "exists": true,
+      "sha256": "af2b436c6c36d8b50564c9075669242c0bd943a0f7241ac4140f96aa4dc0b482",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B20.jpg",
+      "mediaType": "image",
+      "sizeBytes": 914286,
+      "mtimeNs": 1795594037933096500,
+      "exists": true,
+      "sha256": "dd377bdc2f7221f47276f4b97b3c6dd31ab719907bd8fa8054aaaf6670e1cd6e",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B21.jpg",
+      "mediaType": "image",
+      "sizeBytes": 301126,
+      "mtimeNs": 1795594038038894600,
+      "exists": true,
+      "sha256": "bd08dcaf75b26f35c2d0da65678d7e0d740f5ef95e2560929ef6e5106a47aed3",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B22.jpg",
+      "mediaType": "image",
+      "sizeBytes": 795788,
+      "mtimeNs": 1795594037683438500,
+      "exists": true,
+      "sha256": "b3df1ffc789619b42c7bab8d6344e7e7aac0decba6aaafeb759221c185a0270d",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B23.jpg",
+      "mediaType": "image",
+      "sizeBytes": 256767,
+      "mtimeNs": 1795594037791756300,
+      "exists": true,
+      "sha256": "f951855b842901270ec0fcb303108e17d75a915560d3e1b4f1bcb9ccdfbdef72",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B24.jpg",
+      "mediaType": "image",
+      "sizeBytes": 256356,
+      "mtimeNs": 1795594037548537500,
+      "exists": true,
+      "sha256": "e6bbe104c28fdc98b5aa8ba189d657ac2e97085238846b81eb1d8ee5b9c6ae56",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B25.jpg",
+      "mediaType": "image",
+      "sizeBytes": 404928,
+      "mtimeNs": 1795594037444828000,
+      "exists": true,
+      "sha256": "f4eb0ae5b09da224e622f7111927fa1725a1a6775335c562601a6f90c764b323",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B26.jpg",
+      "mediaType": "image",
+      "sizeBytes": 399835,
+      "mtimeNs": 1795594037334088500,
+      "exists": true,
+      "sha256": "598fb0a51d6d24ca4308c270599096c460b17f69a8353c5c29083a49c3fc6b74",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B27.jpg",
+      "mediaType": "image",
+      "sizeBytes": 451336,
+      "mtimeNs": 1795594037224321600,
+      "exists": true,
+      "sha256": "f20cd1d3ec0b8e43ad1cdeeec432a3d334a3b0a340c0a630e096972daa70d11d",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B28.jpg",
+      "mediaType": "image",
+      "sizeBytes": 281672,
+      "mtimeNs": 1795594037108630400,
+      "exists": true,
+      "sha256": "2f93a0df72f7035291615e053a4a00d672c94277becef1ed43325106e48c759d",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B29.jpg",
+      "mediaType": "image",
+      "sizeBytes": 319088,
+      "mtimeNs": 1795594037004475500,
+      "exists": true,
+      "sha256": "5206b74618fe2ab915ec9339b512c6fa0b879c62c1f23f8f3728c5481e70d9f0",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B30.jpg",
+      "mediaType": "image",
+      "sizeBytes": 303693,
+      "mtimeNs": 1795594036702777600,
+      "exists": true,
+      "sha256": "70eb730c52f794513ba3153d009ad0a97444394cbfd94bf6bd0dd82db642d357",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B31.jpg",
+      "mediaType": "image",
+      "sizeBytes": 468073,
+      "mtimeNs": 1795594036273215300,
+      "exists": true,
+      "sha256": "dfe83b9c153d8231f32773960f674dc3dc8d4cd60f1f393adc9b7a2efc9ccc72",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B32.jpg",
+      "mediaType": "image",
+      "sizeBytes": 219005,
+      "mtimeNs": 1795594036902657400,
+      "exists": true,
+      "sha256": "7c734df6b52ed8527c4f37e5c4cc93e00c7104eeec1cf8d0c4e2d07bee82359d",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B33.jpg",
+      "mediaType": "image",
+      "sizeBytes": 280682,
+      "mtimeNs": 1795594036806567800,
+      "exists": true,
+      "sha256": "8ec9b6079177997510fea2bf1b972e91e5ee29b75e66e38c2f3c080f32f7ecd7",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B34.jpg",
+      "mediaType": "image",
+      "sizeBytes": 269488,
+      "mtimeNs": 1795594036592715000,
+      "exists": true,
+      "sha256": "6c3b6f4fe2d0e6ca145f37d0f3acc05e8f61df37f6e58c816db1fb8a82c409be",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B35.jpg",
+      "mediaType": "image",
+      "sizeBytes": 275331,
+      "mtimeNs": 1795594036486838100,
+      "exists": true,
+      "sha256": "fb352b88a767cb9496c757a70338292c3f7d60cca85d2c863d2cf61fe25762fd",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B36.jpg",
+      "mediaType": "image",
+      "sizeBytes": 418454,
+      "mtimeNs": 1795594036385513200,
+      "exists": true,
+      "sha256": "38a7ba2afca3407231dc49c9a7e571c55a1ce67e08333fd78af827de5d915e27",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": false,
+      "role": "",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B37.jpg",
+      "mediaType": "image",
+      "sizeBytes": 361185,
+      "mtimeNs": 1795594036034852900,
+      "exists": true,
+      "sha256": "c64e4419c1796bde58873deca8dea6f9b8b78eae80a3643387004643a2afa9b3",
+      "changedSinceSelection": false
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B38.jpg",
+      "mediaType": "image",
+      "sizeBytes": 373189,
+      "mtimeNs": 1795594036155524700,
+      "exists": true,
+      "sha256": "86d6d21745afe56ecb2216cdffc47ccb170f101cddf55b302d205fafa9c7761c",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B39.jpg",
+      "mediaType": "image",
+      "sizeBytes": 217391,
+      "mtimeNs": 1795594035469947000,
+      "exists": true,
+      "sha256": "f14349e770307941377372794afb658a38117c76552f1101098da5c43a3174f4",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B40.jpg",
+      "mediaType": "image",
+      "sizeBytes": 815344,
+      "mtimeNs": 1795594035922740400,
+      "exists": true,
+      "sha256": "40ab67898fdca064e96f8739b6045d4dcd2f940c3b40b44d3536339648da8d39",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B41.jpg",
+      "mediaType": "image",
+      "sizeBytes": 197579,
+      "mtimeNs": 1795594035670491500,
+      "exists": true,
+      "sha256": "af65d31683ab3700ff92a0cd0f40945d982c8493e4d4f974a8ba11b8c93e619d",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B42.jpg",
+      "mediaType": "image",
+      "sizeBytes": 503577,
+      "mtimeNs": 1795594035782263800,
+      "exists": true,
+      "sha256": "f84063dd2bc1458355042696d11bce3ec5f960453345650b3eed4ef887824943",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B43.jpg",
+      "mediaType": "image",
+      "sizeBytes": 929088,
+      "mtimeNs": 1795594035268475000,
+      "exists": true,
+      "sha256": "7bc8b08ce54e464b93a4e93cc97322a57373bd8301ecbe0c2a90348a9fd66288",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B44.jpg",
+      "mediaType": "image",
+      "sizeBytes": 245003,
+      "mtimeNs": 1795594035569848900,
+      "exists": true,
+      "sha256": "a644be287c7ea933855a8816536f83f81eeb167e76995e262084f903f17c6dc1",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B45.jpg",
+      "mediaType": "image",
+      "sizeBytes": 245349,
+      "mtimeNs": 1795594035372305300,
+      "exists": true,
+      "sha256": "72ea4902d89c5e7cf81135558af7605d8f775a5847b328f94f855d4b0ea72a20",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B46.jpg",
+      "mediaType": "image",
+      "sizeBytes": 259814,
+      "mtimeNs": 1795594034809755500,
+      "exists": true,
+      "sha256": "21ba7d4c089b23ec01bda24738dadfcadc42b9309c3feb5913a6e34bca848cba",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B47.jpg",
+      "mediaType": "image",
+      "sizeBytes": 361833,
+      "mtimeNs": 1795594035130580900,
+      "exists": true,
+      "sha256": "29350aa7642e2dbfa76ac906b7a0788d6bfa1e26ddb13c14f03b7b309ceca6ee",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B48.jpg",
+      "mediaType": "image",
+      "sizeBytes": 333629,
+      "mtimeNs": 1795594035023590200,
+      "exists": true,
+      "sha256": "f66397b285b3d8baa1624baf03e7744b277286cdf67c2284a5e6993a9eb708a6",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B49.jpg",
+      "mediaType": "image",
+      "sizeBytes": 222799,
+      "mtimeNs": 1795594034907505100,
+      "exists": true,
+      "sha256": "745f30b7a157a628143c6ec6c0d408422b1d2ce2015e660970fb19d7872812bc",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B50.jpg",
+      "mediaType": "image",
+      "sizeBytes": 405724,
+      "mtimeNs": 1795594034706861400,
+      "exists": true,
+      "sha256": "8c8140d8640e676b0dbf732e8b0d3a43a070c80e637b53fb2c59967c58dfb0e7",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B51.jpg",
+      "mediaType": "image",
+      "sizeBytes": 277984,
+      "mtimeNs": 1795594040564703000,
+      "exists": true,
+      "sha256": "8ce4b13444bf5238903c328dd99b56540ec69dbf5d14d81bb8d715e71e4fde23",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B52.jpg",
+      "mediaType": "image",
+      "sizeBytes": 333569,
+      "mtimeNs": 1795594040775639000,
+      "exists": true,
+      "sha256": "73f600a90cc28bad4eb8f9bbfe5601b3cb07e136d8c67b0fd121c6c873f3ed4c",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B53.jpg",
+      "mediaType": "image",
+      "sizeBytes": 227068,
+      "mtimeNs": 1795594040970567900,
+      "exists": true,
+      "sha256": "e2ca5755652431881e45ba6053e20713f9ef9584ab9233e308fab2c99c05b9c1",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong V005",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B54.jpg",
+      "mediaType": "image",
+      "sizeBytes": 245294,
+      "mtimeNs": 1795594040874062500,
+      "exists": true,
+      "sha256": "f1e746e304cbd0104eea45edce2b427c68a92cd7c185e9bda1c609d3e2803a17",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Ảnh đã lọc dùng trong preview V002",
+      "notes": "Ảnh hoặc hiệu ứng từ nguồn V002.",
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B55.jpg",
+      "mediaType": "image",
+      "sizeBytes": 239882,
+      "mtimeNs": 1795594040667106200,
+      "exists": true,
+      "sha256": "957f42b5254d906853fdf25a11cd540fc4d0845a15bed8cac3560621f811c76a",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Chúa Tể.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 2513103,
+      "mtimeNs": 1789441166000000000,
+      "exists": true,
+      "sha256": "78bca15e4b5f888c175078fde75fd9a13071805ab222a4229021f80a29a40e4f",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Em Đồng Ý (I Do).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3492822,
+      "mtimeNs": 1789441188000000000,
+      "exists": true,
+      "sha256": "306a2ef8fc43ab747b164eabedef6d7307f78463b92c12da534b908d5ab26ef5",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/GÓI CON TIM LÀM QUÀ ('BÒ SỮA BAY' OST) LYRICS - NGUYỄN HÙNG.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 9498284,
+      "mtimeNs": 1795613290701430300,
+      "exists": true,
+      "sha256": "c350fac924051010473823c2c921e2d97baa37394b81a7ddb58f62de9e6f85cf",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Lễ Đường.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 9886125,
+      "mtimeNs": 1789480370376796400,
+      "exists": true,
+      "sha256": "6819c9f3ef3437149afa50eb075f1feb202f298da85151b4d90f1dbb133a111e",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Lỡ Thương Nhau (Bò Sữa Bay OST) - Mounter x Nguyễn Hùng ｜ Official MV.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 9329324,
+      "mtimeNs": 1795613282738641900,
+      "exists": true,
+      "sha256": "818182bb9f60c2b021b47881e53e6616ee124adb0e9f6b6db8004b76a2b586be",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Một Nhà.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3213143,
+      "mtimeNs": 1789441256000000000,
+      "exists": true,
+      "sha256": "6f8341403f7dc779e8d79a8ae7c2cebb751513dbb24100a0c347c712145fd045",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Ngay chung doi.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 9221804,
+      "mtimeNs": 1795613297007167100,
+      "exists": true,
+      "sha256": "b319ca1323adc5d294f891ab23fd871643a5867385496537f8125c890da7967b",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Ngày Đầu Tiên.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3437424,
+      "mtimeNs": 1789440894000000000,
+      "exists": true,
+      "sha256": "c5064e94748285f8fb7966afa33f0e225921b7b63cdd659a43d6bb65ef9d4aaf",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Ordinary (Wedding Version).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3234475,
+      "mtimeNs": 1789441140000000000,
+      "exists": true,
+      "sha256": "2b13c929114a1fb9606223c54b2b97be1567f5ae9255f3d723c48884b3e1ba68",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Photograph.mp3",
+      "mediaType": "audio",
+      "sizeBytes": 4386783,
+      "mtimeNs": 1789440830000000000,
+      "exists": true,
+      "sha256": "d497d6954a4ad129d009cbfee385ef0d68d5910623b35bd3d0b0b39e92745941",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Phép Màu (From Đàn Cá Gỗ Original Soundtrack).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 4509773,
+      "mtimeNs": 1789440964000000000,
+      "exists": true,
+      "sha256": "b4447d7f10072a272d2b42574cb2f4c6675857c23dd94007db51f09c48526ae2",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Westlife - My Love (Lyrics).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 9275564,
+      "mtimeNs": 1795613303270380400,
+      "exists": true,
+      "sha256": "5c2b8cb6b65f3164bde235b128b2ae6450621619b7f71b7e01775ced2a6b9759",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    },
+    {
+      "selected": true,
+      "role": "Nhạc chiếu tiệc V005",
+      "notes": "",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Đến Khi Nào (Drill).mp3",
+      "mediaType": "audio",
+      "sizeBytes": 3034281,
+      "mtimeNs": 1789441078000000000,
+      "exists": true,
+      "sha256": "4cf08d296483fecfb20fe6fca350507561bbff10797eecfc5635a606b7dbb6fd",
+      "changedSinceSelection": false,
+      "usedBy": [
+        "v005"
+      ]
+    }
+  ]
+}

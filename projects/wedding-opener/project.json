@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "wedding-opener",
+  "title": "Từ hôm nay",
+  "createdAt": "2026-11-24T18:04:57.292191+00:00",
+  "status": "complete",
+  "engine": "remotion",
+  "selectedTools": [
+    "remotion",
+    "remotion-skills",
+    "ffmpeg"
+  ],
+  "sourceRoots": [
+    "Source/inbox/wedding-opener"
+  ],
+  "brief": "projects/wedding-opener/brief.md",
+  "assetManifest": "projects/wedding-opener/assets.json",
+  "paths": {
+    "source": "projects/wedding-opener/src",
+    "working": "projects/wedding-opener/working",
+    "previews": "projects/wedding-opener/previews",
+    "notes": "projects/wedding-opener/notes",
+    "output": "output/wedding-opener"
+  },
+  "preset": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationSeconds": 86.4,
+    "container": "mp4",
+    "assumptions": [
+      "Khung chiếu dự kiến 16:9, 1920 × 1080, 30 fps.",
+      "Phim mở màn V001 dài 86,4 giây với đoạn đầu bài Ngày Đầu Tiên.",
+      "Thẻ kết dùng ảnh và lời cảm ơn khi chưa có thông tin tên và ngày cưới."
+    ]
+  },
+  "deliverables": [
+    "output/wedding-opener/tu-hom-nay-v001.mp4",
+    "output/wedding-opener/delivery.md"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-25",
+  "project": "wedding-slideshow",
+  "version": "v002-50fps",
+  "receipt": {
+    "file": "projects/wedding-slideshow/previews/v002/muot/tu-hom-nay-v002-muot.mp4",
+    "sha256": "72f670d1917120ee610987ffd4555eea95ff1152e92ca99cf34670336ec1e31b",
+    "bytes": 64985031,
+    "width": 1920,
+    "height": 1080,
+    "fps": 50,
+    "frames": 3236,
+    "durationSeconds": 64.72,
+    "videoTimestampGaps": 0,
+    "encoder": "h264_nvenc",
+    "fullDecode": true,
+    "photoCount": 22,
+    "sceneSamples": 11,
+    "transitionSamples": 27,
+    "audioLufs": -19.91,
+    "truePeakDbtp": -10.26
+  },
+  "motionComparison": {
+    "sampleStepSeconds": 0.04,
+    "old": {
+      "fps": 25,
+      "results": {
+        "portraits": {
+          "pairs": 135,
+          "overHalfPixel": 24,
+          "p95px": 0.994,
+          "maxPx": 0.999
+        },
+        "gestures": {
+          "pairs": 104,
+          "overHalfPixel": 16,
+          "p95px": 1,
+          "maxPx": 1.001
+        }
+      }
+    },
+    "new": {
+      "fps": 50,
+      "results": {
+        "portraits": {
+          "pairs": 135,
+          "overHalfPixel": 0,
+          "p95px": 0.142,
+          "maxPx": 0.178
+        },
+        "gestures": {
+          "pairs": 104,
+          "overHalfPixel": 0,
+          "p95px": 0.152,
+          "maxPx": 0.169
+        }
+      }
+    },
+    "identicalAacPackets": 3035
+  }
+}

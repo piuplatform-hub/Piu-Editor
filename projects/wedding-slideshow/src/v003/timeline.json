@@ -1,0 +1,12 @@
+{
+  "fps": 50,
+  "durationInFrames": 1372,
+  "musicStartFrame": 1654,
+  "scenes": [
+    {"id": "opening", "from": 0, "photos": ["B47"]},
+    {"id": "veil", "from": 322, "photos": ["B21", "B52"]},
+    {"id": "portrait", "from": 624, "photos": ["B53", "B41", "B55"]},
+    {"id": "ceremony", "from": 964, "photos": ["B43", "B40", "B19"]}
+  ],
+  "accentFrames": 48
+}

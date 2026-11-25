@@ -1,0 +1,2938 @@
+{
+  "fps": 25,
+  "totalFrames": 50187,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Ngày Đầu Tiên",
+      "artist": "Đức Phúc",
+      "start": 0,
+      "end": 5107,
+      "scenes": [
+        {
+          "id": 1,
+          "start": 0,
+          "frames": 440,
+          "theme": "studio",
+          "layout": "wide",
+          "photos": [
+            "A063"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": "Từ hôm nay"
+        },
+        {
+          "id": 2,
+          "start": 440,
+          "frames": 365,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A044",
+            "A050",
+            "A042"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 3,
+          "start": 805,
+          "frames": 453,
+          "theme": "greenery",
+          "layout": "feature",
+          "photos": [
+            "A026",
+            "PAD_4539",
+            "PAD_4500"
+          ],
+          "motion": "drift_right",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 4,
+          "start": 1258,
+          "frames": 487,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "PAD_4784",
+            "PAD_4814"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 5,
+          "start": 1745,
+          "frames": 398,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A023",
+            "A033",
+            "A041"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 6,
+          "start": 2143,
+          "frames": 432,
+          "theme": "greenery",
+          "layout": "spread",
+          "photos": [
+            "PAD_4527",
+            "A057"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 7,
+          "start": 2575,
+          "frames": 389,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A046",
+            "A047",
+            "A030"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 8,
+          "start": 2964,
+          "frames": 441,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A053",
+            "A034",
+            "A036"
+          ],
+          "motion": "recede",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 9,
+          "start": 3405,
+          "frames": 364,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "A061",
+            "A031"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 10,
+          "start": 3769,
+          "frames": 453,
+          "theme": "veil",
+          "layout": "feature",
+          "photos": [
+            "PAD_4802",
+            "PAD_4745",
+            "A066"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 11,
+          "start": 4222,
+          "frames": 487,
+          "theme": "studio",
+          "layout": "pair",
+          "photos": [
+            "A040",
+            "A054"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 12,
+          "start": 4709,
+          "frames": 398,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "PAD_4512",
+            "PAD_4468",
+            "PAD_4542"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "Em Đồng Ý (I Do)",
+      "artist": "Đức Phúc × 911",
+      "start": 5107,
+      "end": 10074,
+      "scenes": [
+        {
+          "id": 13,
+          "start": 5107,
+          "frames": 395,
+          "theme": "studio",
+          "layout": "pair",
+          "photos": [
+            "A052",
+            "PAD_4093"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 14,
+          "start": 5502,
+          "frames": 327,
+          "theme": "solo",
+          "layout": "trio",
+          "photos": [
+            "PAD_4724",
+            "A055",
+            "A067"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 15,
+          "start": 5829,
+          "frames": 406,
+          "theme": "greenery",
+          "layout": "spread",
+          "photos": [
+            "PAD_4533",
+            "A037"
+          ],
+          "motion": "settle",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 16,
+          "start": 6235,
+          "frames": 437,
+          "theme": "veil",
+          "layout": "trio",
+          "photos": [
+            "PAD_4769",
+            "PAD_4796",
+            "A020"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 17,
+          "start": 6672,
+          "frames": 356,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "A029",
+            "A060",
+            "PAD_4447"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 18,
+          "start": 7028,
+          "frames": 388,
+          "theme": "studio",
+          "layout": "pair",
+          "photos": [
+            "A024",
+            "A048"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 19,
+          "start": 7416,
+          "frames": 349,
+          "theme": "solo",
+          "layout": "feature",
+          "photos": [
+            "A045",
+            "A025",
+            "PAD_4826"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 20,
+          "start": 7765,
+          "frames": 395,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "PAD_4515",
+            "A027"
+          ],
+          "motion": "lift",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 21,
+          "start": 8160,
+          "frames": 327,
+          "theme": "veil",
+          "layout": "trio",
+          "photos": [
+            "PAD_4817",
+            "PAD_4739",
+            "PAD_4757"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 22,
+          "start": 8487,
+          "frames": 406,
+          "theme": "greenery",
+          "layout": "spread",
+          "photos": [
+            "PAD_4436",
+            "PAD_4452"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 23,
+          "start": 8893,
+          "frames": 437,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A035",
+            "A049",
+            "A032"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 24,
+          "start": 9330,
+          "frames": 357,
+          "theme": "solo",
+          "layout": "trio",
+          "photos": [
+            "PAD_4399",
+            "A051",
+            "PAD_4832"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 25,
+          "start": 9687,
+          "frames": 387,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "PAD_4481",
+            "A059"
+          ],
+          "motion": "drift_right",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "Đến Khi Nào (Drill)",
+      "artist": "YanBi (theo metadata file)",
+      "start": 10074,
+      "end": 14360,
+      "scenes": [
+        {
+          "id": 26,
+          "start": 10074,
+          "frames": 341,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4711",
+            "PAD_4597",
+            "PAD_4654"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 27,
+          "start": 10415,
+          "frames": 282,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "A062",
+            "PAD_4459",
+            "A056"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 28,
+          "start": 10697,
+          "frames": 350,
+          "theme": "table",
+          "layout": "pair",
+          "photos": [
+            "PAD_4585",
+            "PAD_4603"
+          ],
+          "motion": "recede",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 29,
+          "start": 11047,
+          "frames": 377,
+          "theme": "table",
+          "layout": "feature",
+          "photos": [
+            "PAD_4591",
+            "A003",
+            "PAD_4687"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 30,
+          "start": 11424,
+          "frames": 308,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "PAD_4751",
+            "PAD_4781"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 31,
+          "start": 11732,
+          "frames": 334,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "A038",
+            "A009",
+            "A022"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 32,
+          "start": 12066,
+          "frames": 302,
+          "theme": "greenery",
+          "layout": "spread",
+          "photos": [
+            "PAD_4418",
+            "PAD_4524"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 33,
+          "start": 12368,
+          "frames": 341,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4612",
+            "A006",
+            "PAD_4663"
+          ],
+          "motion": "drift_left",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 34,
+          "start": 12709,
+          "frames": 281,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4576",
+            "A011",
+            "PAD_4657"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 35,
+          "start": 12990,
+          "frames": 351,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "PAD_4727",
+            "PAD_4763"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 36,
+          "start": 13341,
+          "frames": 377,
+          "theme": "table",
+          "layout": "feature",
+          "photos": [
+            "A002",
+            "PAD_4675",
+            "A012"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 37,
+          "start": 13718,
+          "frames": 308,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "PAD_4506",
+            "A001"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 38,
+          "start": 14026,
+          "frames": 334,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "A008",
+            "PAD_4669",
+            "A013"
+          ],
+          "motion": "approach",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "Lễ Đường",
+      "artist": "Kai Đinh",
+      "start": 14360,
+      "end": 20487,
+      "scenes": [
+        {
+          "id": 39,
+          "start": 14360,
+          "frames": 455,
+          "theme": "red_solo",
+          "layout": "feature",
+          "photos": [
+            "A077",
+            "A014",
+            "A074"
+          ],
+          "motion": "drift_right",
+          "transition": "wipe_right",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 40,
+          "start": 14815,
+          "frames": 377,
+          "theme": "red",
+          "layout": "pair",
+          "photos": [
+            "PAD_4891",
+            "PAD_4927"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 41,
+          "start": 15192,
+          "frames": 468,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_5030",
+            "A017",
+            "A070"
+          ],
+          "motion": "settle",
+          "transition": "wipe_left",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 42,
+          "start": 15660,
+          "frames": 503,
+          "theme": "red",
+          "layout": "spread",
+          "photos": [
+            "A076",
+            "A072"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 43,
+          "start": 16163,
+          "frames": 411,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_5024",
+            "PAD_4997",
+            "PAD_5021"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 44,
+          "start": 16574,
+          "frames": 447,
+          "theme": "red_solo",
+          "layout": "trio",
+          "photos": [
+            "PAD_4903",
+            "PAD_4882",
+            "PAD_5009"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 45,
+          "start": 17021,
+          "frames": 403,
+          "theme": "red",
+          "layout": "pair",
+          "photos": [
+            "A071",
+            "A016"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 46,
+          "start": 17424,
+          "frames": 455,
+          "theme": "red",
+          "layout": "feature",
+          "photos": [
+            "PAD_4915",
+            "PAD_4964",
+            "A021"
+          ],
+          "motion": "lift",
+          "transition": "wipe_right",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 47,
+          "start": 17879,
+          "frames": 376,
+          "theme": "red",
+          "layout": "pair",
+          "photos": [
+            "PAD_4991",
+            "PAD_5036"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 48,
+          "start": 18255,
+          "frames": 468,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_4885",
+            "PAD_4982",
+            "PAD_4976"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 49,
+          "start": 18723,
+          "frames": 504,
+          "theme": "red_solo",
+          "layout": "spread",
+          "photos": [
+            "PAD_4945",
+            "PAD_4930"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 50,
+          "start": 19227,
+          "frames": 411,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "A073",
+            "A018",
+            "PAD_4897"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 51,
+          "start": 19638,
+          "frames": 446,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_4958",
+            "PAD_4909",
+            "A075"
+          ],
+          "motion": "drift_right",
+          "transition": "wipe_left",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 52,
+          "start": 20084,
+          "frames": 403,
+          "theme": "red",
+          "layout": "pair",
+          "photos": [
+            "A019",
+            "PAD_4970"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "Phép Màu",
+      "artist": "MAYDAYs, Minh Tốc & Lam · OST Đàn Cá Gỗ",
+      "start": 20487,
+      "end": 26832,
+      "scenes": [
+        {
+          "id": 53,
+          "start": 20487,
+          "frames": 439,
+          "theme": "veil",
+          "layout": "spread",
+          "photos": [
+            "PAD_4730",
+            "PAD_4775"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 54,
+          "start": 20926,
+          "frames": 363,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A048",
+            "A052",
+            "A041"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 55,
+          "start": 21289,
+          "frames": 451,
+          "theme": "veil",
+          "layout": "trio",
+          "photos": [
+            "PAD_4808",
+            "PAD_4823",
+            "PAD_4733"
+          ],
+          "motion": "drift_right",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 56,
+          "start": 21740,
+          "frames": 485,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "PAD_4475",
+            "PAD_4491"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 57,
+          "start": 22225,
+          "frames": 397,
+          "theme": "studio",
+          "layout": "feature",
+          "photos": [
+            "A054",
+            "A023",
+            "A046"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 58,
+          "start": 22622,
+          "frames": 430,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "PAD_4790",
+            "PAD_4739"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 59,
+          "start": 23052,
+          "frames": 388,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A025",
+            "A055",
+            "A053"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 60,
+          "start": 23440,
+          "frames": 439,
+          "theme": "veil",
+          "layout": "spread",
+          "photos": [
+            "PAD_4727",
+            "PAD_4757"
+          ],
+          "motion": "recede",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 61,
+          "start": 23879,
+          "frames": 363,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "A058",
+            "PAD_4447",
+            "A031"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 62,
+          "start": 24242,
+          "frames": 451,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A045",
+            "A032",
+            "A051"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 63,
+          "start": 24693,
+          "frames": 485,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "PAD_4784",
+            "PAD_4817"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 64,
+          "start": 25178,
+          "frames": 397,
+          "theme": "studio",
+          "layout": "feature",
+          "photos": [
+            "A049",
+            "A024",
+            "A036"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 65,
+          "start": 25575,
+          "frames": 430,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "PAD_4763",
+            "PAD_4733"
+          ],
+          "motion": "drift_left",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 66,
+          "start": 26005,
+          "frames": 388,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "PAD_4481",
+            "A060",
+            "PAD_4436"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 67,
+          "start": 26393,
+          "frames": 439,
+          "theme": "studio",
+          "layout": "spread",
+          "photos": [
+            "A033",
+            "PAD_4093"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "title": "Một Nhà",
+      "artist": "Da LAB",
+      "start": 26832,
+      "end": 31408,
+      "scenes": [
+        {
+          "id": 68,
+          "start": 26832,
+          "frames": 364,
+          "theme": "table",
+          "layout": "wide",
+          "photos": [
+            "PAD_4552"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 69,
+          "start": 27196,
+          "frames": 301,
+          "theme": "greenery",
+          "layout": "feature",
+          "photos": [
+            "PAD_4539",
+            "PAD_4533",
+            "PAD_4506"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 70,
+          "start": 27497,
+          "frames": 374,
+          "theme": "table",
+          "layout": "pair",
+          "photos": [
+            "A007",
+            "PAD_4624"
+          ],
+          "motion": "recede",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 71,
+          "start": 27871,
+          "frames": 402,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A050",
+            "A035",
+            "A030"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 72,
+          "start": 28273,
+          "frames": 329,
+          "theme": "table",
+          "layout": "spread",
+          "photos": [
+            "PAD_4630",
+            "PAD_4705"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 73,
+          "start": 28602,
+          "frames": 357,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "PAD_4452",
+            "PAD_4527",
+            "PAD_4459"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 74,
+          "start": 28959,
+          "frames": 322,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4636",
+            "PAD_4699",
+            "PAD_4648"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 75,
+          "start": 29281,
+          "frames": 364,
+          "theme": "studio",
+          "layout": "pair",
+          "photos": [
+            "A044",
+            "A047"
+          ],
+          "motion": "drift_left",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 76,
+          "start": 29645,
+          "frames": 301,
+          "theme": "table",
+          "layout": "feature",
+          "photos": [
+            "PAD_4618",
+            "A004",
+            "PAD_4555"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 77,
+          "start": 29946,
+          "frames": 374,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "A029",
+            "A001"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 78,
+          "start": 30320,
+          "frames": 402,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4693",
+            "A039",
+            "A065"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 79,
+          "start": 30722,
+          "frames": 329,
+          "theme": "studio",
+          "layout": "spread",
+          "photos": [
+            "A034",
+            "A040"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 80,
+          "start": 31051,
+          "frames": 357,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4717",
+            "A028",
+            "A010"
+          ],
+          "motion": "approach",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "title": "Giấy Ghi Chú Tâm Nguyện",
+      "artist": "Vương Hân Vũ (theo metadata file)",
+      "start": 31408,
+      "end": 35763,
+      "scenes": [
+        {
+          "id": 81,
+          "start": 31408,
+          "frames": 454,
+          "theme": "veil",
+          "layout": "trio",
+          "photos": [
+            "PAD_4724",
+            "PAD_4802",
+            "PAD_4751"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 82,
+          "start": 31862,
+          "frames": 376,
+          "theme": "studio",
+          "layout": "spread",
+          "photos": [
+            "A032",
+            "A053"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 83,
+          "start": 32238,
+          "frames": 467,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "A064",
+            "PAD_4564",
+            "PAD_4681"
+          ],
+          "motion": "settle",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 84,
+          "start": 32705,
+          "frames": 503,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "A061",
+            "PAD_4418",
+            "A037"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 85,
+          "start": 33208,
+          "frames": 410,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "A066",
+            "PAD_4808"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 86,
+          "start": 33618,
+          "frames": 446,
+          "theme": "studio",
+          "layout": "feature",
+          "photos": [
+            "A023",
+            "A055",
+            "A044"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 87,
+          "start": 34064,
+          "frames": 402,
+          "theme": "table",
+          "layout": "pair",
+          "photos": [
+            "A005",
+            "PAD_4570"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 88,
+          "start": 34466,
+          "frames": 454,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "A027",
+            "A059",
+            "PAD_4542"
+          ],
+          "motion": "lift",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 89,
+          "start": 34920,
+          "frames": 376,
+          "theme": "veil",
+          "layout": "spread",
+          "photos": [
+            "A020",
+            "PAD_4730"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 90,
+          "start": 35296,
+          "frames": 467,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A033",
+            "A034",
+            "A049"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "Ordinary (Wedding Version)",
+      "artist": "Alex Warren",
+      "start": 35763,
+      "end": 40308,
+      "scenes": [
+        {
+          "id": 91,
+          "start": 35763,
+          "frames": 425,
+          "theme": "solo",
+          "layout": "trio",
+          "photos": [
+            "PAD_4399",
+            "A051",
+            "PAD_4841"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 92,
+          "start": 36188,
+          "frames": 352,
+          "theme": "veil",
+          "layout": "pair",
+          "photos": [
+            "PAD_4790",
+            "PAD_4823"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 93,
+          "start": 36540,
+          "frames": 437,
+          "theme": "studio",
+          "layout": "feature",
+          "photos": [
+            "A030",
+            "A052",
+            "PAD_4093"
+          ],
+          "motion": "settle",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 94,
+          "start": 36977,
+          "frames": 470,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "PAD_4512",
+            "PAD_4524"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 95,
+          "start": 37447,
+          "frames": 384,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4642",
+            "A064",
+            "PAD_4711"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 96,
+          "start": 37831,
+          "frames": 417,
+          "theme": "solo",
+          "layout": "spread",
+          "photos": [
+            "PAD_4724",
+            "A043"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 97,
+          "start": 38248,
+          "frames": 376,
+          "theme": "veil",
+          "layout": "trio",
+          "photos": [
+            "PAD_4781",
+            "PAD_4814",
+            "PAD_4796"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 98,
+          "start": 38624,
+          "frames": 425,
+          "theme": "studio",
+          "layout": "trio",
+          "photos": [
+            "A025",
+            "A054",
+            "A050"
+          ],
+          "motion": "lift",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 99,
+          "start": 39049,
+          "frames": 352,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "A057",
+            "A026"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 100,
+          "start": 39401,
+          "frames": 437,
+          "theme": "table",
+          "layout": "feature",
+          "photos": [
+            "PAD_4663",
+            "PAD_4591",
+            "PAD_4675"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 101,
+          "start": 39838,
+          "frames": 470,
+          "theme": "solo",
+          "layout": "pair",
+          "photos": [
+            "PAD_4730",
+            "PAD_4826"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "start": 40308,
+      "end": 46640,
+      "scenes": [
+        {
+          "id": 102,
+          "start": 40308,
+          "frames": 470,
+          "theme": "studio",
+          "layout": "pair",
+          "photos": [
+            "A036",
+            "A046"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 103,
+          "start": 40778,
+          "frames": 389,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4717",
+            "PAD_4648",
+            "PAD_4612"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 104,
+          "start": 41167,
+          "frames": 484,
+          "theme": "red",
+          "layout": "spread",
+          "photos": [
+            "PAD_4939",
+            "PAD_4985"
+          ],
+          "motion": "approach",
+          "transition": "wipe_right",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 105,
+          "start": 41651,
+          "frames": 520,
+          "theme": "greenery",
+          "layout": "trio",
+          "photos": [
+            "PAD_4515",
+            "PAD_4491",
+            "PAD_4500"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 106,
+          "start": 42171,
+          "frames": 426,
+          "theme": "veil",
+          "layout": "trio",
+          "photos": [
+            "PAD_4745",
+            "PAD_4769",
+            "PAD_4757"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 107,
+          "start": 42597,
+          "frames": 461,
+          "theme": "red",
+          "layout": "pair",
+          "photos": [
+            "A068",
+            "PAD_5003"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 108,
+          "start": 43058,
+          "frames": 416,
+          "theme": "studio",
+          "layout": "feature",
+          "photos": [
+            "A047",
+            "A024",
+            "A035"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 109,
+          "start": 43474,
+          "frames": 470,
+          "theme": "table",
+          "layout": "pair",
+          "photos": [
+            "A065",
+            "PAD_4576"
+          ],
+          "motion": "settle",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 110,
+          "start": 43944,
+          "frames": 389,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_5015",
+            "A015",
+            "PAD_4951"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 111,
+          "start": 44333,
+          "frames": 484,
+          "theme": "greenery",
+          "layout": "spread",
+          "photos": [
+            "A056",
+            "A058"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 112,
+          "start": 44817,
+          "frames": 520,
+          "theme": "veil",
+          "layout": "trio",
+          "photos": [
+            "PAD_4775",
+            "A020",
+            "PAD_4802"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 113,
+          "start": 45337,
+          "frames": 426,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "A069",
+            "PAD_4921",
+            "A016"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 114,
+          "start": 45763,
+          "frames": 461,
+          "theme": "studio",
+          "layout": "pair",
+          "photos": [
+            "A040",
+            "A045"
+          ],
+          "motion": "lift",
+          "transition": "wipe_right",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 115,
+          "start": 46224,
+          "frames": 416,
+          "theme": "table",
+          "layout": "feature",
+          "photos": [
+            "PAD_4699",
+            "A039",
+            "A008"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "title": "Chúa Tể",
+      "artist": "Bùi Công Nam",
+      "start": 46640,
+      "end": 50187,
+      "scenes": [
+        {
+          "id": 116,
+          "start": 46640,
+          "frames": 332,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_4927",
+            "PAD_4970",
+            "A021"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 117,
+          "start": 46972,
+          "frames": 274,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "A006",
+            "A022",
+            "PAD_4585"
+          ],
+          "motion": "drift_right",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 118,
+          "start": 47246,
+          "frames": 341,
+          "theme": "red",
+          "layout": "pair",
+          "photos": [
+            "PAD_4958",
+            "PAD_4885"
+          ],
+          "motion": "lift",
+          "transition": "wipe_right",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 119,
+          "start": 47587,
+          "frames": 367,
+          "theme": "greenery",
+          "layout": "feature",
+          "photos": [
+            "PAD_4468",
+            "A062",
+            "PAD_4515"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 120,
+          "start": 47954,
+          "frames": 300,
+          "theme": "table",
+          "layout": "pair",
+          "photos": [
+            "PAD_4636",
+            "A013"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 121,
+          "start": 48254,
+          "frames": 325,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_4882",
+            "A074",
+            "A072"
+          ],
+          "motion": "drift_left",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 122,
+          "start": 48579,
+          "frames": 294,
+          "theme": "red",
+          "layout": "spread",
+          "photos": [
+            "PAD_4903",
+            "PAD_4964"
+          ],
+          "motion": "recede",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 123,
+          "start": 48873,
+          "frames": 332,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "PAD_4693",
+            "PAD_4570",
+            "PAD_4618"
+          ],
+          "motion": "drift_right",
+          "transition": "wipe_left",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 124,
+          "start": 49205,
+          "frames": 274,
+          "theme": "red",
+          "layout": "trio",
+          "photos": [
+            "PAD_4976",
+            "A014",
+            "A017"
+          ],
+          "motion": "lift",
+          "transition": "dissolve",
+          "palette": "wine",
+          "title": ""
+        },
+        {
+          "id": 125,
+          "start": 49479,
+          "frames": 341,
+          "theme": "greenery",
+          "layout": "pair",
+          "photos": [
+            "PAD_4475",
+            "A056"
+          ],
+          "motion": "settle",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": ""
+        },
+        {
+          "id": 126,
+          "start": 49820,
+          "frames": 367,
+          "theme": "table",
+          "layout": "trio",
+          "photos": [
+            "A066",
+            "A054",
+            "A065"
+          ],
+          "motion": "approach",
+          "transition": "dissolve",
+          "palette": "ivory",
+          "title": "Cảm ơn"
+        }
+      ]
+    }
+  ],
+  "photos": {
+    "A063": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4549.jpg",
+      "original": "Image/PAD_4549.jpg",
+      "group": "album"
+    },
+    "A044": {
+      "path": "Source/inbox/wedding-slideshow/images/album/CR.jpg",
+      "original": "Image/CR.jpg",
+      "group": "album"
+    },
+    "A050": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4238.jpg",
+      "original": "Image/PAD_4238.jpg",
+      "group": "album"
+    },
+    "A042": {
+      "path": "Source/inbox/wedding-slideshow/images/album/CD1.jpg",
+      "original": "Image/CD1.jpg",
+      "group": "album"
+    },
+    "A026": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851244_1440350563044129476_1440350563044129476_16d696c2a505ea8defa363b1a76cd9b7.jpg",
+      "original": "Image/1790948851244_1440350563044129476_1440350563044129476_16d696c2a505ea8defa363b1a76cd9b7.jpg",
+      "group": "album"
+    },
+    "PAD_4539": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4539.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4539.JPG",
+      "group": "session"
+    },
+    "PAD_4500": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4500.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4500.JPG",
+      "group": "session"
+    },
+    "PAD_4784": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4784.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4784.JPG",
+      "group": "session"
+    },
+    "PAD_4814": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4814.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4814.JPG",
+      "group": "session"
+    },
+    "A023": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851226_1440350563044129476_1440350563044129476_4a79f0bcb73a5f470041abedf4da7698.jpg",
+      "original": "Image/1790948851226_1440350563044129476_1440350563044129476_4a79f0bcb73a5f470041abedf4da7698.jpg",
+      "group": "album"
+    },
+    "A033": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851286_1440350563044129476_1440350563044129476_2777bbb620202f898b088cde5f0882ee.jpg",
+      "original": "Image/1790948851286_1440350563044129476_1440350563044129476_2777bbb620202f898b088cde5f0882ee.jpg",
+      "group": "album"
+    },
+    "A041": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851333_1440350563044129476_1440350563044129476_83ccb1a00ab87a745a6053bc3e987d13.jpg",
+      "original": "Image/1790948851333_1440350563044129476_1440350563044129476_83ccb1a00ab87a745a6053bc3e987d13.jpg",
+      "group": "album"
+    },
+    "PAD_4527": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4527.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4527.JPG",
+      "group": "session"
+    },
+    "A057": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4423.jpg",
+      "original": "Image/PAD_4423.jpg",
+      "group": "album"
+    },
+    "A046": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4163.jpg",
+      "original": "Image/PAD_4163.jpg",
+      "group": "album"
+    },
+    "A047": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4175.jpg",
+      "original": "Image/PAD_4175.jpg",
+      "group": "album"
+    },
+    "A030": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851268_1440350563044129476_1440350563044129476_f2fcd039bad9e96d864ba835ba2435ba.jpg",
+      "original": "Image/1790948851268_1440350563044129476_1440350563044129476_f2fcd039bad9e96d864ba835ba2435ba.jpg",
+      "group": "album"
+    },
+    "A053": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4297.jpg",
+      "original": "Image/PAD_4297.jpg",
+      "group": "album"
+    },
+    "A034": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851292_1440350563044129476_1440350563044129476_f7850de1d4e5297cc632e538f468064e.jpg",
+      "original": "Image/1790948851292_1440350563044129476_1440350563044129476_f7850de1d4e5297cc632e538f468064e.jpg",
+      "group": "album"
+    },
+    "A036": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851304_1440350563044129476_1440350563044129476_f325f06004aae2b93a3bd3d4bf7912d9.jpg",
+      "original": "Image/1790948851304_1440350563044129476_1440350563044129476_f325f06004aae2b93a3bd3d4bf7912d9.jpg",
+      "group": "album"
+    },
+    "A061": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4503.jpg",
+      "original": "Image/PAD_4503.jpg",
+      "group": "album"
+    },
+    "A031": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851274_1440350563044129476_1440350563044129476_89145dc79eee6decb8fa3b401f8564b1.jpg",
+      "original": "Image/1790948851274_1440350563044129476_1440350563044129476_89145dc79eee6decb8fa3b401f8564b1.jpg",
+      "group": "album"
+    },
+    "PAD_4802": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4802.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4802.JPG",
+      "group": "session"
+    },
+    "PAD_4745": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4745.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4745.JPG",
+      "group": "session"
+    },
+    "A066": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4759.jpg",
+      "original": "Image/PAD_4759.jpg",
+      "group": "album"
+    },
+    "A040": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851327_1440350563044129476_1440350563044129476_fc7d996767fdd692bdd58da5d32fba42.jpg",
+      "original": "Image/1790948851327_1440350563044129476_1440350563044129476_fc7d996767fdd692bdd58da5d32fba42.jpg",
+      "group": "album"
+    },
+    "A054": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4309.jpg",
+      "original": "Image/PAD_4309.jpg",
+      "group": "album"
+    },
+    "PAD_4512": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4512.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4512.JPG",
+      "group": "session"
+    },
+    "PAD_4468": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4468.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4468.JPG",
+      "group": "session"
+    },
+    "PAD_4542": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4542.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4542.JPG",
+      "group": "session"
+    },
+    "A052": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4264.jpg",
+      "original": "Image/PAD_4264.jpg",
+      "group": "album"
+    },
+    "PAD_4093": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4093.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4093.JPG",
+      "group": "session"
+    },
+    "PAD_4724": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4724.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4724.JPG",
+      "group": "session"
+    },
+    "A055": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4318.jpg",
+      "original": "Image/PAD_4318.jpg",
+      "group": "album"
+    },
+    "A067": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4835.jpg",
+      "original": "Image/PAD_4835.jpg",
+      "group": "album"
+    },
+    "PAD_4533": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4533.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4533.JPG",
+      "group": "session"
+    },
+    "A037": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851310_1440350563044129476_1440350563044129476_741b62289d1dfe4375a70fd40a37ebf7.jpg",
+      "original": "Image/1790948851310_1440350563044129476_1440350563044129476_741b62289d1dfe4375a70fd40a37ebf7.jpg",
+      "group": "album"
+    },
+    "PAD_4769": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4769.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4769.JPG",
+      "group": "session"
+    },
+    "PAD_4796": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4796.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4796.JPG",
+      "group": "session"
+    },
+    "A020": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851167_1440350563044129476_1440350563044129476_292766ffb1160fd5ada70fecd123e00f.jpg",
+      "original": "Image/1790948851167_1440350563044129476_1440350563044129476_292766ffb1160fd5ada70fecd123e00f.jpg",
+      "group": "album"
+    },
+    "A029": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851262_1440350563044129476_1440350563044129476_2534f5acddd481f1c4f020ce41001f4e.jpg",
+      "original": "Image/1790948851262_1440350563044129476_1440350563044129476_2534f5acddd481f1c4f020ce41001f4e.jpg",
+      "group": "album"
+    },
+    "A060": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4494.jpg",
+      "original": "Image/PAD_4494.jpg",
+      "group": "album"
+    },
+    "PAD_4447": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4447.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4447.JPG",
+      "group": "session"
+    },
+    "A024": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851232_1440350563044129476_1440350563044129476_d7d9df7121841317b57a9d30bba944ae.jpg",
+      "original": "Image/1790948851232_1440350563044129476_1440350563044129476_d7d9df7121841317b57a9d30bba944ae.jpg",
+      "group": "album"
+    },
+    "A048": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4185.jpg",
+      "original": "Image/PAD_4185.jpg",
+      "group": "album"
+    },
+    "A045": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4054.jpg",
+      "original": "Image/PAD_4054.jpg",
+      "group": "album"
+    },
+    "A025": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851238_1440350563044129476_1440350563044129476_31242f7a48b8241c63c436ad2d53b1a2.jpg",
+      "original": "Image/1790948851238_1440350563044129476_1440350563044129476_31242f7a48b8241c63c436ad2d53b1a2.jpg",
+      "group": "album"
+    },
+    "PAD_4826": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4826.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4826.JPG",
+      "group": "session"
+    },
+    "PAD_4515": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4515.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4515.JPG",
+      "group": "session"
+    },
+    "A027": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851250_1440350563044129476_1440350563044129476_cc2486446ed4d316dac488fd7435bae8.jpg",
+      "original": "Image/1790948851250_1440350563044129476_1440350563044129476_cc2486446ed4d316dac488fd7435bae8.jpg",
+      "group": "album"
+    },
+    "PAD_4817": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4817.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4817.JPG",
+      "group": "session"
+    },
+    "PAD_4739": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4739.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4739.JPG",
+      "group": "session"
+    },
+    "PAD_4757": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4757.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4757.JPG",
+      "group": "session"
+    },
+    "PAD_4436": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4436.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4436.JPG",
+      "group": "session"
+    },
+    "PAD_4452": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4452.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4452.JPG",
+      "group": "session"
+    },
+    "A035": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851297_1440350563044129476_1440350563044129476_a3bd09bfae665f19328dfddb72e366ac.jpg",
+      "original": "Image/1790948851297_1440350563044129476_1440350563044129476_a3bd09bfae665f19328dfddb72e366ac.jpg",
+      "group": "album"
+    },
+    "A049": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4191.jpg",
+      "original": "Image/PAD_4191.jpg",
+      "group": "album"
+    },
+    "A032": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851280_1440350563044129476_1440350563044129476_6e749ebc39637d3c63d8075575c3d4e5.jpg",
+      "original": "Image/1790948851280_1440350563044129476_1440350563044129476_6e749ebc39637d3c63d8075575c3d4e5.jpg",
+      "group": "album"
+    },
+    "PAD_4399": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4399.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4399.JPG",
+      "group": "session"
+    },
+    "A051": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4254.jpg",
+      "original": "Image/PAD_4254.jpg",
+      "group": "album"
+    },
+    "PAD_4832": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4832.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4832.JPG",
+      "group": "session"
+    },
+    "PAD_4481": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4481.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4481.JPG",
+      "group": "session"
+    },
+    "A059": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4438.jpg",
+      "original": "Image/PAD_4438.jpg",
+      "group": "album"
+    },
+    "PAD_4711": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4711.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4711.JPG",
+      "group": "session"
+    },
+    "PAD_4597": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4597.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4597.JPG",
+      "group": "session"
+    },
+    "PAD_4654": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4654.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4654.JPG",
+      "group": "session"
+    },
+    "A062": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4542.jpg",
+      "original": "Image/PAD_4542.jpg",
+      "group": "album"
+    },
+    "PAD_4459": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4459.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4459.JPG",
+      "group": "session"
+    },
+    "A056": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4411.jpg",
+      "original": "Image/PAD_4411.jpg",
+      "group": "album"
+    },
+    "PAD_4585": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4585.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4585.JPG",
+      "group": "session"
+    },
+    "PAD_4603": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4603.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4603.JPG",
+      "group": "session"
+    },
+    "PAD_4591": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4591.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4591.JPG",
+      "group": "session"
+    },
+    "A003": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851025_1440350563044129476_1440350563044129476_57c7d52585ce95af6ca0e9e3a246b0b5.jpg",
+      "original": "Image/1790948851025_1440350563044129476_1440350563044129476_57c7d52585ce95af6ca0e9e3a246b0b5.jpg",
+      "group": "album"
+    },
+    "PAD_4687": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4687.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4687.JPG",
+      "group": "session"
+    },
+    "PAD_4751": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4751.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4751.JPG",
+      "group": "session"
+    },
+    "PAD_4781": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4781.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4781.JPG",
+      "group": "session"
+    },
+    "A038": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851316_1440350563044129476_1440350563044129476_13e1d2fd33fef76045eb8158c3a8b854.jpg",
+      "original": "Image/1790948851316_1440350563044129476_1440350563044129476_13e1d2fd33fef76045eb8158c3a8b854.jpg",
+      "group": "album"
+    },
+    "A009": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851088_1440350563044129476_1440350563044129476_b75a29d9448c5070fe820973daed946e.jpg",
+      "original": "Image/1790948851088_1440350563044129476_1440350563044129476_b75a29d9448c5070fe820973daed946e.jpg",
+      "group": "album"
+    },
+    "A022": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851220_1440350563044129476_1440350563044129476_b2ef4c0bfaf43ab1d41f090f566f5558.jpg",
+      "original": "Image/1790948851220_1440350563044129476_1440350563044129476_b2ef4c0bfaf43ab1d41f090f566f5558.jpg",
+      "group": "album"
+    },
+    "PAD_4418": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4418.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4418.JPG",
+      "group": "session"
+    },
+    "PAD_4524": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4524.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4524.JPG",
+      "group": "session"
+    },
+    "PAD_4612": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4612.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4612.JPG",
+      "group": "session"
+    },
+    "A006": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851063_1440350563044129476_1440350563044129476_4b189fb5ef15bae0767bb03f2bd80e49.jpg",
+      "original": "Image/1790948851063_1440350563044129476_1440350563044129476_4b189fb5ef15bae0767bb03f2bd80e49.jpg",
+      "group": "album"
+    },
+    "PAD_4663": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4663.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4663.JPG",
+      "group": "session"
+    },
+    "PAD_4576": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4576.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4576.JPG",
+      "group": "session"
+    },
+    "A011": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851104_1440350563044129476_1440350563044129476_44f219f4e0fa70eef76cc73422069e00.jpg",
+      "original": "Image/1790948851104_1440350563044129476_1440350563044129476_44f219f4e0fa70eef76cc73422069e00.jpg",
+      "group": "album"
+    },
+    "PAD_4657": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4657.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4657.JPG",
+      "group": "session"
+    },
+    "PAD_4727": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4727.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4727.JPG",
+      "group": "session"
+    },
+    "PAD_4763": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4763.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4763.JPG",
+      "group": "session"
+    },
+    "A002": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851009_1440350563044129476_1440350563044129476_7c14d6ffd0f38ade1e6cb306f1577589.jpg",
+      "original": "Image/1790948851009_1440350563044129476_1440350563044129476_7c14d6ffd0f38ade1e6cb306f1577589.jpg",
+      "group": "album"
+    },
+    "PAD_4675": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4675.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4675.JPG",
+      "group": "session"
+    },
+    "A012": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851112_1440350563044129476_1440350563044129476_44b341f5e8506111543dd5e42bb6b6b3.jpg",
+      "original": "Image/1790948851112_1440350563044129476_1440350563044129476_44b341f5e8506111543dd5e42bb6b6b3.jpg",
+      "group": "album"
+    },
+    "PAD_4506": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4506.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4506.JPG",
+      "group": "session"
+    },
+    "A001": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948850986_1440350563044129476_1440350563044129476_b033b8d9ea476bedbf949eb58172b61d.jpg",
+      "original": "Image/1790948850986_1440350563044129476_1440350563044129476_b033b8d9ea476bedbf949eb58172b61d.jpg",
+      "group": "album"
+    },
+    "A008": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851080_1440350563044129476_1440350563044129476_6bc9d8b8c198056ed0ae5f5e4e7006db.jpg",
+      "original": "Image/1790948851080_1440350563044129476_1440350563044129476_6bc9d8b8c198056ed0ae5f5e4e7006db.jpg",
+      "group": "album"
+    },
+    "PAD_4669": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4669.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4669.JPG",
+      "group": "session"
+    },
+    "A013": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851119_1440350563044129476_1440350563044129476_d4e6a25565f7dd4bd24892ddbf6435e8.jpg",
+      "original": "Image/1790948851119_1440350563044129476_1440350563044129476_d4e6a25565f7dd4bd24892ddbf6435e8.jpg",
+      "group": "album"
+    },
+    "A077": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_5014.jpg",
+      "original": "Image/PAD_5014.jpg",
+      "group": "album"
+    },
+    "A014": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851126_1440350563044129476_1440350563044129476_f66cfada12a390ffcd9360328c5a6e1c.jpg",
+      "original": "Image/1790948851126_1440350563044129476_1440350563044129476_f66cfada12a390ffcd9360328c5a6e1c.jpg",
+      "group": "album"
+    },
+    "A074": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4985.jpg",
+      "original": "Image/PAD_4985.jpg",
+      "group": "album"
+    },
+    "PAD_4891": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4891.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4891.JPG",
+      "group": "session"
+    },
+    "PAD_4927": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4927.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4927.JPG",
+      "group": "session"
+    },
+    "PAD_5030": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5030.JPG",
+      "original": "Image/13.9 công-huyền/PAD_5030.JPG",
+      "group": "session"
+    },
+    "A017": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851147_1440350563044129476_1440350563044129476_35d27a19b4274b63353345f185026559.jpg",
+      "original": "Image/1790948851147_1440350563044129476_1440350563044129476_35d27a19b4274b63353345f185026559.jpg",
+      "group": "album"
+    },
+    "A070": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4919.jpg",
+      "original": "Image/PAD_4919.jpg",
+      "group": "album"
+    },
+    "A076": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_5007.jpg",
+      "original": "Image/PAD_5007.jpg",
+      "group": "album"
+    },
+    "A072": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4944.jpg",
+      "original": "Image/PAD_4944.jpg",
+      "group": "album"
+    },
+    "PAD_5024": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5024.JPG",
+      "original": "Image/13.9 công-huyền/PAD_5024.JPG",
+      "group": "session"
+    },
+    "PAD_4997": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4997.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4997.JPG",
+      "group": "session"
+    },
+    "PAD_5021": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5021.JPG",
+      "original": "Image/13.9 công-huyền/PAD_5021.JPG",
+      "group": "session"
+    },
+    "PAD_4903": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4903.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4903.JPG",
+      "group": "session"
+    },
+    "PAD_4882": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4882.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4882.JPG",
+      "group": "session"
+    },
+    "PAD_5009": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5009.JPG",
+      "original": "Image/13.9 công-huyền/PAD_5009.JPG",
+      "group": "session"
+    },
+    "A071": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4935.jpg",
+      "original": "Image/PAD_4935.jpg",
+      "group": "album"
+    },
+    "A016": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851140_1440350563044129476_1440350563044129476_9bc67f39dad9eea37daf71af1e20f91b.jpg",
+      "original": "Image/1790948851140_1440350563044129476_1440350563044129476_9bc67f39dad9eea37daf71af1e20f91b.jpg",
+      "group": "album"
+    },
+    "PAD_4915": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4915.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4915.JPG",
+      "group": "session"
+    },
+    "PAD_4964": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4964.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4964.JPG",
+      "group": "session"
+    },
+    "A021": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851172_1440350563044129476_1440350563044129476_3295457da6142efddeebea98fd0835c7.jpg",
+      "original": "Image/1790948851172_1440350563044129476_1440350563044129476_3295457da6142efddeebea98fd0835c7.jpg",
+      "group": "album"
+    },
+    "PAD_4991": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4991.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4991.JPG",
+      "group": "session"
+    },
+    "PAD_5036": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5036.JPG",
+      "original": "Image/13.9 công-huyền/PAD_5036.JPG",
+      "group": "session"
+    },
+    "PAD_4885": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4885.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4885.JPG",
+      "group": "session"
+    },
+    "PAD_4982": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4982.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4982.JPG",
+      "group": "session"
+    },
+    "PAD_4976": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4976.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4976.JPG",
+      "group": "session"
+    },
+    "PAD_4945": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4945.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4945.JPG",
+      "group": "session"
+    },
+    "PAD_4930": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4930.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4930.JPG",
+      "group": "session"
+    },
+    "A073": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4974.jpg",
+      "original": "Image/PAD_4974.jpg",
+      "group": "album"
+    },
+    "A018": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851153_1440350563044129476_1440350563044129476_4219bfc0368184ca8ee19c29a1f54eb6.jpg",
+      "original": "Image/1790948851153_1440350563044129476_1440350563044129476_4219bfc0368184ca8ee19c29a1f54eb6.jpg",
+      "group": "album"
+    },
+    "PAD_4897": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4897.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4897.JPG",
+      "group": "session"
+    },
+    "PAD_4958": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4958.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4958.JPG",
+      "group": "session"
+    },
+    "PAD_4909": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4909.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4909.JPG",
+      "group": "session"
+    },
+    "A075": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4988.jpg",
+      "original": "Image/PAD_4988.jpg",
+      "group": "album"
+    },
+    "A019": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851160_1440350563044129476_1440350563044129476_6d363d842790ff98b697a606553252c9.jpg",
+      "original": "Image/1790948851160_1440350563044129476_1440350563044129476_6d363d842790ff98b697a606553252c9.jpg",
+      "group": "album"
+    },
+    "PAD_4970": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4970.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4970.JPG",
+      "group": "session"
+    },
+    "PAD_4730": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4730.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4730.JPG",
+      "group": "session"
+    },
+    "PAD_4775": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4775.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4775.JPG",
+      "group": "session"
+    },
+    "PAD_4808": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4808.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4808.JPG",
+      "group": "session"
+    },
+    "PAD_4823": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4823.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4823.JPG",
+      "group": "session"
+    },
+    "PAD_4733": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4733.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4733.JPG",
+      "group": "session"
+    },
+    "PAD_4475": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4475.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4475.JPG",
+      "group": "session"
+    },
+    "PAD_4491": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4491.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4491.JPG",
+      "group": "session"
+    },
+    "PAD_4790": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4790.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4790.JPG",
+      "group": "session"
+    },
+    "A058": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4436.jpg",
+      "original": "Image/PAD_4436.jpg",
+      "group": "album"
+    },
+    "PAD_4552": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4552.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4552.JPG",
+      "group": "session"
+    },
+    "A007": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851072_1440350563044129476_1440350563044129476_5fe5c6ff3e44b29d9131d3a001705089.jpg",
+      "original": "Image/1790948851072_1440350563044129476_1440350563044129476_5fe5c6ff3e44b29d9131d3a001705089.jpg",
+      "group": "album"
+    },
+    "PAD_4624": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4624.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4624.JPG",
+      "group": "session"
+    },
+    "PAD_4630": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4630.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4630.JPG",
+      "group": "session"
+    },
+    "PAD_4705": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4705.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4705.JPG",
+      "group": "session"
+    },
+    "PAD_4636": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4636.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4636.JPG",
+      "group": "session"
+    },
+    "PAD_4699": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4699.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4699.JPG",
+      "group": "session"
+    },
+    "PAD_4648": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4648.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4648.JPG",
+      "group": "session"
+    },
+    "PAD_4618": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4618.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4618.JPG",
+      "group": "session"
+    },
+    "A004": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851039_1440350563044129476_1440350563044129476_aeb029c35cbd158af600eeca33916993.jpg",
+      "original": "Image/1790948851039_1440350563044129476_1440350563044129476_aeb029c35cbd158af600eeca33916993.jpg",
+      "group": "album"
+    },
+    "PAD_4555": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4555.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4555.JPG",
+      "group": "session"
+    },
+    "PAD_4693": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4693.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4693.JPG",
+      "group": "session"
+    },
+    "A039": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851321_1440350563044129476_1440350563044129476_89603a7638a4fd87d8618080e63f8c5b.jpg",
+      "original": "Image/1790948851321_1440350563044129476_1440350563044129476_89603a7638a4fd87d8618080e63f8c5b.jpg",
+      "group": "album"
+    },
+    "A065": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4627.jpg",
+      "original": "Image/PAD_4627.jpg",
+      "group": "album"
+    },
+    "PAD_4717": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4717.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4717.JPG",
+      "group": "session"
+    },
+    "A028": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851256_1440350563044129476_1440350563044129476_37e317528cc36cba4b129d47efdec683.jpg",
+      "original": "Image/1790948851256_1440350563044129476_1440350563044129476_37e317528cc36cba4b129d47efdec683.jpg",
+      "group": "album"
+    },
+    "A010": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851096_1440350563044129476_1440350563044129476_b7ead039d25e3115bbd1221f28934377.jpg",
+      "original": "Image/1790948851096_1440350563044129476_1440350563044129476_b7ead039d25e3115bbd1221f28934377.jpg",
+      "group": "album"
+    },
+    "A064": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4573.jpg",
+      "original": "Image/PAD_4573.jpg",
+      "group": "album"
+    },
+    "PAD_4564": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4564.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4564.JPG",
+      "group": "session"
+    },
+    "PAD_4681": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4681.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4681.JPG",
+      "group": "session"
+    },
+    "A005": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851052_1440350563044129476_1440350563044129476_a6c313313b884e0f1224f9b895333dd3.jpg",
+      "original": "Image/1790948851052_1440350563044129476_1440350563044129476_a6c313313b884e0f1224f9b895333dd3.jpg",
+      "group": "album"
+    },
+    "PAD_4570": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4570.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4570.JPG",
+      "group": "session"
+    },
+    "PAD_4841": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4841.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4841.JPG",
+      "group": "session"
+    },
+    "PAD_4642": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4642.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4642.JPG",
+      "group": "session"
+    },
+    "A043": {
+      "path": "Source/inbox/wedding-slideshow/images/album/CD2.jpg",
+      "original": "Image/CD2.jpg",
+      "group": "album"
+    },
+    "PAD_4939": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4939.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4939.JPG",
+      "group": "session"
+    },
+    "PAD_4985": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4985.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4985.JPG",
+      "group": "session"
+    },
+    "A068": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4880.jpg",
+      "original": "Image/PAD_4880.jpg",
+      "group": "album"
+    },
+    "PAD_5003": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5003.JPG",
+      "original": "Image/13.9 công-huyền/PAD_5003.JPG",
+      "group": "session"
+    },
+    "PAD_5015": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_5015.JPG",
+      "original": "Image/13.9 công-huyền/PAD_5015.JPG",
+      "group": "session"
+    },
+    "A015": {
+      "path": "Source/inbox/wedding-slideshow/images/album/1790948851133_1440350563044129476_1440350563044129476_a233b01c4bd083b6224c1069287c89ef.jpg",
+      "original": "Image/1790948851133_1440350563044129476_1440350563044129476_a233b01c4bd083b6224c1069287c89ef.jpg",
+      "group": "album"
+    },
+    "PAD_4951": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4951.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4951.JPG",
+      "group": "session"
+    },
+    "A069": {
+      "path": "Source/inbox/wedding-slideshow/images/album/PAD_4898.jpg",
+      "original": "Image/PAD_4898.jpg",
+      "group": "album"
+    },
+    "PAD_4921": {
+      "path": "Source/inbox/wedding-slideshow/images/session/PAD_4921.JPG",
+      "original": "Image/13.9 công-huyền/PAD_4921.JPG",
+      "group": "session"
+    }
+  }
+}

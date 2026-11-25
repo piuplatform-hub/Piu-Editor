@@ -9,6 +9,11 @@ Kho này giúp AI tiếp theo kế thừa cách làm đã có kết quả, hiể
 | Dựng TVC từ footage, cần typography và chuyển cảnh bằng code | [Quy trình Remotion + GSAP + FFmpeg](workflows/footage-remotion-gsap.md) |
 | Có chữ tiếng Việt, mask, stroke hoặc font mới | [Kiểm tra chữ tiếng Việt](quality/vietnamese-text.md) |
 | Muốn hiểu cách làm TVC Yên Thành hôm 03/11/2026 | [Hồ sơ Yên Thành v001–v004](cases/2026-11-03-yen-thanh-tvc.md) |
+| Xuất lại phim ảnh cưới sau lỗi phiên chat và kiểm tra đoạn nối hình, nhạc | [Từ hôm nay V001](cases/2026-11-25-wedding-opener-v001.md) |
+| Ghép ảnh cưới dọc và phát nhiều bài trong slideshow dài khi ăn tiệc | [Từ hôm nay — Slideshow V001](cases/2026-11-25-wedding-slideshow-v001.md) |
+| Thử bố cục và lớp ánh sáng từ một template After Effects trên ảnh cưới đã lọc | [Từ hôm nay — Bản thử V002](cases/2026-11-25-wedding-slideshow-preview-v002.md) |
+| Dựng mạch phim cưới theo 13 bài, giữ chữ mượt và kiểm tra bản dài 50 fps | [Từ hôm nay — Slideshow V005](cases/2026-11-25-wedding-slideshow-v005.md) |
+| Dựng slideshow ảnh dài, phối playlist và tái xuất theo từng chương | [Quy trình slideshow ảnh theo nhạc](workflows/photo-slideshow.md) |
 | Tìm phần còn yếu và cơ hội cải tiến | [Danh sách cải tiến](IMPROVEMENTS.md) |
 | Ghi bài học sau một video hoặc vòng phản hồi | [Mẫu tổng kết](../../templates/project/notes/retrospective.md) |
 

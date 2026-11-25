@@ -1,0 +1,16 @@
+{
+  "duration": 64.72,
+  "song": "Ngày Đầu Tiên",
+  "scenes": [
+    {"start": 0, "layout": "opening", "photos": ["B47"], "transition": "dissolve", "title": "Từ hôm nay"},
+    {"start": 6.8, "layout": "memories", "photos": ["B03", "B52"], "transition": "iris"},
+    {"start": 12.24, "layout": "portraits", "photos": ["B53", "B41", "B55"], "transition": "wipe_right"},
+    {"start": 19.28, "layout": "veil", "photos": ["B21"], "transition": "lens"},
+    {"start": 26.12, "layout": "toast", "photos": ["B12", "B10"], "transition": "dissolve"},
+    {"start": 33.08, "layout": "dance", "photos": ["B32", "B24", "B31"], "transition": "wipe_left"},
+    {"start": 39.52, "layout": "gestures", "photos": ["B38", "B11"], "transition": "dissolve"},
+    {"start": 45.56, "layout": "botanical", "photos": ["B50", "B26"], "transition": "iris"},
+    {"start": 52.36, "layout": "ceremony", "photos": ["B43", "B40", "B19"], "transition": "flare"},
+    {"start": 58.88, "layout": "closing", "photos": ["B27", "B15", "B04"], "transition": "lens"}
+  ]
+}

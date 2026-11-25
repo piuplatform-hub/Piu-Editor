@@ -46,6 +46,8 @@ def allowed(name):
             return path.name == ".gitkeep"
         if "node_modules" in parts or parts[2] in {"dist", "out"}:
             return False
+        if len(parts) == 3 and path.name == "requirements-render.txt":
+            return True
         return path.name in {".gitkeep", ".gitignore"} or path.suffix in CODE
     return False
 

@@ -1,5 +1,10 @@
 # Lịch sử thay đổi
 
+## 2026-11-25 — Phim mở màn và slideshow “Từ hôm nay”
+
+- Lưu code, lockfile và hồ sơ của phim mở màn cùng bản chiếu tiệc V005. Bổ sung quy trình chuẩn bị ảnh, phối 13 bài, dựng chữ ở 50 fps, khôi phục phần xuất gián đoạn và QA MP4.
+- Cho phép publish `requirements-render.txt` ở gốc project để giữ phiên bản dependency Python của bản dựng.
+
 ## 2026-11-05 — Làm rõ cách AI đọc và hiểu workspace
 
 - Bổ sung hướng dẫn khảo sát mô hình phối hợp 18 công cụ như một đoàn làm phim, xác minh đúng checkout/worktree và báo rõ phạm vi đã đọc hoặc chạy thử.

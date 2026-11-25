@@ -1,0 +1,5741 @@
+{
+  "fps": 50,
+  "totalFrames": 137646,
+  "soundtrackSha256": "e2501923b3252fa1c9d2b9f05895e512d1baa2ee11f9b8c2e533e78c1beb6dd6",
+  "solarDate": "29/11/2026",
+  "lunarDate": "21/10/2026",
+  "assets": {
+    "B01": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B01.jpg",
+      "sha256": "942bfcd622115284b69906b291292d6513c75c22c9aa324e1cb97f3056a0e3d0"
+    },
+    "B02": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B02.jpg",
+      "sha256": "05602a64ad0c584c70da4078cd2a805fe6496561026ca79765beb9957190bd20"
+    },
+    "B03": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B03.jpg",
+      "sha256": "83c84e3202c5576d6eb063f8fe2f10be3931721cde563c52f05f5e269ea6be07"
+    },
+    "B04": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B04.jpg",
+      "sha256": "3ba2e5e564e4b2cf8ada612a570552fcf808f69a4f9a0acbea0001f3bac0df3a"
+    },
+    "B05": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B05.jpg",
+      "sha256": "c64e4419c1796bde58873deca8dea6f9b8b78eae80a3643387004643a2afa9b3"
+    },
+    "B06": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B06.jpg",
+      "sha256": "1312135cbe02c457ffcbe36da920d70cfecc046350e650362053b3dc26bd274e"
+    },
+    "B07": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B07.jpg",
+      "sha256": "364ae6f244a61c13e4870f5d5c44a2c939741be08943cfd9eaa79d08efb598b5"
+    },
+    "B08": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B08.jpg",
+      "sha256": "6a8b5158bec2dab512598bb431c91ad46e7151f9bc12bfdabffd6737378b0aeb"
+    },
+    "B09": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B09.jpg",
+      "sha256": "ccb3a95aed4b8c6b76804b26e0bfbbb190608c67df3cd8fed94890dbd77a09de"
+    },
+    "B10": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B10.jpg",
+      "sha256": "4d06b7434eb08f70803c984d5333cf9253927d8a48d0723decb236851d45c27b"
+    },
+    "B11": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B11.jpg",
+      "sha256": "203b96c49695f7b7ec4ba884a014f81d68ff7a164845f3c3490e294600cfb5a7"
+    },
+    "B12": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B12.jpg",
+      "sha256": "d880844696245e7910c683bcb77e45d22b2e3ca19fbf9aadc4eaa4f889ecbaaf"
+    },
+    "B13": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B13.jpg",
+      "sha256": "9842e96fd6d8b96d581a4845d5170ec8a8cfe243d82140c7d41ffc92beff6df1"
+    },
+    "B14": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B14.jpg",
+      "sha256": "4d3795fbbb50bfaad4ec534bd717154f02d7fbe547e4306913dbdac4aee7dfe7"
+    },
+    "B15": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B15.jpg",
+      "sha256": "af07d1915e13565e32cec2f170ee6b2af24d2c27c7ccf9580f6ca9a218782516"
+    },
+    "B16": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B16.jpg",
+      "sha256": "6904dfd03d087b85c671e1f82944515e999c05b95de9b6565ab493c1c1d5684c"
+    },
+    "B17": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B17.jpg",
+      "sha256": "8d9225b5a12a3c871d017bcccfcb869ce8f648008c979c6bb7568ccb5d0b0968"
+    },
+    "B18": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B18.jpg",
+      "sha256": "930506bb6de88004f4ca227bc0c0025fbb5a4ebb515099628f26c14e25adc771"
+    },
+    "B19": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B19.jpg",
+      "sha256": "af2b436c6c36d8b50564c9075669242c0bd943a0f7241ac4140f96aa4dc0b482"
+    },
+    "B20": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B20.jpg",
+      "sha256": "dd377bdc2f7221f47276f4b97b3c6dd31ab719907bd8fa8054aaaf6670e1cd6e"
+    },
+    "B21": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B21.jpg",
+      "sha256": "bd08dcaf75b26f35c2d0da65678d7e0d740f5ef95e2560929ef6e5106a47aed3"
+    },
+    "B22": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B22.jpg",
+      "sha256": "b3df1ffc789619b42c7bab8d6344e7e7aac0decba6aaafeb759221c185a0270d"
+    },
+    "B23": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B23.jpg",
+      "sha256": "f951855b842901270ec0fcb303108e17d75a915560d3e1b4f1bcb9ccdfbdef72"
+    },
+    "B24": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B24.jpg",
+      "sha256": "e6bbe104c28fdc98b5aa8ba189d657ac2e97085238846b81eb1d8ee5b9c6ae56"
+    },
+    "B25": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B25.jpg",
+      "sha256": "f4eb0ae5b09da224e622f7111927fa1725a1a6775335c562601a6f90c764b323"
+    },
+    "B26": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B26.jpg",
+      "sha256": "598fb0a51d6d24ca4308c270599096c460b17f69a8353c5c29083a49c3fc6b74"
+    },
+    "B27": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B27.jpg",
+      "sha256": "f20cd1d3ec0b8e43ad1cdeeec432a3d334a3b0a340c0a630e096972daa70d11d"
+    },
+    "B28": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B28.jpg",
+      "sha256": "2f93a0df72f7035291615e053a4a00d672c94277becef1ed43325106e48c759d"
+    },
+    "B29": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B29.jpg",
+      "sha256": "5206b74618fe2ab915ec9339b512c6fa0b879c62c1f23f8f3728c5481e70d9f0"
+    },
+    "B30": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B30.jpg",
+      "sha256": "70eb730c52f794513ba3153d009ad0a97444394cbfd94bf6bd0dd82db642d357"
+    },
+    "B31": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B31.jpg",
+      "sha256": "dfe83b9c153d8231f32773960f674dc3dc8d4cd60f1f393adc9b7a2efc9ccc72"
+    },
+    "B32": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B32.jpg",
+      "sha256": "7c734df6b52ed8527c4f37e5c4cc93e00c7104eeec1cf8d0c4e2d07bee82359d"
+    },
+    "B33": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B33.jpg",
+      "sha256": "8ec9b6079177997510fea2bf1b972e91e5ee29b75e66e38c2f3c080f32f7ecd7"
+    },
+    "B34": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B34.jpg",
+      "sha256": "6c3b6f4fe2d0e6ca145f37d0f3acc05e8f61df37f6e58c816db1fb8a82c409be"
+    },
+    "B35": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B35.jpg",
+      "sha256": "fb352b88a767cb9496c757a70338292c3f7d60cca85d2c863d2cf61fe25762fd"
+    },
+    "B36": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B36.jpg",
+      "sha256": "38a7ba2afca3407231dc49c9a7e571c55a1ce67e08333fd78af827de5d915e27"
+    },
+    "B38": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B38.jpg",
+      "sha256": "86d6d21745afe56ecb2216cdffc47ccb170f101cddf55b302d205fafa9c7761c"
+    },
+    "B39": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B39.jpg",
+      "sha256": "f14349e770307941377372794afb658a38117c76552f1101098da5c43a3174f4"
+    },
+    "B40": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B40.jpg",
+      "sha256": "40ab67898fdca064e96f8739b6045d4dcd2f940c3b40b44d3536339648da8d39"
+    },
+    "B41": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B41.jpg",
+      "sha256": "af65d31683ab3700ff92a0cd0f40945d982c8493e4d4f974a8ba11b8c93e619d"
+    },
+    "B42": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B42.jpg",
+      "sha256": "f84063dd2bc1458355042696d11bce3ec5f960453345650b3eed4ef887824943"
+    },
+    "B43": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B43.jpg",
+      "sha256": "7bc8b08ce54e464b93a4e93cc97322a57373bd8301ecbe0c2a90348a9fd66288"
+    },
+    "B44": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B44.jpg",
+      "sha256": "a644be287c7ea933855a8816536f83f81eeb167e76995e262084f903f17c6dc1"
+    },
+    "B45": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B45.jpg",
+      "sha256": "72ea4902d89c5e7cf81135558af7605d8f775a5847b328f94f855d4b0ea72a20"
+    },
+    "B46": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B46.jpg",
+      "sha256": "21ba7d4c089b23ec01bda24738dadfcadc42b9309c3feb5913a6e34bca848cba"
+    },
+    "B47": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B47.jpg",
+      "sha256": "29350aa7642e2dbfa76ac906b7a0788d6bfa1e26ddb13c14f03b7b309ceca6ee"
+    },
+    "B48": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B48.jpg",
+      "sha256": "f66397b285b3d8baa1624baf03e7744b277286cdf67c2284a5e6993a9eb708a6"
+    },
+    "B49": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B49.jpg",
+      "sha256": "745f30b7a157a628143c6ec6c0d408422b1d2ce2015e660970fb19d7872812bc"
+    },
+    "B50": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B50.jpg",
+      "sha256": "8c8140d8640e676b0dbf732e8b0d3a43a070c80e637b53fb2c59967c58dfb0e7"
+    },
+    "B51": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B51.jpg",
+      "sha256": "8ce4b13444bf5238903c328dd99b56540ec69dbf5d14d81bb8d715e71e4fde23"
+    },
+    "B52": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B52.jpg",
+      "sha256": "73f600a90cc28bad4eb8f9bbfe5601b3cb07e136d8c67b0fd121c6c873f3ed4c"
+    },
+    "B53": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B53.jpg",
+      "sha256": "e2ca5755652431881e45ba6053e20713f9ef9584ab9233e308fab2c99c05b9c1"
+    },
+    "B54": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B54.jpg",
+      "sha256": "f1e746e304cbd0104eea45edce2b427c68a92cd7c185e9bda1c609d3e2803a17"
+    },
+    "B55": {
+      "path": "Source/inbox/wedding-slideshow/v002/photos/B55.jpg",
+      "sha256": "957f42b5254d906853fdf25a11cd540fc4d0845a15bed8cac3560621f811c76a"
+    }
+  },
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Ngày Đầu Tiên",
+      "artist": "Đức Phúc",
+      "start": 0,
+      "end": 10214,
+      "sourceFrames": 10446,
+      "trimIn": 0,
+      "trimOut": 176,
+      "sourceSha256": "c5064e94748285f8fb7966afa33f0e225921b7b63cdd659a43d6bb65ef9d4aaf",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Ngày Đầu Tiên.mp3",
+      "sourceLufs": -8.56,
+      "sourceTruePeakDbtp": -0.54,
+      "gainDb": -9.44,
+      "chapter": "Từ những ngày bé xíu",
+      "scenes": [
+        {
+          "id": 1,
+          "start": 0,
+          "frames": 560,
+          "chapter": 1,
+          "target": 0,
+          "layout": "memory",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B03"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "iris",
+          "text": {
+            "id": "001",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Từ những ngày",
+                "size": 112,
+                "italic": false
+              },
+              {
+                "text": "bé xíu",
+                "size": 104,
+                "italic": true
+              }
+            ],
+            "in": 32,
+            "out": 488,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 2,
+          "start": 560,
+          "frames": 435,
+          "chapter": 1,
+          "target": 553,
+          "layout": "signature",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B47"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "lens",
+          "text": {
+            "id": "002",
+            "names": true,
+            "eyebrow": "Từ hôm nay",
+            "lines": [
+              {
+                "text": "Văn Công",
+                "size": 115,
+                "italic": false
+              },
+              {
+                "text": "& Thương Huyền",
+                "size": 88,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 363,
+            "hold": false,
+            "date": true
+          }
+        },
+        {
+          "id": 3,
+          "start": 995,
+          "frames": 561,
+          "chapter": 1,
+          "target": 994,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B53",
+            "B30"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 4,
+          "start": 1556,
+          "frames": 477,
+          "chapter": 1,
+          "target": 1567,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B13"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 5,
+          "start": 2033,
+          "frames": 555,
+          "chapter": 1,
+          "target": 2028,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B54",
+            "B49",
+            "B35"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 6,
+          "start": 2588,
+          "frames": 494,
+          "chapter": 1,
+          "target": 2582,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B51",
+            "B21"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 7,
+          "start": 3082,
+          "frames": 573,
+          "chapter": 1,
+          "target": 3084,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B38",
+            "B15"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 8,
+          "start": 3655,
+          "frames": 463,
+          "chapter": 1,
+          "target": 3647,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B44",
+            "B41",
+            "B55"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 9,
+          "start": 4118,
+          "frames": 519,
+          "chapter": 1,
+          "target": 4113,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B26"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 10,
+          "start": 4637,
+          "frames": 450,
+          "chapter": 1,
+          "target": 4646,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B28",
+            "B50"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 11,
+          "start": 5087,
+          "frames": 573,
+          "chapter": 1,
+          "target": 5087,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B32",
+            "B52"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 12,
+          "start": 5660,
+          "frames": 461,
+          "chapter": 1,
+          "target": 5660,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B25",
+            "B36"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 13,
+          "start": 6121,
+          "frames": 553,
+          "chapter": 1,
+          "target": 6121,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B21"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 14,
+          "start": 6674,
+          "frames": 499,
+          "chapter": 1,
+          "target": 6674,
+          "layout": "letter",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B04",
+            "B10"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "014",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Rồi một ngày,",
+                "size": 94,
+                "italic": false
+              },
+              {
+                "text": "mình gặp nhau.",
+                "size": 89,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 427,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 15,
+          "start": 7173,
+          "frames": 572,
+          "chapter": 1,
+          "target": 7176,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B23",
+            "B39"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 16,
+          "start": 7745,
+          "frames": 459,
+          "chapter": 1,
+          "target": 7740,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B54",
+            "B30"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 17,
+          "start": 8204,
+          "frames": 537,
+          "chapter": 1,
+          "target": 8206,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B06",
+            "B05",
+            "B08"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 18,
+          "start": 8741,
+          "frames": 436,
+          "chapter": 1,
+          "target": 8739,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B34",
+            "B45"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 19,
+          "start": 9177,
+          "frames": 584,
+          "chapter": 1,
+          "target": 9179,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B42",
+            "B27"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 20,
+          "start": 9761,
+          "frames": 453,
+          "chapter": 1,
+          "target": 9753,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B51",
+            "B53"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "Em Đồng Ý (I Do)",
+      "artist": "Đức Phúc × 911",
+      "start": 10214,
+      "end": 20148,
+      "sourceFrames": 10156,
+      "trimIn": 20,
+      "trimOut": 146,
+      "sourceSha256": "306a2ef8fc43ab747b164eabedef6d7307f78463b92c12da534b908d5ab26ef5",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Em Đồng Ý (I Do).mp3",
+      "sourceLufs": -9.27,
+      "sourceTruePeakDbtp": -0.06,
+      "gainDb": -8.73,
+      "chapter": "Lời đồng ý",
+      "scenes": [
+        {
+          "id": 21,
+          "start": 10214,
+          "frames": 543,
+          "chapter": 2,
+          "target": 10214,
+          "layout": "letter",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B21",
+            "B52"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "021",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Giữa bao người,",
+                "size": 84,
+                "italic": false
+              },
+              {
+                "text": "mình nhận ra nhau.",
+                "size": 73,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 471,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 22,
+          "start": 10757,
+          "frames": 450,
+          "chapter": 2,
+          "target": 10758,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B28",
+            "B32"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 23,
+          "start": 11207,
+          "frames": 582,
+          "chapter": 2,
+          "target": 11207,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B29"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 24,
+          "start": 11789,
+          "frames": 468,
+          "chapter": 2,
+          "target": 11793,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B44",
+            "B55"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 25,
+          "start": 12257,
+          "frames": 563,
+          "chapter": 2,
+          "target": 12264,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B39",
+            "B23",
+            "B45"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 26,
+          "start": 12820,
+          "frames": 525,
+          "chapter": 2,
+          "target": 12828,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B50",
+            "B30"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 27,
+          "start": 13345,
+          "frames": 571,
+          "chapter": 2,
+          "target": 13341,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B35",
+            "B41"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 28,
+          "start": 13916,
+          "frames": 466,
+          "chapter": 2,
+          "target": 13916,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B46"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 29,
+          "start": 14382,
+          "frames": 548,
+          "chapter": 2,
+          "target": 14392,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B54",
+            "B51"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 30,
+          "start": 14930,
+          "frames": 452,
+          "chapter": 2,
+          "target": 14935,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B52"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 31,
+          "start": 15382,
+          "frames": 594,
+          "chapter": 2,
+          "target": 15385,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B53",
+            "B55",
+            "B44"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 32,
+          "start": 15976,
+          "frames": 468,
+          "chapter": 2,
+          "target": 15970,
+          "layout": "letter",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B26",
+            "B29"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "032",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Một lời đồng ý",
+                "size": 91,
+                "italic": false
+              },
+              {
+                "text": "cho những ngày sau.",
+                "size": 72,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 396,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 33,
+          "start": 16444,
+          "frames": 563,
+          "chapter": 2,
+          "target": 16441,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B31",
+            "B25"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 34,
+          "start": 17007,
+          "frames": 500,
+          "chapter": 2,
+          "target": 17006,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B50",
+            "B21",
+            "B30"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 35,
+          "start": 17507,
+          "frames": 583,
+          "chapter": 2,
+          "target": 17518,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B49"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 36,
+          "start": 18090,
+          "frames": 481,
+          "chapter": 2,
+          "target": 18093,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B28",
+            "B51"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 37,
+          "start": 18571,
+          "frames": 546,
+          "chapter": 2,
+          "target": 18569,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B34",
+            "B39"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 38,
+          "start": 19117,
+          "frames": 443,
+          "chapter": 2,
+          "target": 19113,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B27",
+            "B02"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 39,
+          "start": 19560,
+          "frames": 588,
+          "chapter": 2,
+          "target": 19562,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B21"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "Đến Khi Nào (Drill)",
+      "artist": "YanBi · sáng tác Khắc Việt",
+      "start": 20148,
+      "end": 28720,
+      "sourceFrames": 8724,
+      "trimIn": 6,
+      "trimOut": 90,
+      "sourceSha256": "4cf08d296483fecfb20fe6fca350507561bbff10797eecfc5635a606b7dbb6fd",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Đến Khi Nào (Drill).mp3",
+      "sourceLufs": -12.06,
+      "sourceTruePeakDbtp": -1.27,
+      "gainDb": -5.94,
+      "chapter": "Những điều lớn dần",
+      "scenes": [
+        {
+          "id": 40,
+          "start": 20148,
+          "frames": 466,
+          "chapter": 3,
+          "target": 20148,
+          "layout": "letter",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B38",
+            "B05"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "040",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Có những điều",
+                "size": 91,
+                "italic": false
+              },
+              {
+                "text": "cần thời gian để hiểu.",
+                "size": 69,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 394,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 41,
+          "start": 20614,
+          "frames": 392,
+          "chapter": 3,
+          "target": 20617,
+          "layout": "triptych",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B46",
+            "B42"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 42,
+          "start": 21006,
+          "frames": 511,
+          "chapter": 3,
+          "target": 21005,
+          "layout": "arch",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B45",
+            "B35"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 43,
+          "start": 21517,
+          "frames": 398,
+          "chapter": 3,
+          "target": 21510,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B11",
+            "B09"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 44,
+          "start": 21915,
+          "frames": 492,
+          "chapter": 3,
+          "target": 21917,
+          "layout": "gallery",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B31"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 45,
+          "start": 22407,
+          "frames": 440,
+          "chapter": 3,
+          "target": 22404,
+          "layout": "folio",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B12",
+            "B07"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 46,
+          "start": 22847,
+          "frames": 500,
+          "chapter": 3,
+          "target": 22846,
+          "layout": "silk",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 47,
+          "start": 23347,
+          "frames": 409,
+          "chapter": 3,
+          "target": 23342,
+          "layout": "triptych",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B49",
+            "B34"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 48,
+          "start": 23756,
+          "frames": 466,
+          "chapter": 3,
+          "target": 23753,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B14",
+            "B10"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 49,
+          "start": 24222,
+          "frames": 386,
+          "chapter": 3,
+          "target": 24222,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B36",
+            "B29"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 50,
+          "start": 24608,
+          "frames": 512,
+          "chapter": 3,
+          "target": 24610,
+          "layout": "triptych",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B48",
+            "B15",
+            "B13"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 51,
+          "start": 25120,
+          "frames": 397,
+          "chapter": 3,
+          "target": 25115,
+          "layout": "letter",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B25"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "051",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Chẳng biết từ bao giờ,",
+                "size": 60,
+                "italic": false
+              },
+              {
+                "text": "mình mong được gặp nhau.",
+                "size": 54,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 325,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 52,
+          "start": 25517,
+          "frames": 489,
+          "chapter": 3,
+          "target": 25521,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B32",
+            "B23"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 53,
+          "start": 26006,
+          "frames": 446,
+          "chapter": 3,
+          "target": 26009,
+          "layout": "gallery",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B08",
+            "B06"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 54,
+          "start": 26452,
+          "frames": 486,
+          "chapter": 3,
+          "target": 26451,
+          "layout": "folio",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B42",
+            "B33"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 55,
+          "start": 26938,
+          "frames": 409,
+          "chapter": 3,
+          "target": 26947,
+          "layout": "silk",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B12"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 56,
+          "start": 27347,
+          "frames": 477,
+          "chapter": 3,
+          "target": 27358,
+          "layout": "triptych",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B26",
+            "B31",
+            "B27"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 57,
+          "start": 27824,
+          "frames": 387,
+          "chapter": 3,
+          "target": 27827,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B54",
+            "B35"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 58,
+          "start": 28211,
+          "frames": 509,
+          "chapter": 3,
+          "target": 28215,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B04",
+            "B07"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "Lễ Đường",
+      "artist": "Kai Đinh",
+      "start": 28720,
+      "end": 40974,
+      "sourceFrames": 12354,
+      "trimIn": 44,
+      "trimOut": 0,
+      "sourceSha256": "6819c9f3ef3437149afa50eb075f1feb202f298da85151b4d90f1dbb133a111e",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Lễ Đường.mp3",
+      "sourceLufs": -11.11,
+      "sourceTruePeakDbtp": 0.23,
+      "gainDb": -6.89,
+      "chapter": "Ngày bước cạnh nhau",
+      "scenes": [
+        {
+          "id": 59,
+          "start": 28720,
+          "frames": 627,
+          "chapter": 4,
+          "target": 28720,
+          "layout": "letter",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B43",
+            "B40"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "flare",
+          "text": {
+            "id": "059",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Hôm nay,",
+                "size": 94,
+                "italic": false
+              },
+              {
+                "text": "mình bước cạnh nhau.",
+                "size": 66,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 555,
+            "hold": false,
+            "date": true
+          }
+        },
+        {
+          "id": 60,
+          "start": 29347,
+          "frames": 477,
+          "chapter": 4,
+          "target": 29327,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B16",
+            "B22"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 61,
+          "start": 29824,
+          "frames": 672,
+          "chapter": 4,
+          "target": 29830,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B55",
+            "B53"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 62,
+          "start": 30496,
+          "frames": 517,
+          "chapter": 4,
+          "target": 30484,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B17",
+            "B19"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 63,
+          "start": 31013,
+          "frames": 629,
+          "chapter": 4,
+          "target": 31010,
+          "layout": "triptych",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B20",
+            "B16",
+            "B18"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 64,
+          "start": 31642,
+          "frames": 570,
+          "chapter": 4,
+          "target": 31640,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B40",
+            "B43"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 65,
+          "start": 32212,
+          "frames": 641,
+          "chapter": 4,
+          "target": 32213,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B52",
+            "B50"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 66,
+          "start": 32853,
+          "frames": 539,
+          "chapter": 4,
+          "target": 32855,
+          "layout": "triptych",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B22",
+            "B17",
+            "B19"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 67,
+          "start": 33392,
+          "frames": 606,
+          "chapter": 4,
+          "target": 33387,
+          "layout": "arch",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B16",
+            "B20"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 68,
+          "start": 33998,
+          "frames": 500,
+          "chapter": 4,
+          "target": 33994,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B19"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 69,
+          "start": 34498,
+          "frames": 646,
+          "chapter": 4,
+          "target": 34497,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B28",
+            "B44"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 70,
+          "start": 35144,
+          "frames": 534,
+          "chapter": 4,
+          "target": 35151,
+          "layout": "folio",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B43",
+            "B40"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 71,
+          "start": 35678,
+          "frames": 637,
+          "chapter": 4,
+          "target": 35676,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B22",
+            "B16"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 72,
+          "start": 36315,
+          "frames": 561,
+          "chapter": 4,
+          "target": 36307,
+          "layout": "letter",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B20"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "072",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Trong niềm vui",
+                "size": 87,
+                "italic": false
+              },
+              {
+                "text": "của những người thương.",
+                "size": 59,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 489,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 73,
+          "start": 36876,
+          "frames": 643,
+          "chapter": 4,
+          "target": 36880,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B19",
+            "B16"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 74,
+          "start": 37519,
+          "frames": 533,
+          "chapter": 4,
+          "target": 37522,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B17",
+            "B22"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 75,
+          "start": 38052,
+          "frames": 603,
+          "chapter": 4,
+          "target": 38054,
+          "layout": "triptych",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B40",
+            "B16",
+            "B43"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 76,
+          "start": 38655,
+          "frames": 507,
+          "chapter": 4,
+          "target": 38661,
+          "layout": "arch",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B20",
+            "B18"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 77,
+          "start": 39162,
+          "frames": 654,
+          "chapter": 4,
+          "target": 39163,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B40",
+            "B16"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 78,
+          "start": 39816,
+          "frames": 522,
+          "chapter": 4,
+          "target": 39818,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B23",
+            "B51"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 79,
+          "start": 40338,
+          "frames": 636,
+          "chapter": 4,
+          "target": 40343,
+          "layout": "folio",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B17",
+            "B19"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "Phép Màu",
+      "artist": "MAYDAYs, Minh Tốc & Lam · OST Đàn Cá Gỗ",
+      "start": 40974,
+      "end": 53664,
+      "sourceFrames": 13334,
+      "trimIn": 108,
+      "trimOut": 480,
+      "sourceSha256": "b4447d7f10072a272d2b42574cb2f4c6675857c23dd94007db51f09c48526ae2",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Phép Màu (From Đàn Cá Gỗ Original Soundtrack).mp3",
+      "sourceLufs": -9.86,
+      "sourceTruePeakDbtp": 0.27,
+      "gainDb": -8.14,
+      "chapter": "Phép màu nhỏ",
+      "scenes": [
+        {
+          "id": 80,
+          "start": 40974,
+          "frames": 598,
+          "chapter": 5,
+          "target": 40974,
+          "layout": "letter",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B21",
+            "B50"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "080",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Phép màu đôi khi",
+                "size": 76,
+                "italic": false
+              },
+              {
+                "text": "chỉ là có người ở bên.",
+                "size": 70,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 526,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 81,
+          "start": 41572,
+          "frames": 504,
+          "chapter": 5,
+          "target": 41575,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B29",
+            "B25"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 82,
+          "start": 42076,
+          "frames": 632,
+          "chapter": 5,
+          "target": 42072,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B45",
+            "B34"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 83,
+          "start": 42708,
+          "frames": 532,
+          "chapter": 5,
+          "target": 42719,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B48",
+            "B15"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 84,
+          "start": 43240,
+          "frames": 615,
+          "chapter": 5,
+          "target": 43239,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B55",
+            "B28",
+            "B53"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 85,
+          "start": 43855,
+          "frames": 573,
+          "chapter": 5,
+          "target": 43863,
+          "layout": "arch",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B41",
+            "B32"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 86,
+          "start": 44428,
+          "frames": 650,
+          "chapter": 5,
+          "target": 44430,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B06",
+            "B12"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 87,
+          "start": 45078,
+          "frames": 505,
+          "chapter": 5,
+          "target": 45065,
+          "layout": "gallery",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B52",
+            "B54"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 88,
+          "start": 45583,
+          "frames": 615,
+          "chapter": 5,
+          "target": 45591,
+          "layout": "folio",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B36",
+            "B31"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 89,
+          "start": 46198,
+          "frames": 491,
+          "chapter": 5,
+          "target": 46192,
+          "layout": "silk",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B52"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 90,
+          "start": 46689,
+          "frames": 644,
+          "chapter": 5,
+          "target": 46689,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B44",
+            "B23",
+            "B51"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 91,
+          "start": 47333,
+          "frames": 522,
+          "chapter": 5,
+          "target": 47336,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B42",
+            "B02"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 92,
+          "start": 47855,
+          "frames": 624,
+          "chapter": 5,
+          "target": 47856,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B39"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 93,
+          "start": 48479,
+          "frames": 573,
+          "chapter": 5,
+          "target": 48481,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B09",
+            "B11",
+            "B14"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 94,
+          "start": 49052,
+          "frames": 631,
+          "chapter": 5,
+          "target": 49047,
+          "layout": "letter",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B30",
+            "B28"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "094",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Thế là một ngày thường",
+                "size": 56,
+                "italic": false
+              },
+              {
+                "text": "cũng thành kỷ niệm.",
+                "size": 72,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 559,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 95,
+          "start": 49683,
+          "frames": 523,
+          "chapter": 5,
+          "target": 49682,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B49",
+            "B32"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 96,
+          "start": 50206,
+          "frames": 606,
+          "chapter": 5,
+          "target": 50208,
+          "layout": "gallery",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B48",
+            "B38"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 97,
+          "start": 50812,
+          "frames": 494,
+          "chapter": 5,
+          "target": 50809,
+          "layout": "folio",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B50",
+            "B55"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 98,
+          "start": 51306,
+          "frames": 644,
+          "chapter": 5,
+          "target": 51306,
+          "layout": "silk",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 99,
+          "start": 51950,
+          "frames": 526,
+          "chapter": 5,
+          "target": 51954,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B41",
+            "B35",
+            "B34"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 100,
+          "start": 52476,
+          "frames": 611,
+          "chapter": 5,
+          "target": 52474,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B54",
+            "B53"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 101,
+          "start": 53087,
+          "frames": 577,
+          "chapter": 5,
+          "target": 53098,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B27"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "title": "Một Nhà",
+      "artist": "Da LAB",
+      "start": 53664,
+      "end": 62816,
+      "sourceFrames": 9284,
+      "trimIn": 0,
+      "trimOut": 76,
+      "sourceSha256": "6f8341403f7dc779e8d79a8ae7c2cebb751513dbb24100a0c347c712145fd045",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Một Nhà.mp3",
+      "sourceLufs": -8.99,
+      "sourceTruePeakDbtp": 0.09,
+      "gainDb": -9.01,
+      "chapter": "Về một nhà",
+      "scenes": [
+        {
+          "id": 102,
+          "start": 53664,
+          "frames": 513,
+          "chapter": 6,
+          "target": 53664,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B08",
+            "B05"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 103,
+          "start": 54177,
+          "frames": 405,
+          "chapter": 6,
+          "target": 54165,
+          "layout": "letter",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B48",
+            "B09"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "103",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Từ hai lối về",
+                "size": 94,
+                "italic": false
+              },
+              {
+                "text": "thành một nhà.",
+                "size": 89,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 333,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 104,
+          "start": 54582,
+          "frames": 536,
+          "chapter": 6,
+          "target": 54579,
+          "layout": "arch",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B45"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 105,
+          "start": 55118,
+          "frames": 431,
+          "chapter": 6,
+          "target": 55119,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B11",
+            "B13"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 106,
+          "start": 55549,
+          "frames": 523,
+          "chapter": 6,
+          "target": 55552,
+          "layout": "gallery",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B36",
+            "B26"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 107,
+          "start": 56072,
+          "frames": 476,
+          "chapter": 6,
+          "target": 56072,
+          "layout": "folio",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B07",
+            "B14"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 108,
+          "start": 56548,
+          "frames": 533,
+          "chapter": 6,
+          "target": 56544,
+          "layout": "silk",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 109,
+          "start": 57081,
+          "frames": 433,
+          "chapter": 6,
+          "target": 57074,
+          "layout": "triptych",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B39",
+            "B49",
+            "B30"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 110,
+          "start": 57514,
+          "frames": 494,
+          "chapter": 6,
+          "target": 57513,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B38",
+            "B09"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 111,
+          "start": 58008,
+          "frames": 423,
+          "chapter": 6,
+          "target": 58014,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B25"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 112,
+          "start": 58431,
+          "frames": 533,
+          "chapter": 6,
+          "target": 58428,
+          "layout": "triptych",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B04",
+            "B10",
+            "B12"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 113,
+          "start": 58964,
+          "frames": 432,
+          "chapter": 6,
+          "target": 58967,
+          "layout": "letter",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B42",
+            "B31"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "113",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Có người để kể nghe",
+                "size": 65,
+                "italic": false
+              },
+              {
+                "text": "chuyện cuối ngày.",
+                "size": 82,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 360,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 114,
+          "start": 59396,
+          "frames": 526,
+          "chapter": 6,
+          "target": 59401,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B41",
+            "B44"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 115,
+          "start": 59922,
+          "frames": 478,
+          "chapter": 6,
+          "target": 59921,
+          "layout": "gallery",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B15",
+            "B06"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 116,
+          "start": 60400,
+          "frames": 527,
+          "chapter": 6,
+          "target": 60393,
+          "layout": "folio",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B29",
+            "B27"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 117,
+          "start": 60927,
+          "frames": 431,
+          "chapter": 6,
+          "target": 60923,
+          "layout": "silk",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B13"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 118,
+          "start": 61358,
+          "frames": 510,
+          "chapter": 6,
+          "target": 61361,
+          "layout": "triptych",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B26",
+            "B36",
+            "B46"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 119,
+          "start": 61868,
+          "frames": 415,
+          "chapter": 6,
+          "target": 61862,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B23",
+            "B45"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 120,
+          "start": 62283,
+          "frames": 533,
+          "chapter": 6,
+          "target": 62277,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B07",
+            "B14"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "title": "Ordinary (Wedding Version)",
+      "artist": "Alex Warren",
+      "start": 62816,
+      "end": 71906,
+      "sourceFrames": 9348,
+      "trimIn": 14,
+      "trimOut": 188,
+      "sourceSha256": "2b13c929114a1fb9606223c54b2b97be1567f5ae9255f3d723c48884b3e1ba68",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Ordinary (Wedding Version).mp3",
+      "sourceLufs": -8.1,
+      "sourceTruePeakDbtp": 0.68,
+      "gainDb": -9.9,
+      "chapter": "Bình yên có nhau",
+      "scenes": [
+        {
+          "id": 121,
+          "start": 62816,
+          "frames": 555,
+          "chapter": 7,
+          "target": 62816,
+          "layout": "letter",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B53",
+            "B55"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "121",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Những ngày bình thường",
+                "size": 53,
+                "italic": false
+              },
+              {
+                "text": "cũng đáng để nhớ.",
+                "size": 82,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 483,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 122,
+          "start": 63371,
+          "frames": 475,
+          "chapter": 7,
+          "target": 63371,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B50",
+            "B52"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 123,
+          "start": 63846,
+          "frames": 587,
+          "chapter": 7,
+          "target": 63831,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B25"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 124,
+          "start": 64433,
+          "frames": 486,
+          "chapter": 7,
+          "target": 64429,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B10"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 125,
+          "start": 64919,
+          "frames": 562,
+          "chapter": 7,
+          "target": 64910,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B32",
+            "B41"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 126,
+          "start": 65481,
+          "frames": 527,
+          "chapter": 7,
+          "target": 65486,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B42",
+            "B31"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 127,
+          "start": 66008,
+          "frames": 599,
+          "chapter": 7,
+          "target": 66010,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B04",
+            "B48"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 128,
+          "start": 66607,
+          "frames": 481,
+          "chapter": 7,
+          "target": 66597,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B44",
+            "B54",
+            "B28"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 129,
+          "start": 67088,
+          "frames": 553,
+          "chapter": 7,
+          "target": 67083,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B51",
+            "B30"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 130,
+          "start": 67641,
+          "frames": 456,
+          "chapter": 7,
+          "target": 67639,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B27",
+            "B29"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 131,
+          "start": 68097,
+          "frames": 599,
+          "chapter": 7,
+          "target": 68098,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B34",
+            "B49"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 132,
+          "start": 68696,
+          "frames": 482,
+          "chapter": 7,
+          "target": 68696,
+          "layout": "letter",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B23",
+            "B50"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "132",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Bình yên là khi",
+                "size": 89,
+                "italic": false
+              },
+              {
+                "text": "mình được là chính mình.",
+                "size": 57,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 410,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 133,
+          "start": 69178,
+          "frames": 574,
+          "chapter": 7,
+          "target": 69177,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 134,
+          "start": 69752,
+          "frames": 523,
+          "chapter": 7,
+          "target": 69754,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B08",
+            "B11",
+            "B05"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 135,
+          "start": 70275,
+          "frames": 588,
+          "chapter": 7,
+          "target": 70277,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B35",
+            "B39"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 136,
+          "start": 70863,
+          "frames": 492,
+          "chapter": 7,
+          "target": 70865,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B26",
+            "B01"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 137,
+          "start": 71355,
+          "frames": 551,
+          "chapter": 7,
+          "target": 71351,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B09",
+            "B14",
+            "B06"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "start": 71906,
+      "end": 84570,
+      "sourceFrames": 12950,
+      "trimIn": 0,
+      "trimOut": 230,
+      "sourceSha256": "d497d6954a4ad129d009cbfee385ef0d68d5910623b35bd3d0b0b39e92745941",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Photograph.mp3",
+      "sourceLufs": -10.72,
+      "sourceTruePeakDbtp": 0.35,
+      "gainDb": -7.28,
+      "chapter": "Những điều ảnh giữ giùm",
+      "scenes": [
+        {
+          "id": 138,
+          "start": 71906,
+          "frames": 608,
+          "chapter": 8,
+          "target": 71906,
+          "layout": "memoryPair",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B03",
+            "B52"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "iris",
+          "text": {
+            "id": "138",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Tấm ảnh giữ một giây.",
+                "size": 60,
+                "italic": false
+              },
+              {
+                "text": "Mình nhớ cả một ngày.",
+                "size": 63,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 536,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 139,
+          "start": 72514,
+          "frames": 483,
+          "chapter": 8,
+          "target": 72506,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B07",
+            "B13",
+            "B38"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 140,
+          "start": 72997,
+          "frames": 650,
+          "chapter": 8,
+          "target": 73002,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B21",
+            "B55"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 141,
+          "start": 73647,
+          "frames": 526,
+          "chapter": 8,
+          "target": 73648,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B36",
+            "B25"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 142,
+          "start": 74173,
+          "frames": 618,
+          "chapter": 8,
+          "target": 74167,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B45",
+            "B34",
+            "B49"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 143,
+          "start": 74791,
+          "frames": 557,
+          "chapter": 8,
+          "target": 74789,
+          "layout": "arch",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B53",
+            "B23"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 144,
+          "start": 75348,
+          "frames": 651,
+          "chapter": 8,
+          "target": 75355,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B46",
+            "B50"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 145,
+          "start": 75999,
+          "frames": 514,
+          "chapter": 8,
+          "target": 75989,
+          "layout": "gallery",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B41",
+            "B32"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 146,
+          "start": 76513,
+          "frames": 596,
+          "chapter": 8,
+          "target": 76514,
+          "layout": "folio",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B05",
+            "B10"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 147,
+          "start": 77109,
+          "frames": 500,
+          "chapter": 8,
+          "target": 77113,
+          "layout": "silk",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B21"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 148,
+          "start": 77609,
+          "frames": 640,
+          "chapter": 8,
+          "target": 77609,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B35",
+            "B39",
+            "B51"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 149,
+          "start": 78249,
+          "frames": 528,
+          "chapter": 8,
+          "target": 78255,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B12",
+            "B15"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 150,
+          "start": 78777,
+          "frames": 625,
+          "chapter": 8,
+          "target": 78774,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B54",
+            "B30"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 151,
+          "start": 79402,
+          "frames": 554,
+          "chapter": 8,
+          "target": 79397,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B42",
+            "B27"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 152,
+          "start": 79956,
+          "frames": 641,
+          "chapter": 8,
+          "target": 79962,
+          "layout": "letter",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B44"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "152",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Mai này nhìn lại,",
+                "size": 79,
+                "italic": false
+              },
+              {
+                "text": "mình vẫn sẽ mỉm cười.",
+                "size": 65,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 569,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 153,
+          "start": 80597,
+          "frames": 525,
+          "chapter": 8,
+          "target": 80597,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B28",
+            "B52"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 154,
+          "start": 81122,
+          "frames": 598,
+          "chapter": 8,
+          "target": 81121,
+          "layout": "gallery",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B31"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 155,
+          "start": 81720,
+          "frames": 500,
+          "chapter": 8,
+          "target": 81721,
+          "layout": "folio",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B45",
+            "B34"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 156,
+          "start": 82220,
+          "frames": 640,
+          "chapter": 8,
+          "target": 82217,
+          "layout": "silk",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B13"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 157,
+          "start": 82860,
+          "frames": 522,
+          "chapter": 8,
+          "target": 82863,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B23",
+            "B53",
+            "B55"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 158,
+          "start": 83382,
+          "frames": 623,
+          "chapter": 8,
+          "target": 83382,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B32",
+            "B49"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 159,
+          "start": 84005,
+          "frames": 565,
+          "chapter": 8,
+          "target": 84005,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B11",
+            "B08"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "title": "Chúa Tể",
+      "artist": "Bùi Công Nam",
+      "start": 84570,
+      "end": 91608,
+      "sourceFrames": 7094,
+      "trimIn": 0,
+      "trimOut": 0,
+      "sourceSha256": "78bca15e4b5f888c175078fde75fd9a13071805ab222a4229021f80a29a40e4f",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Chúa Tể.mp3",
+      "sourceLufs": -10.24,
+      "sourceTruePeakDbtp": 0.3,
+      "gainDb": -7.76,
+      "chapter": "Cười cùng nhau",
+      "scenes": [
+        {
+          "id": 160,
+          "start": 84570,
+          "frames": 472,
+          "chapter": 9,
+          "target": 84570,
+          "layout": "letter",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B15",
+            "B24"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "160",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Mình thích nhất",
+                "size": 81,
+                "italic": false
+              },
+              {
+                "text": "những lúc cùng bật cười.",
+                "size": 60,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 400,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 161,
+          "start": 85042,
+          "frames": 359,
+          "chapter": 9,
+          "target": 85028,
+          "layout": "triptych",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B04",
+            "B48",
+            "B12"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 162,
+          "start": 85401,
+          "frames": 501,
+          "chapter": 9,
+          "target": 85407,
+          "layout": "arch",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B39",
+            "B35"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 163,
+          "start": 85902,
+          "frames": 392,
+          "chapter": 9,
+          "target": 85900,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B17",
+            "B20"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 164,
+          "start": 86294,
+          "frames": 473,
+          "chapter": 9,
+          "target": 86296,
+          "layout": "gallery",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B29"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 165,
+          "start": 86767,
+          "frames": 438,
+          "chapter": 9,
+          "target": 86772,
+          "layout": "folio",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B41",
+            "B54"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 166,
+          "start": 87205,
+          "frames": 474,
+          "chapter": 9,
+          "target": 87204,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B22"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 167,
+          "start": 87679,
+          "frames": 409,
+          "chapter": 9,
+          "target": 87688,
+          "layout": "triptych",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B26",
+            "B31"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 168,
+          "start": 88088,
+          "frames": 458,
+          "chapter": 9,
+          "target": 88089,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B38",
+            "B07"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 169,
+          "start": 88546,
+          "frames": 380,
+          "chapter": 9,
+          "target": 88547,
+          "layout": "letter",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B04",
+            "B33"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "169",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Và hôm nay,",
+                "size": 94,
+                "italic": false
+              },
+              {
+                "text": "niềm vui có thêm mọi người.",
+                "size": 52,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 308,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 170,
+          "start": 88926,
+          "frames": 497,
+          "chapter": 9,
+          "target": 88926,
+          "layout": "triptych",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B25",
+            "B29",
+            "B46"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 171,
+          "start": 89423,
+          "frames": 388,
+          "chapter": 9,
+          "target": 89419,
+          "layout": "arch",
+          "palette": "olive",
+          "theme": "table",
+          "photos": [
+            "B05",
+            "B11"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 172,
+          "start": 89811,
+          "frames": 480,
+          "chapter": 9,
+          "target": 89815,
+          "layout": "duet",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B34"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 173,
+          "start": 90291,
+          "frames": 424,
+          "chapter": 9,
+          "target": 90291,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B43",
+            "B40"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 174,
+          "start": 90715,
+          "frames": 488,
+          "chapter": 9,
+          "target": 90723,
+          "layout": "folio",
+          "palette": "olive",
+          "theme": "flowers",
+          "photos": [
+            "B36",
+            "B42"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 175,
+          "start": 91203,
+          "frames": 405,
+          "chapter": 9,
+          "target": 91207,
+          "layout": "silk",
+          "palette": "olive",
+          "theme": "studio",
+          "photos": [
+            "B52"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "title": "Lỡ Thương Nhau",
+      "artist": "Mounter × Nguyễn Hùng · OST Bò Sữa Bay",
+      "start": 91608,
+      "end": 103054,
+      "sourceFrames": 11658,
+      "trimIn": 0,
+      "trimOut": 156,
+      "sourceSha256": "818182bb9f60c2b021b47881e53e6616ee124adb0e9f6b6db8004b76a2b586be",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Lỡ Thương Nhau (Bò Sữa Bay OST) - Mounter x Nguyễn Hùng ｜ Official MV.mp3",
+      "sourceLufs": -9.28,
+      "sourceTruePeakDbtp": 0.34,
+      "gainDb": -8.72,
+      "chapter": "Thương từ điều giản dị",
+      "scenes": [
+        {
+          "id": 176,
+          "start": 91608,
+          "frames": 559,
+          "chapter": 10,
+          "target": 91608,
+          "layout": "letter",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B13",
+            "B05"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "176",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Mình thương nhau",
+                "size": 71,
+                "italic": false
+              },
+              {
+                "text": "từ những điều rất nhỏ.",
+                "size": 65,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 487,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 177,
+          "start": 92167,
+          "frames": 475,
+          "chapter": 10,
+          "target": 92175,
+          "layout": "gallery",
+          "palette": "wheat",
+          "theme": "veil",
+          "photos": [
+            "B21",
+            "B30"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 178,
+          "start": 92642,
+          "frames": 612,
+          "chapter": 10,
+          "target": 92645,
+          "layout": "folio",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B28",
+            "B35"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 179,
+          "start": 93254,
+          "frames": 487,
+          "chapter": 10,
+          "target": 93256,
+          "layout": "silk",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 180,
+          "start": 93741,
+          "frames": 593,
+          "chapter": 10,
+          "target": 93747,
+          "layout": "triptych",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B08",
+            "B38",
+            "B15"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 181,
+          "start": 94334,
+          "frames": 533,
+          "chapter": 10,
+          "target": 94336,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B44",
+            "B41"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 182,
+          "start": 94867,
+          "frames": 600,
+          "chapter": 10,
+          "target": 94870,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B26"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 183,
+          "start": 95467,
+          "frames": 500,
+          "chapter": 10,
+          "target": 95471,
+          "layout": "triptych",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B10",
+            "B04",
+            "B11"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 184,
+          "start": 95967,
+          "frames": 575,
+          "chapter": 10,
+          "target": 95967,
+          "layout": "arch",
+          "palette": "wheat",
+          "theme": "veil",
+          "photos": [
+            "B51",
+            "B55"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 185,
+          "start": 96542,
+          "frames": 462,
+          "chapter": 10,
+          "target": 96534,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B45",
+            "B39"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 186,
+          "start": 97004,
+          "frames": 612,
+          "chapter": 10,
+          "target": 97004,
+          "layout": "gallery",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B06",
+            "B09"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 187,
+          "start": 97616,
+          "frames": 489,
+          "chapter": 10,
+          "target": 97615,
+          "layout": "folio",
+          "palette": "wheat",
+          "theme": "veil",
+          "photos": [
+            "B23",
+            "B53"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 188,
+          "start": 98105,
+          "frames": 587,
+          "chapter": 10,
+          "target": 98106,
+          "layout": "silk",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B52"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 189,
+          "start": 98692,
+          "frames": 537,
+          "chapter": 10,
+          "target": 98695,
+          "layout": "letter",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B27"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "189",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Một cái nắm tay",
+                "size": 82,
+                "italic": false
+              },
+              {
+                "text": "cũng đủ để yên lòng.",
+                "size": 72,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 465,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 190,
+          "start": 99229,
+          "frames": 601,
+          "chapter": 10,
+          "target": 99230,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B14",
+            "B12"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 191,
+          "start": 99830,
+          "frames": 495,
+          "chapter": 10,
+          "target": 99830,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B35",
+            "B54"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 192,
+          "start": 100325,
+          "frames": 567,
+          "chapter": 10,
+          "target": 100326,
+          "layout": "triptych",
+          "palette": "wheat",
+          "theme": "flowers",
+          "photos": [
+            "B36",
+            "B42",
+            "B26"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 193,
+          "start": 100892,
+          "frames": 475,
+          "chapter": 10,
+          "target": 100894,
+          "layout": "arch",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B48",
+            "B07"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 194,
+          "start": 101367,
+          "frames": 600,
+          "chapter": 10,
+          "target": 101363,
+          "layout": "duet",
+          "palette": "wheat",
+          "theme": "veil",
+          "photos": [
+            "B28",
+            "B21"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 195,
+          "start": 101967,
+          "frames": 500,
+          "chapter": 10,
+          "target": 101974,
+          "layout": "gallery",
+          "palette": "wheat",
+          "theme": "studio",
+          "photos": [
+            "B32",
+            "B49"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 196,
+          "start": 102467,
+          "frames": 587,
+          "chapter": 10,
+          "target": 102465,
+          "layout": "folio",
+          "palette": "wheat",
+          "theme": "table",
+          "photos": [
+            "B10",
+            "B06"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "title": "Gói Con Tim Làm Quà",
+      "artist": "Nguyễn Hùng · OST Bò Sữa Bay",
+      "start": 103054,
+      "end": 114868,
+      "sourceFrames": 11870,
+      "trimIn": 0,
+      "trimOut": 0,
+      "sourceSha256": "c350fac924051010473823c2c921e2d97baa37394b81a7ddb58f62de9e6f85cf",
+      "path": "Source/inbox/wedding-slideshow/v005/music/GÓI CON TIM LÀM QUÀ ('BÒ SỮA BAY' OST) LYRICS - NGUYỄN HÙNG.mp3",
+      "sourceLufs": -7.77,
+      "sourceTruePeakDbtp": 0.29,
+      "gainDb": -10.23,
+      "chapter": "Lời hẹn dành cho nhau",
+      "scenes": [
+        {
+          "id": 197,
+          "start": 103054,
+          "frames": 533,
+          "chapter": 11,
+          "target": 103054,
+          "layout": "silk",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 198,
+          "start": 103587,
+          "frames": 440,
+          "chapter": 11,
+          "target": 103587,
+          "layout": "letter",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B29",
+            "B34"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "198",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Món quà hôm nay",
+                "size": 74,
+                "italic": false
+              },
+              {
+                "text": "là lời hẹn của hai đứa.",
+                "size": 66,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 368,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 199,
+          "start": 104027,
+          "frames": 570,
+          "chapter": 11,
+          "target": 104027,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B51",
+            "B30"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 200,
+          "start": 104597,
+          "frames": 474,
+          "chapter": 11,
+          "target": 104601,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B08",
+            "B38"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 201,
+          "start": 105071,
+          "frames": 553,
+          "chapter": 11,
+          "target": 105062,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B27",
+            "B50"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 202,
+          "start": 105624,
+          "frames": 489,
+          "chapter": 11,
+          "target": 105616,
+          "layout": "arch",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B44",
+            "B53"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 203,
+          "start": 106113,
+          "frames": 569,
+          "chapter": 11,
+          "target": 106118,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B09",
+            "B11"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 204,
+          "start": 106682,
+          "frames": 473,
+          "chapter": 11,
+          "target": 106681,
+          "layout": "gallery",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B25"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 205,
+          "start": 107155,
+          "frames": 521,
+          "chapter": 11,
+          "target": 107147,
+          "layout": "folio",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B39"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 206,
+          "start": 107676,
+          "frames": 442,
+          "chapter": 11,
+          "target": 107680,
+          "layout": "silk",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B21"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 207,
+          "start": 108118,
+          "frames": 574,
+          "chapter": 11,
+          "target": 108121,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B29",
+            "B46"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 208,
+          "start": 108692,
+          "frames": 469,
+          "chapter": 11,
+          "target": 108695,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B49",
+            "B32"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 209,
+          "start": 109161,
+          "frames": 552,
+          "chapter": 11,
+          "target": 109156,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B23",
+            "B55"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 210,
+          "start": 109713,
+          "frames": 505,
+          "chapter": 11,
+          "target": 109709,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B14",
+            "B06",
+            "B12"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 211,
+          "start": 110218,
+          "frames": 556,
+          "chapter": 11,
+          "target": 110211,
+          "layout": "arch",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B31",
+            "B36"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 212,
+          "start": 110774,
+          "frames": 469,
+          "chapter": 11,
+          "target": 110775,
+          "layout": "letter",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B54",
+            "B30"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "212",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Mình giữ lời hẹn ấy",
+                "size": 69,
+                "italic": false
+              },
+              {
+                "text": "bằng từng ngày bên nhau.",
+                "size": 56,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 397,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 213,
+          "start": 111243,
+          "frames": 533,
+          "chapter": 11,
+          "target": 111241,
+          "layout": "gallery",
+          "palette": "rose",
+          "theme": "table",
+          "photos": [
+            "B48",
+            "B15"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 214,
+          "start": 111776,
+          "frames": 439,
+          "chapter": 11,
+          "target": 111774,
+          "layout": "folio",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B26"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 215,
+          "start": 112215,
+          "frames": 574,
+          "chapter": 11,
+          "target": 112214,
+          "layout": "silk",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B52"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 216,
+          "start": 112789,
+          "frames": 462,
+          "chapter": 11,
+          "target": 112788,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B44",
+            "B51",
+            "B28"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 217,
+          "start": 113251,
+          "frames": 552,
+          "chapter": 11,
+          "target": 113249,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "flowers",
+          "photos": [
+            "B01",
+            "B25"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 218,
+          "start": 113803,
+          "frames": 504,
+          "chapter": 11,
+          "target": 113802,
+          "layout": "duet",
+          "palette": "rose",
+          "theme": "studio",
+          "photos": [
+            "B24",
+            "B39"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 219,
+          "start": 114307,
+          "frames": 561,
+          "chapter": 11,
+          "target": 114304,
+          "layout": "triptych",
+          "palette": "rose",
+          "theme": "veil",
+          "photos": [
+            "B53",
+            "B21",
+            "B55"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "title": "Ngày Chung Đôi",
+      "artist": "",
+      "start": 114868,
+      "end": 126178,
+      "sourceFrames": 11524,
+      "trimIn": 26,
+      "trimOut": 132,
+      "sourceSha256": "b319ca1323adc5d294f891ab23fd871643a5867385496537f8125c890da7967b",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Ngay chung doi.mp3",
+      "sourceLufs": -9.46,
+      "sourceTruePeakDbtp": 0.45,
+      "gainDb": -8.54,
+      "chapter": "Ngày chung đôi",
+      "scenes": [
+        {
+          "id": 220,
+          "start": 114868,
+          "frames": 530,
+          "chapter": 12,
+          "target": 114868,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B22"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 221,
+          "start": 115398,
+          "frames": 456,
+          "chapter": 12,
+          "target": 115404,
+          "layout": "letter",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B17",
+            "B19"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "flare",
+          "text": {
+            "id": "221",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Ngày chung đôi",
+                "size": 86,
+                "italic": false
+              },
+              {
+                "text": "của hai đứa mình.",
+                "size": 81,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 384,
+            "hold": false,
+            "date": true
+          }
+        },
+        {
+          "id": 222,
+          "start": 115854,
+          "frames": 564,
+          "chapter": 12,
+          "target": 115847,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B42"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 223,
+          "start": 116418,
+          "frames": 468,
+          "chapter": 12,
+          "target": 116423,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B43",
+            "B40"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 224,
+          "start": 116886,
+          "frames": 552,
+          "chapter": 12,
+          "target": 116887,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B20",
+            "B16"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 225,
+          "start": 117438,
+          "frames": 504,
+          "chapter": 12,
+          "target": 117443,
+          "layout": "folio",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B19"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 226,
+          "start": 117942,
+          "frames": 576,
+          "chapter": 12,
+          "target": 117948,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 227,
+          "start": 118518,
+          "frames": 456,
+          "chapter": 12,
+          "target": 118514,
+          "layout": "triptych",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B22",
+            "B17",
+            "B40"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 228,
+          "start": 118974,
+          "frames": 540,
+          "chapter": 12,
+          "target": 118983,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B16",
+            "B43"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 229,
+          "start": 119514,
+          "frames": 444,
+          "chapter": 12,
+          "target": 119519,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B20",
+            "B19"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 230,
+          "start": 119958,
+          "frames": 576,
+          "chapter": 12,
+          "target": 119962,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B36",
+            "B31",
+            "B26"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 231,
+          "start": 120534,
+          "frames": 468,
+          "chapter": 12,
+          "target": 120538,
+          "layout": "arch",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B22"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 232,
+          "start": 121002,
+          "frames": 552,
+          "chapter": 12,
+          "target": 121002,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B40",
+            "B16"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 233,
+          "start": 121554,
+          "frames": 516,
+          "chapter": 12,
+          "target": 121558,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B17",
+            "B20"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 234,
+          "start": 122070,
+          "frames": 564,
+          "chapter": 12,
+          "target": 122063,
+          "layout": "folio",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B19",
+            "B43"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 235,
+          "start": 122634,
+          "frames": 468,
+          "chapter": 12,
+          "target": 122629,
+          "layout": "gallery",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B20",
+            "B18"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 236,
+          "start": 123102,
+          "frames": 528,
+          "chapter": 12,
+          "target": 123098,
+          "layout": "letter",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B16",
+            "B22"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "236",
+            "names": true,
+            "eyebrow": "Ngày chung đôi",
+            "lines": [
+              {
+                "text": "Văn Công",
+                "size": 115,
+                "italic": false
+              },
+              {
+                "text": "& Thương Huyền",
+                "size": 82,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 456,
+            "hold": false,
+            "date": true
+          }
+        },
+        {
+          "id": 237,
+          "start": 123630,
+          "frames": 444,
+          "chapter": 12,
+          "target": 123634,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B40",
+            "B17"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 238,
+          "start": 124074,
+          "frames": 576,
+          "chapter": 12,
+          "target": 124077,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B20",
+            "B16"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 239,
+          "start": 124650,
+          "frames": 468,
+          "chapter": 12,
+          "target": 124654,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B02",
+            "B25",
+            "B42"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 240,
+          "start": 125118,
+          "frames": 552,
+          "chapter": 12,
+          "target": 125117,
+          "layout": "arch",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B43",
+            "B19"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 241,
+          "start": 125670,
+          "frames": 508,
+          "chapter": 12,
+          "target": 125673,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B22",
+            "B16"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "title": "My Love",
+      "artist": "Westlife",
+      "start": 126178,
+      "end": 137646,
+      "sourceFrames": 11592,
+      "trimIn": 32,
+      "trimOut": 92,
+      "sourceSha256": "5c2b8cb6b65f3164bde235b128b2ae6450621619b7f71b7e01775ced2a6b9759",
+      "path": "Source/inbox/wedding-slideshow/v005/music/Westlife - My Love (Lyrics).mp3",
+      "sourceLufs": -9.77,
+      "sourceTruePeakDbtp": 0.49,
+      "gainDb": -8.23,
+      "chapter": "Từ hôm nay, mình viết tiếp",
+      "scenes": [
+        {
+          "id": 242,
+          "start": 126178,
+          "frames": 600,
+          "chapter": 13,
+          "target": 126178,
+          "layout": "letter",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B30",
+            "B51"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "242",
+            "names": false,
+            "eyebrow": null,
+            "lines": [
+              {
+                "text": "Chuyện của hai đứa",
+                "size": 68,
+                "italic": false
+              },
+              {
+                "text": "còn nhiều trang để viết.",
+                "size": 62,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 528,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 243,
+          "start": 126778,
+          "frames": 498,
+          "chapter": 13,
+          "target": 126777,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B50",
+            "B44"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 244,
+          "start": 127276,
+          "frames": 645,
+          "chapter": 13,
+          "target": 127273,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B08",
+            "B05"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 245,
+          "start": 127921,
+          "frames": 520,
+          "chapter": 13,
+          "target": 127918,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B46"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 246,
+          "start": 128441,
+          "frames": 624,
+          "chapter": 13,
+          "target": 128437,
+          "layout": "triptych",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B40",
+            "B20"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 247,
+          "start": 129065,
+          "frames": 562,
+          "chapter": 13,
+          "target": 129059,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B34",
+            "B54"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 248,
+          "start": 129627,
+          "frames": 625,
+          "chapter": 13,
+          "target": 129624,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B28",
+            "B50"
+          ],
+          "motion": "driftLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 249,
+          "start": 130252,
+          "frames": 520,
+          "chapter": 13,
+          "target": 130258,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B09",
+            "B13",
+            "B07"
+          ],
+          "motion": "recede",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 250,
+          "start": 130772,
+          "frames": 614,
+          "chapter": 13,
+          "target": 130782,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B33",
+            "B27"
+          ],
+          "motion": "lift",
+          "mirror": true,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 251,
+          "start": 131386,
+          "frames": 489,
+          "chapter": 13,
+          "target": 131382,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B43",
+            "B19"
+          ],
+          "motion": "floatRight",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 252,
+          "start": 131875,
+          "frames": 645,
+          "chapter": 13,
+          "target": 131877,
+          "layout": "gallery",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B41",
+            "B45"
+          ],
+          "motion": "floatLeft",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 253,
+          "start": 132520,
+          "frames": 521,
+          "chapter": 13,
+          "target": 132523,
+          "layout": "folio",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B23",
+            "B30"
+          ],
+          "motion": "driftRight",
+          "mirror": false,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 254,
+          "start": 133041,
+          "frames": 624,
+          "chapter": 13,
+          "target": 133042,
+          "layout": "silk",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B10"
+          ],
+          "motion": "push",
+          "mirror": true,
+          "transition": "lens",
+          "text": null
+        },
+        {
+          "id": 255,
+          "start": 133665,
+          "frames": 563,
+          "chapter": 13,
+          "target": 133664,
+          "layout": "letter",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B27",
+            "B15"
+          ],
+          "motion": "driftLeft",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": {
+            "id": "255",
+            "names": false,
+            "eyebrow": "Gửi những người thương",
+            "lines": [
+              {
+                "text": "Cảm ơn",
+                "size": 94,
+                "italic": false
+              },
+              {
+                "text": "đã đến chung vui.",
+                "size": 83,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 491,
+            "hold": false,
+            "date": false
+          }
+        },
+        {
+          "id": 256,
+          "start": 134228,
+          "frames": 634,
+          "chapter": 13,
+          "target": 134229,
+          "layout": "duet",
+          "palette": "wine",
+          "theme": "red",
+          "photos": [
+            "B18",
+            "B40"
+          ],
+          "motion": "recede",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 257,
+          "start": 134862,
+          "frames": 531,
+          "chapter": 13,
+          "target": 134863,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "studio",
+          "photos": [
+            "B45",
+            "B41"
+          ],
+          "motion": "lift",
+          "mirror": false,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 258,
+          "start": 135393,
+          "frames": 591,
+          "chapter": 13,
+          "target": 135387,
+          "layout": "triptych",
+          "palette": "ivory",
+          "theme": "veil",
+          "photos": [
+            "B51",
+            "B54",
+            "B52"
+          ],
+          "motion": "floatRight",
+          "mirror": true,
+          "transition": "page",
+          "text": null
+        },
+        {
+          "id": 259,
+          "start": 135984,
+          "frames": 491,
+          "chapter": 13,
+          "target": 135986,
+          "layout": "arch",
+          "palette": "ivory",
+          "theme": "table",
+          "photos": [
+            "B04",
+            "B14"
+          ],
+          "motion": "floatLeft",
+          "mirror": false,
+          "transition": "iris",
+          "text": null
+        },
+        {
+          "id": 260,
+          "start": 136475,
+          "frames": 656,
+          "chapter": 13,
+          "target": 136482,
+          "layout": "duet",
+          "palette": "ivory",
+          "theme": "flowers",
+          "photos": [
+            "B29",
+            "B31"
+          ],
+          "motion": "driftRight",
+          "mirror": true,
+          "transition": "dissolve",
+          "text": null
+        },
+        {
+          "id": 261,
+          "start": 137131,
+          "frames": 515,
+          "chapter": 13,
+          "target": 137127,
+          "layout": "signature",
+          "palette": "ivory",
+          "theme": "red",
+          "photos": [
+            "B47"
+          ],
+          "motion": "push",
+          "mirror": false,
+          "transition": "lens",
+          "text": {
+            "id": "261",
+            "names": true,
+            "eyebrow": "Từ hôm nay",
+            "lines": [
+              {
+                "text": "Văn Công",
+                "size": 115,
+                "italic": false
+              },
+              {
+                "text": "& Thương Huyền",
+                "size": 88,
+                "italic": true
+              }
+            ],
+            "in": 48,
+            "out": 443,
+            "hold": true,
+            "date": true
+          }
+        }
+      ]
+    }
+  ]
+}

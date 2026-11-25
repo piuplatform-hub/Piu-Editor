@@ -28,13 +28,15 @@ Bootstrap không cài package, không build, không tải submodule hoặc Git L
 |---|---|
 | Bản đồ, hướng dẫn, registry, manifest khóa commit | Source upstream tải về trong `repos/`, ngoại trừ `AGENTS.md` local |
 | Scripts, tests, templates và kiểm tra CI | Dependency, browser, binary, cache, `.env`, archive Git |
-| Code dựng, package manifest/lockfile, brief, quyết định và bài học | Video, ảnh, nhạc, font, model và file giao |
+| Code dựng, package manifest/lockfile, `requirements-render.txt`, brief và bài học | Video, ảnh, nhạc, font, model và file giao |
 | JSON tóm tắt QA và hash để đối chiếu | Ảnh so sánh/preview, log lớn và dữ liệu trung gian |
 | `.gitkeep` để giữ cấu trúc thư mục | Nguyên liệu người dùng tự thêm sau khi clone |
 
 Git không lưu thư mục trống. `.gitkeep` là file rỗng giữ cấu trúc `Source/`, `public/`, `working/`, `previews/`, `output/` và `temp/`. Những dữ liệu đang có trên máy không bị xóa khi thay quy tắc ignore.
 
 Code của TVC Yên Thành được giữ như ca tham khảo có lịch sử v001–v004. Clone repo không mang theo 8 nguyên liệu, font hoặc bản MP4; trạng thái `complete` ghi nhận lần sản xuất trên máy gốc. Đọc `notes/render-v004.md` trước khi dựng lại. Chưa xác nhận dựng trọn TVC từ một clone sạch; xem [PROD-005](production/IMPROVEMENTS.md).
+
+Hai project “Từ hôm nay” giữ phần mở màn và bản chiếu tiệc như hai hồ sơ dựng. Bản chiếu tiệc V005 cần khôi phục đúng ảnh, nhạc, lớp hiệu ứng và font trên máy. [Hướng dẫn tái tạo V005](../projects/wedding-slideshow/notes/tai-tao-v005.md)
 
 Sau khi clone, người dùng hoặc AI tự bổ sung nguyên liệu vào các nhóm dưới `Source/`, rồi làm theo [WORKFLOW](WORKFLOW.md). File đã ignore cần được lưu trữ/sao lưu riêng.
 
@@ -55,10 +57,13 @@ Hai cờ có thể dùng cùng nhau.
 ## Trước khi commit/push
 
 ```powershell
-python scripts/sync_guides.py
 python scripts/studio.py validate
 python -m unittest discover -s tests -v
-git add .
+```
+
+Nếu sửa registry, chạy `python scripts/sync_guides.py` trước khi validate. Stage bằng `git add --` theo các đường dẫn của thay đổi, rồi kiểm tra:
+
+```powershell
 python scripts/check_publish.py
 git diff --cached --stat
 ```

@@ -1,0 +1,127 @@
+{
+  "groom": "Văn Công",
+  "bride": "Thương Huyền",
+  "solarDate": "29/11/2026",
+  "lunarDate": "21/10/2026",
+  "tracks": [
+    {
+      "title": "Ngày Đầu Tiên", "artist": "Đức Phúc", "file": "Ngày Đầu Tiên.mp3",
+      "chapter": "Từ những ngày bé xíu", "pace": 10.4, "palette": "ivory",
+      "groups": ["studio", "flowers", "veil", "table"],
+      "cues": [
+        {"at": 0, "layout": "memory", "photos": ["B03"], "lines": ["Từ những ngày", "bé xíu"]},
+        {"at": 0.055, "layout": "signature", "photos": ["B47"], "names": true, "eyebrow": "Từ hôm nay", "date": true},
+        {"at": 0.66, "lines": ["Rồi một ngày,", "mình gặp nhau."]}
+      ]
+    },
+    {
+      "title": "Em Đồng Ý (I Do)", "artist": "Đức Phúc × 911", "file": "Em Đồng Ý (I Do).mp3",
+      "chapter": "Lời đồng ý", "pace": 10.2, "palette": "ivory",
+      "groups": ["veil", "studio", "flowers"],
+      "cues": [
+        {"at": 0.015, "photos": ["B21", "B52"], "lines": ["Giữa bao người,", "mình nhận ra nhau."]},
+        {"at": 0.57, "photos": ["B26", "B29"], "lines": ["Một lời đồng ý", "cho những ngày sau."]}
+      ]
+    },
+    {
+      "title": "Đến Khi Nào (Drill)", "artist": "YanBi · sáng tác Khắc Việt", "file": "Đến Khi Nào (Drill).mp3",
+      "chapter": "Những điều lớn dần", "pace": 9.1, "palette": "wheat",
+      "groups": ["table", "flowers", "studio"],
+      "cues": [
+        {"at": 0.02, "photos": ["B38", "B05"], "lines": ["Có những điều", "cần thời gian để hiểu."]},
+        {"at": 0.58, "lines": ["Chẳng biết từ bao giờ,", "mình mong được gặp nhau."]}
+      ]
+    },
+    {
+      "title": "Lễ Đường", "artist": "Kai Đinh", "file": "Lễ Đường.mp3",
+      "chapter": "Ngày bước cạnh nhau", "pace": 11.4, "palette": "wine",
+      "groups": ["red", "red", "veil", "red", "red"],
+      "cues": [
+        {"at": 0.025, "photos": ["B43", "B40"], "lines": ["Hôm nay,", "mình bước cạnh nhau."], "date": true, "transition": "flare"},
+        {"at": 0.63, "photos": ["B18", "B20"], "lines": ["Trong niềm vui", "của những người thương."]}
+      ]
+    },
+    {
+      "title": "Phép Màu", "artist": "MAYDAYs, Minh Tốc & Lam · OST Đàn Cá Gỗ", "file": "Phép Màu (From Đàn Cá Gỗ Original Soundtrack).mp3",
+      "chapter": "Phép màu nhỏ", "pace": 11.4, "palette": "rose",
+      "groups": ["veil", "flowers", "studio", "table"],
+      "cues": [
+        {"at": 0.018, "photos": ["B21", "B50"], "lines": ["Phép màu đôi khi", "chỉ là có người ở bên."]},
+        {"at": 0.66, "lines": ["Thế là một ngày thường", "cũng thành kỷ niệm."]}
+      ]
+    },
+    {
+      "title": "Một Nhà", "artist": "Da LAB", "file": "Một Nhà.mp3",
+      "chapter": "Về một nhà", "pace": 9.8, "palette": "olive",
+      "groups": ["table", "flowers", "studio"],
+      "cues": [
+        {"at": 0.03, "photos": ["B48", "B09"], "lines": ["Từ hai lối về", "thành một nhà."]},
+        {"at": 0.58, "lines": ["Có người để kể nghe", "chuyện cuối ngày."]}
+      ]
+    },
+    {
+      "title": "Ordinary (Wedding Version)", "artist": "Alex Warren", "file": "Ordinary (Wedding Version).mp3",
+      "chapter": "Bình yên có nhau", "pace": 10.9, "palette": "ivory",
+      "groups": ["studio", "veil", "flowers", "table"],
+      "cues": [
+        {"at": 0.02, "photos": ["B53", "B55"], "lines": ["Những ngày bình thường", "cũng đáng để nhớ."]},
+        {"at": 0.65, "lines": ["Bình yên là khi", "mình được là chính mình."]}
+      ]
+    },
+    {
+      "title": "Photograph", "artist": "Ed Sheeran", "file": "Photograph.mp3",
+      "chapter": "Những điều ảnh giữ giùm", "pace": 11.7, "palette": "rose",
+      "groups": ["studio", "table", "veil", "flowers"],
+      "cues": [
+        {"at": 0.018, "layout": "memoryPair", "photos": ["B03", "B52"], "lines": ["Tấm ảnh giữ một giây.", "Mình nhớ cả một ngày."]},
+        {"at": 0.63, "lines": ["Mai này nhìn lại,", "mình vẫn sẽ mỉm cười."]}
+      ]
+    },
+    {
+      "title": "Chúa Tể", "artist": "Bùi Công Nam", "file": "Chúa Tể.mp3",
+      "chapter": "Cười cùng nhau", "pace": 8.8, "palette": "olive",
+      "groups": ["flowers", "table", "studio", "red"],
+      "cues": [
+        {"at": 0.01, "photos": ["B15", "B24"], "lines": ["Mình thích nhất", "những lúc cùng bật cười."]},
+        {"at": 0.55, "photos": ["B04", "B33"], "lines": ["Và hôm nay,", "niềm vui có thêm mọi người."]}
+      ]
+    },
+    {
+      "title": "Lỡ Thương Nhau", "artist": "Mounter × Nguyễn Hùng · OST Bò Sữa Bay", "file": "Lỡ Thương Nhau (Bò Sữa Bay OST) - Mounter x Nguyễn Hùng ｜ Official MV.mp3",
+      "chapter": "Thương từ điều giản dị", "pace": 10.9, "palette": "wheat",
+      "groups": ["table", "veil", "studio", "flowers"],
+      "cues": [
+        {"at": 0.012, "photos": ["B13", "B05"], "lines": ["Mình thương nhau", "từ những điều rất nhỏ."]},
+        {"at": 0.64, "lines": ["Một cái nắm tay", "cũng đủ để yên lòng."]}
+      ]
+    },
+    {
+      "title": "Gói Con Tim Làm Quà", "artist": "Nguyễn Hùng · OST Bò Sữa Bay", "file": "GÓI CON TIM LÀM QUÀ ('BÒ SỮA BAY' OST) LYRICS - NGUYỄN HÙNG.mp3",
+      "chapter": "Lời hẹn dành cho nhau", "pace": 10.5, "palette": "rose",
+      "groups": ["flowers", "studio", "veil", "table"],
+      "cues": [
+        {"at": 0.03, "photos": ["B29", "B34"], "lines": ["Món quà hôm nay", "là lời hẹn của hai đứa."]},
+        {"at": 0.63, "lines": ["Mình giữ lời hẹn ấy", "bằng từng ngày bên nhau."]}
+      ]
+    },
+    {
+      "title": "Ngày Chung Đôi", "artist": "", "file": "Ngay chung doi.mp3",
+      "chapter": "Ngày chung đôi", "pace": 10.3, "palette": "wine",
+      "groups": ["red", "red", "flowers", "red", "red"],
+      "cues": [
+        {"at": 0.025, "photos": ["B17", "B19"], "lines": ["Ngày chung đôi", "của hai đứa mình."], "date": true, "transition": "flare"},
+        {"at": 0.72, "photos": ["B16", "B22"], "names": true, "eyebrow": "Ngày chung đôi", "date": true}
+      ]
+    },
+    {
+      "title": "My Love", "artist": "Westlife", "file": "Westlife - My Love (Lyrics).mp3",
+      "chapter": "Từ hôm nay, mình viết tiếp", "pace": 11.2, "palette": "ivory",
+      "groups": ["studio", "veil", "table", "flowers", "red", "table"],
+      "cues": [
+        {"at": 0.022, "photos": ["B30", "B51"], "lines": ["Chuyện của hai đứa", "còn nhiều trang để viết."]},
+        {"at": 0.65, "photos": ["B27", "B15"], "lines": ["Cảm ơn", "đã đến chung vui."], "eyebrow": "Gửi những người thương"},
+        {"at": 1, "layout": "signature", "photos": ["B47"], "names": true, "eyebrow": "Từ hôm nay", "date": true, "hold": true}
+      ]
+    }
+  ]
+}

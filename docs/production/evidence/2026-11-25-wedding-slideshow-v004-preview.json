@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-25",
+  "project": "wedding-slideshow",
+  "version": "v004-preview",
+  "subtitleFont": "Cormorant Garamond",
+  "dateFont": "Be Vietnam Pro",
+  "dateFirstFrame": 1760,
+  "dateVisuallyCheckedAt": [
+    36.8,
+    43.86
+  ],
+  "song": "Ngày Đầu Tiên",
+  "musicRangeSeconds": [
+    18.52,
+    65.56
+  ],
+  "video": "projects/wedding-slideshow/previews/v004/tu-hom-nay-v004-text.mp4",
+  "bytes": 23765872,
+  "sha256": "b8475a23002e33d7025ac0fcbb21b06188cba416259e9d1f7e1323ce59eb6dc6",
+  "duration": 47.04,
+  "frames": 2352,
+  "fps": 50,
+  "width": 1920,
+  "height": 1080,
+  "audio": "AAC 48000 Hz stereo",
+  "fullDecode": true,
+  "frameSamples": 21,
+  "videoTimestampGaps": 0,
+  "repeatFrameChecksumMatch": true,
+  "audioMinCorrelation": 0.9996667179768745,
+  "lufs": -18.96,
+  "truePeakDbtp": -10.4,
+  "sceneCount": 6,
+  "weddingDate": {
+    "from": 1760,
+    "solar": "29/11/2026",
+    "lunar": "21/10/2026"
+  },
+  "inputPhotos": 12,
+  "priorChecksumsMatched": true,
+  "continuousPlaybackOnVenueSystem": false,
+  "humanListening": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "piu-wedding-slideshow",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "preview:stills": "node src/v003/render.cjs stills",
+    "preview:render": "node src/v003/render.cjs render",
+    "preview:v004:stills": "node src/v003/render.cjs stills v004",
+    "preview:v004:render": "node src/v003/render.cjs render v004"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.540",
+    "@remotion/gsap": "4.0.540",
+    "@remotion/renderer": "4.0.540",
+    "gsap": "3.15.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540"
+  }
+}

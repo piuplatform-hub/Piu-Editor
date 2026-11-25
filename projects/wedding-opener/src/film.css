@@ -1,0 +1,155 @@
+.wedding-film {
+  background: #f0e4d3;
+  color: #322820;
+  font-family: Cormorant, Georgia, serif;
+  font-weight: 600;
+}
+
+.scene {
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.tone-paper {
+  --rule: #a2886e;
+  --mount: #fff7e9;
+  background: radial-gradient(ellipse at 26% 22%, #fbf4e9, transparent 57%), linear-gradient(122deg, #e5d8c7, #f4ece1 62%, #e9dcc9);
+}
+
+.tone-sage {
+  --rule: #8c9073;
+  --mount: #f8f8e9;
+  background: radial-gradient(ellipse at 72% 76%, #eee9da, transparent 58%), linear-gradient(132deg, #e8e8d7, #d8dac3);
+}
+
+.tone-wine {
+  --rule: #c6a084;
+  --mount: #c6a084;
+  color: #fff2df;
+  background: radial-gradient(ellipse at 66% 12%, #853740, transparent 58%), linear-gradient(141deg, #69252f, #3d1720);
+}
+
+.picture {
+  position: absolute;
+  overflow: hidden;
+}
+
+.picture img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.mounted-photo {
+  border: 2px solid var(--mount);
+  box-shadow: 0 18px 48px #361f172c;
+}
+
+.opening-photo { inset: 0 auto 0 94px; width: 1920px; }
+.opening-paper {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, #f0e4d3 0%, #f0e4d3f2 16%, #f0e4d38a 27%, #f0e4d300 40%);
+}
+
+.opener-title, .tradition-title, .closing-title, .names-title {
+  margin: 0;
+  font-weight: 600;
+}
+
+.opener-title, .tradition-title { line-height: .89; letter-spacing: -.034em; }
+.opener-title { position: absolute; top: 280px; left: 130px; font-size: 204px; }
+.opener-title span, .tradition-title span { display: block; }
+.opener-title em { font-size: 212px; }
+
+.album-photo { width: 526px; height: 789px; }
+.album-left { left: 302px; top: 128px; }
+.album-right { right: 302px; top: 162px; }
+.album-ampersand {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: var(--rule);
+  font-size: 168px;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.rule {
+  position: absolute;
+  height: 2px;
+  width: 110px;
+  background: var(--rule);
+  transform-origin: left center;
+}
+
+.album-rule-left { left: 147px; top: 128px; }
+.album-rule-right { right: 147px; bottom: 129px; transform-origin: right center; }
+.album-center-rule { left: 937px; top: 539px; width: 46px; }
+
+.portrait-wash { position: absolute; inset: 0; width: 100%; height: 100%; opacity: .26; }
+.tone-wine .portrait-wash { opacity: .15; }
+.portrait-photo { width: 624px; height: 936px; top: 72px; }
+.portrait-photo-left { left: 309px; }
+.portrait-photo-right { right: 309px; }
+.portrait-mark {
+  position: absolute;
+  top: 98px;
+  width: 624px;
+  height: 908px;
+  opacity: .47;
+  border: 1px solid var(--rule);
+}
+.portrait-mark-left { left: 279px; }
+.portrait-mark-right { right: 279px; }
+.portrait-lines {
+  position: absolute;
+  top: 530px;
+  width: 114px;
+  height: 12px;
+  border-top: 2px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  opacity: .66;
+}
+.portrait-lines-left { right: 456px; }
+.portrait-lines-right { left: 456px; }
+
+.wide-photo { inset: 0; }
+.wide-shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, #24191012, transparent 35%, transparent 78%, #24191018);
+}
+
+.tradition-photo { top: 57px; right: 161px; width: 644px; height: 966px; }
+.tradition-title { position: absolute; top: 288px; left: 145px; font-size: 194px; }
+.tradition-rule { left: 145px; top: 742px; width: 147px; }
+
+.closing-photo { top: 72px; left: 145px; width: 624px; height: 936px; }
+.closing-message {
+  position: absolute;
+  left: 865px;
+  right: 72px;
+  top: 0;
+  height: 100%;
+  padding: 90px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.closing-title, .names-title { color: #5c2028; }
+.closing-title { font-size: 244px; line-height: 1.19; letter-spacing: -.045em; }
+.names-title { line-height: 1.05; letter-spacing: -.032em; }
+.names-title span { display: block; }
+.names-title .name-joiner { font-size: 61px; font-weight: 500; line-height: 1.15; }
+.closing-copy, .closing-date {
+  font: 500 48px/1.58 BeVietnam, sans-serif;
+  margin: 18px 0 0;
+}
+.closing-copy-with-names { font-size: 38px; }
+.closing-date { font-size: 41px; letter-spacing: .07em; }
+.closing-rule { width: 146px; height: 2px; background: var(--rule); margin-top: 51px; }
